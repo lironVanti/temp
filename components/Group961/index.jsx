@@ -13,20 +13,20 @@ function Group961(props) {
 
   return (
     <Group9611 className={`group-961 ${className || ""}`}>
-      <OverlapGroup2 className="overlap-group2">
-        <OverlapGroup1 className="overlap-group1-2">
+      <OverlapGroup2 className="overlap-group2-1">
+        <OverlapGroup1 className="overlap-group1-4">
           <Group866 className="group-866" src="/img/group-866@2x.svg" />
-          <OverlapGroup className="overlap-group-5">
+          <OverlapGroup className="overlap-group-10">
             <ButtonsMain className="buttons-main-1"></ButtonsMain>
-            <RemindMeLater className="remind-me-later">Remind Me Later</RemindMeLater>
+            <RemindMeLater className="remind-me-later-1">Remind Me Later</RemindMeLater>
             <Vector32 className="vector-32-1" src="/img/vector-32@2x.svg" />
           </OverlapGroup>
           <FixIt className="fix-it">FIX IT</FixIt>
         </OverlapGroup1>
         <Text1 className="text-1-1">
           <span>
-            <span className="span0-5 poppins-semi-bold-sasquatch-socks-18px">Low</span>
-            <span className="span1-5 poppins-normal-sasquatch-socks-18px"> Severity Data Drift Detected</span>
+            <span className="span0-6 poppins-semi-bold-sasquatch-socks-18px">Low</span>
+            <span className="span1-6 poppins-normal-sasquatch-socks-18px"> Severity Data Drift Detected</span>
             <span className="span2-3 poppins-normal-shuttle-gray-18px">&nbsp;</span>
             <span className="span3-3 poppins-normal-sasquatch-socks-18px">
               in Station cndscnkd

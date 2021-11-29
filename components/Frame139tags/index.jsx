@@ -17,18 +17,21 @@ function Frame139tags(props) {
 const Frame139tags1 = styled.div`
   height: 26px;
   margin-top: 14px;
-  margin-right: 39px;
+  margin-right: 37px;
   display: flex;
   align-items: center;
   min-width: 119px;
 
   &.frame-139tags.frame-280-variant5 {
-    margin-right: 37px;
+    margin-right: 35px;
     min-width: 121px;
   }
 
+  &.frame-139tags.frame-139tags-1 {
+    margin-right: 39px;
+  }
+
   &.frame-139tags.frame-280-variant5-1 {
-    margin-right: 37px;
     min-width: 121px;
   }
 `;

@@ -7,27 +7,27 @@ function Group26(props) {
   const { className } = props;
 
   return (
-    <Group261 className={`group-26-1 ${className || ""}`}>
-      <Ellipse12 className="ellipse-12-1" src="/img/ellipse-12@2x.png" />
-      <Group30 className="group-30-1">
-        <FlexRow className="flex-row-3">
-          <JohnSmith className="john-smith-2">Jen Conner</JohnSmith>
-          <Triangle className="triangle-1" src="/img/triangle@2x.svg" />
+    <Group261 className={`group-26 ${className || ""}`}>
+      <Ellipse12 className="ellipse-12" src="/img/ellipse-12@2x.png" />
+      <Group30 className="group-30">
+        <FlexRow className="flex-row">
+          <JohnSmith className="john-smith">Jen Conner</JohnSmith>
+          <Triangle className="triangle" src="/img/triangle@2x.svg" />
         </FlexRow>
-        <JohnSmith1 className="john-smith-3">Innoviz Germany</JohnSmith1>
+        <JohnSmith1 className="john-smith-1">Innoviz Germany</JohnSmith1>
       </Group30>
     </Group261>
   );
 }
 
 const Group261 = styled.div`
-  margin-left: 650px;
+  margin-left: 1568px;
   display: flex;
   align-items: center;
   min-width: 163px;
 
-  &.group-26-1.group-26-3 {
-    margin-left: 1568px;
+  &.group-26.group-26-1 {
+    margin-left: 650px;
   }
 `;
 

@@ -1,6 +1,6 @@
 import React from "react";
-import Group26 from "../Group26";
 import styled from "styled-components";
+import { PoppinsNormalWhite16px, PoppinsNormalZircon13px } from "../../styledMixins";
 
 
 function Header2(props) {
@@ -8,37 +8,51 @@ function Header2(props) {
 
   return (
     <Header className={`header-2 ${className || ""}`}>
-      <OverlapGroup12 className="overlap-group12-1">
-        <OverlapGroup className="overlap-group-8">
-          <Fill1 className="fill-1-1" src="/img/fill-1-1@2x.svg" />
-          <Group13 className="group-13-1" src="/img/group-13-1@2x.svg" />
+      <OverlapGroup10 className="overlap-group10">
+        <OverlapGroup className="overlap-group-7">
+          <Fill1 className="fill-1-1" src="/img/fill-1@2x.svg" />
+          <Group13 className="group-13-1" src="/img/group-13@2x.svg" />
         </OverlapGroup>
-        <Frame11 className="frame-11"></Frame11>
-        <Group26 />
-      </OverlapGroup12>
+        <Group26 className="group-26-3">
+          <Ellipse12 className="ellipse-12-1" src="/img/ellipse-12@2x.png" />
+          <Group30 className="group-30-1">
+            <FlexRow className="flex-row-2">
+              <JohnSmith className="john-smith-2">Jen Conner</JohnSmith>
+              <Triangle className="triangle-1" src="/img/triangle@2x.svg" />
+            </FlexRow>
+            <JohnSmith1 className="john-smith-3">Innoviz Germany</JohnSmith1>
+          </Group30>
+        </Group26>
+      </OverlapGroup10>
     </Header>
   );
 }
 
 const Header = styled.div`
+  position: fixed;
   height: 70px;
-  margin-top: 1860px;
+  top: 0;
+  left: 0;
+  z-index: 7;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   min-width: 1920px;
+
+  &.header-2.header-3 {
+    z-index: 6;
+  }
 `;
 
-const OverlapGroup12 = styled.div`
+const OverlapGroup10 = styled.div`
   height: 78px;
-  position: relative;
   margin-top: -3px;
   display: flex;
   padding: 15px 33px;
   justify-content: flex-end;
   align-items: flex-start;
   min-width: 1928px;
-  background-image: url(/img/rectangle-1@1x.svg);
+  background-image: url(/img/rectangle@1x.svg);
   background-size: 100% 100%;
 `;
 
@@ -66,15 +80,62 @@ const Group13 = styled.img`
   left: 0;
 `;
 
-const Frame11 = styled.div`
-  width: 209px;
-  height: 45px;
-  margin-left: 709px;
+const Group26 = styled.div`
+  margin-left: 1568px;
+  display: flex;
+  align-items: center;
+  min-width: 163px;
 `;
 
-const OverlapGroup13 = styled.div`
+const Ellipse12 = styled.img`
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+`;
+
+const Group30 = styled.div`
+  width: 109px;
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 44px;
+`;
+
+const FlexRow = styled.div`
+  height: 24px;
+  display: flex;
+  align-items: center;
+  min-width: 106px;
+`;
+
+const JohnSmith = styled.div`
+  ${PoppinsNormalWhite16px}
+  min-height: 24px;
+  min-width: 92px;
+  text-align: right;
+  letter-spacing: 0;
+`;
+
+const Triangle = styled.img`
+  width: 10px;
+  height: 4px;
+  margin-left: 4px;
+  margin-top: 4px;
+`;
+
+const JohnSmith1 = styled.div`
+  ${PoppinsNormalZircon13px}
+  min-height: 20px;
+  min-width: 109px;
+  opacity: 0.8;
+  text-align: right;
+  letter-spacing: 0;
+`;
+
+const OverlapGroup101 = styled.div`
   .header-2.header-3 & {
-    background-image: url(/img/rectangle-3@1x.svg);
+    background-image: url(/img/rectangle-2@1x.svg);
   }
 `;
 

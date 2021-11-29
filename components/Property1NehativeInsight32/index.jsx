@@ -5,28 +5,25 @@ import styled from "styled-components";
 function Property1NehativeInsight32(props) {
   const { className } = props;
 
-  return <Insights className={`insights-9 ${className || ""}`}></Insights>;
+  return <Insights className={`insights-3 ${className || ""}`}></Insights>;
 }
 
 const Insights = styled.div`
   position: absolute;
   width: 102px;
   height: 32px;
-  top: 0;
-  left: 82px;
-  border-radius: 30px;
+  top: 549px;
+  left: 448px;
+  border-radius: 48px;
 
-  &.insights-9.insights-10 {
-    margin-top: 46px;
-    border-radius: 48px;
-    position: unset;
-    top: unset;
-    left: unset;
+  &.insights-3.insights-4 {
+    top: 0;
+    left: 82px;
+    border-radius: 30px;
   }
 
-  &.insights-9.insights-11 {
+  &.insights-3.insights-5 {
     margin-top: 46px;
-    border-radius: 48px;
     position: unset;
     top: unset;
     left: unset;

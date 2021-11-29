@@ -8,7 +8,6 @@
   --charade: #212935;
   --concord: #7d7d7d;
   --gulf-blue: #13115b;
-  --mist-gray: #c4c4c4;
   --mystic: #e7e7ef;
   --ocean-green-pearl: #45c693;
   --oxford-blue: #394253;
@@ -25,8 +24,12 @@
   --font-size-s: 14px;
   --font-size-xl: 24px;
   --font-size-xs: 13px;
+  --font-size-xxl: 30px;
   --font-size-xxs: 12px;
-  --font-size-xxxs: 10px;
  
   --font-family-poppins: "Poppins", Helvetica;
+  --font-family-poppins-bold: "Poppins-Bold", Helvetica;
+  --font-family-poppins-light: "Poppins-Light", Helvetica;
+  --font-family-poppins-medium: "Poppins-Medium", Helvetica;
+  --font-family-poppins-semibold: "Poppins-SemiBold", Helvetica;
 }

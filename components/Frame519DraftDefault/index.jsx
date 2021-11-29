@@ -30,6 +30,14 @@ const Frame519DraftDefault1 = styled.div`
   &.frame-519-draft-default.frame-519-draft-default-2 {
     top: 928px;
   }
+
+  &.frame-519-draft-default.frame-519-draft-default-4 {
+    top: 839px;
+  }
+
+  &.frame-519-draft-default.frame-519-draft-default-5 {
+    top: 928px;
+  }
 `;
 
 export default Frame519DraftDefault;

@@ -1,35 +1,27 @@
 
 import React from "react";
 import { Switch, BrowserRouter as Router, Route } from "react-router-dom";
+import X2 from "./components/X2";
 import X5 from "./components/X5";
 import X1 from "./components/X1";
 import X7 from "./components/X7";
-import X2 from "./components/X2";
 import X6 from "./components/X6";
 
 function App() {
   return (
     <Router>
       <Switch>
+        <Route path="/2">
+          <X2 {...x2Data} />
+        </Route>
         <Route path="/5">
           <X5 {...x5Data} />
         </Route>
         <Route path="/:path(|1)">
-          <X1
-            stageName="SG_AXI"
-            state="Label"
-            group1049Props={x1Data.group1049Props}
-            frame519DraftDefaultProps={x1Data.frame519DraftDefaultProps}
-            frame519DraftDefault2Props={x1Data.frame519DraftDefault2Props}
-            frame61Props={x1Data.frame61Props}
-            frame612Props={x1Data.frame612Props}
-          />
+          <X1 {...x1Data} />
         </Route>
         <Route path="/7">
           <X7 {...x7Data} />
-        </Route>
-        <Route path="/2">
-          <X2 {...x2Data} />
         </Route>
         <Route path="/6">
           <X6 {...x6Data} />
@@ -40,6 +32,161 @@ function App() {
 }
 
 export default App;
+const header4Data = {
+    ellipse12: "/img/group-13@2x.svg",
+};
+
+const frame139tagsData = {
+    children: "Inactive 15",
+};
+
+const frame280Variant4Data = {
+    children: "Ready 12",
+};
+
+const frame280Variant42Data = {
+    children: "Vanti Model 12",
+    className: "frame-280-variant4-1",
+};
+
+const frame139tags2Data = {
+    children: "Draft 68",
+    className: "frame-280-variant5",
+};
+
+const frame518DefaultData = {
+    children: "1K",
+};
+
+const frame518Variant2Data = {
+    children: "10K",
+};
+
+const frame518Variant3Data = {
+    children: "11K",
+};
+
+const frame518Variant4Data = {
+    children: "22K",
+};
+
+const frame518Variant22Data = {
+    children: "41K",
+};
+
+const frame518Default2Data = {
+    children: "2K",
+    className: "frame-518-variant6",
+};
+
+const frame518Default3Data = {
+    children: "4K",
+    className: "frame-518-variant7",
+};
+
+const frame518Default4Data = {
+    children: "43K",
+    className: "frame-518-variant7-1",
+};
+
+const frame518Default5Data = {
+    children: "1K",
+    className: "frame-518-variant7-2",
+};
+
+const frame519Default2Data = {
+    className: "frame-519-variant2",
+};
+
+const frame519Default3Data = {
+    className: "frame-519-variant3",
+};
+
+const frame519Default4Data = {
+    className: "frame-519-variant4",
+};
+
+const frame519Default5Data = {
+    className: "frame-519-variant5",
+};
+
+const frame519Default6Data = {
+    className: "frame-519-variant6",
+};
+
+const frame519Default7Data = {
+    className: "frame-519-variant7",
+};
+
+const frame519Default8Data = {
+    className: "frame-519-variant7-1",
+};
+
+const frame519Default9Data = {
+    className: "frame-519-variant7-2",
+};
+
+const property1NehativeInsight222Data = {
+    className: "insights-1",
+};
+
+const property1NehativeInsightData = {
+    children: "Error",
+    className: "",
+};
+
+const frame519ErrorDDSDefaultData = {
+    property1NehativeInsightProps: property1NehativeInsightData,
+};
+
+const frame519Default10Data = {
+    className: "frame-519-variant7-3",
+};
+
+const frame518Default6Data = {
+    children: "9K",
+    className: "frame-518-variant7-3",
+};
+
+const frame519DraftDefault2Data = {
+    className: "frame-519-draft-default-1",
+};
+
+const frame519DraftDefault3Data = {
+    className: "frame-519-draft-default-2",
+};
+
+const x2Data = {
+    header4Props: header4Data,
+    frame139tagsProps: frame139tagsData,
+    frame280Variant4Props: frame280Variant4Data,
+    frame280Variant42Props: frame280Variant42Data,
+    frame139tags2Props: frame139tags2Data,
+    frame518DefaultProps: frame518DefaultData,
+    frame518Variant2Props: frame518Variant2Data,
+    frame518Variant3Props: frame518Variant3Data,
+    frame518Variant4Props: frame518Variant4Data,
+    frame518Variant22Props: frame518Variant22Data,
+    frame518Default2Props: frame518Default2Data,
+    frame518Default3Props: frame518Default3Data,
+    frame518Default4Props: frame518Default4Data,
+    frame518Default5Props: frame518Default5Data,
+    frame519DefaultProps: frame519Default2Data,
+    frame519Default2Props: frame519Default3Data,
+    frame519Default3Props: frame519Default4Data,
+    frame519Default4Props: frame519Default5Data,
+    frame519Default5Props: frame519Default6Data,
+    frame519Default6Props: frame519Default7Data,
+    frame519Default7Props: frame519Default8Data,
+    frame519Default8Props: frame519Default9Data,
+    property1NehativeInsight22Props: property1NehativeInsight222Data,
+    frame519ErrorDDSDefaultProps: frame519ErrorDDSDefaultData,
+    frame519Default9Props: frame519Default10Data,
+    frame518Default6Props: frame518Default6Data,
+    frame519DraftDefaultProps: frame519DraftDefault2Data,
+    frame519DraftDefault2Props: frame519DraftDefault3Data,
+};
+
 const group32Data = {
     className: "",
 };
@@ -152,95 +299,125 @@ const x5Data = {
     property112Props: property112Data,
 };
 
-const frame139tagsData = {
+const group262Data = {
+    className: "group-26-1",
+};
+
+const header3Data = {
+    group26Props: group262Data,
+};
+
+const frame139Default2Data = {
+    className: "frame-139-default-1",
+};
+
+const frame139tags3Data = {
     children: "Inactive 15",
+    className: "frame-139tags-1",
 };
 
-const frame280Variant4Data = {
+const frame280Variant62Data = {
+    className: "frame-280-variant6-1",
+};
+
+const frame280Variant43Data = {
     children: "Ready 12",
+    className: "frame-280-variant4-2",
 };
 
-const frame280Variant42Data = {
+const frame280Variant44Data = {
     children: "Vanti Model 12",
-    className: "frame-280-variant4-1",
+    className: "frame-280-variant4-3",
 };
 
-const frame139tags2Data = {
+const frame280Variant32Data = {
+    className: "frame-280-variant3-1",
+};
+
+const frame139tags4Data = {
     children: "Draft 68",
-    className: "frame-280-variant5",
+    className: "frame-280-variant5-1",
 };
 
-const frame519Default2Data = {
-    className: "frame-519-variant2",
+const frame519Default11Data = {
+    className: "frame-519-default-1",
 };
 
-const frame519Default3Data = {
-    className: "frame-519-variant3",
+const frame519Default12Data = {
+    className: "frame-519-variant2-1",
 };
 
-const frame519Default4Data = {
-    className: "frame-519-variant4",
+const frame519Default13Data = {
+    className: "frame-519-variant3-1",
 };
 
-const frame519Default5Data = {
-    className: "frame-519-variant5",
+const frame519Default14Data = {
+    className: "frame-519-variant4-1",
 };
 
-const frame519Default6Data = {
-    className: "frame-519-variant6",
+const frame519Default15Data = {
+    className: "frame-519-variant5-1",
 };
 
-const frame519Default7Data = {
-    className: "frame-519-variant7",
+const frame519Default16Data = {
+    className: "frame-519-variant6-1",
 };
 
-const frame519Default8Data = {
-    className: "frame-519-variant7-1",
+const frame519Default17Data = {
+    className: "frame-519-variant7-4",
 };
 
-const frame519Default9Data = {
-    className: "frame-519-variant7-2",
+const frame519Default18Data = {
+    className: "frame-519-variant7-5",
 };
 
-const frame518Default2Data = {
-    className: "frame-518-variant2",
-};
-
-const frame518Default3Data = {
-    className: "frame-518-variant3",
-};
-
-const frame518Default4Data = {
-    className: "frame-518-variant4",
-};
-
-const frame518Default5Data = {
-    className: "frame-518-variant5",
-};
-
-const frame518Default6Data = {
-    className: "frame-518-variant6",
+const frame519Default19Data = {
+    className: "frame-519-variant7-6",
 };
 
 const frame518Default7Data = {
-    className: "frame-518-variant7",
+    children: "21K",
+    className: "frame-518-default-1",
 };
 
 const frame518Default8Data = {
-    className: "frame-518-variant7-1",
+    children: "21K",
+    className: "frame-518-variant2",
 };
 
 const frame518Default9Data = {
-    className: "frame-518-variant7-2",
+    children: "21K",
+    className: "frame-518-variant3",
 };
 
-const property1NehativeInsightData = {
-    children: "Error",
-    className: "",
+const frame518Default10Data = {
+    children: "21K",
+    className: "frame-518-variant4",
 };
 
-const frame519ErrorDDSDefaultData = {
-    property1NehativeInsightProps: property1NehativeInsightData,
+const frame518Default11Data = {
+    children: "21K",
+    className: "frame-518-variant5",
+};
+
+const frame518Default12Data = {
+    children: "21K",
+    className: "frame-518-variant6-1",
+};
+
+const frame518Default13Data = {
+    children: "21K",
+    className: "frame-518-variant7-4",
+};
+
+const frame518Default14Data = {
+    children: "21K",
+    className: "frame-518-variant7-5",
+};
+
+const frame518Default15Data = {
+    children: "21K",
+    className: "frame-518-variant7-6",
 };
 
 const property1NehativeInsight2Data = {
@@ -255,72 +432,65 @@ const frame519ErrorDDSDefault2Data = {
 
 const property1NehativeInsight3Data = {
     children: "Error",
-    className: "insights-4",
+    className: "",
 };
 
 const frame519ErrorDDSDefault3Data = {
-    className: "frame-519-new-model-default",
+    className: "frame-519-error-dds-default-2",
     property1NehativeInsightProps: property1NehativeInsight3Data,
 };
 
-const property1NehativeInsight4Data = {
+const property1NehativeInsight5Data = {
     children: "Error",
-    className: "insights-5",
+    className: "insights-8",
 };
 
 const frame519ErrorDDSDefault4Data = {
-    className: "frame-519-error-dds-default-2",
-    property1NehativeInsightProps: property1NehativeInsight4Data,
+    className: "frame-519-new-model-default",
+    property1NehativeInsightProps: property1NehativeInsight5Data,
 };
 
-const property1NehativeInsight322Data = {
-    className: "insights-10",
+const property1NehativeInsight6Data = {
+    children: "Error",
+    className: "insights-9",
 };
 
-const frame519Default10Data = {
-    className: "frame-519-variant7-3",
+const frame519ErrorDDSDefault5Data = {
+    className: "frame-519-error-dds-default-3",
+    property1NehativeInsightProps: property1NehativeInsight6Data,
 };
 
-const frame518Default10Data = {
-    className: "frame-518-variant7-3",
+const property1NehativeInsight223Data = {
+    className: "insights-2",
 };
 
-const group1049Data = {
-    frame139tagsProps: frame139tagsData,
-    frame280Variant4Props: frame280Variant4Data,
-    frame280Variant42Props: frame280Variant42Data,
-    frame139tags2Props: frame139tags2Data,
-    frame519DefaultProps: frame519Default2Data,
-    frame519Default2Props: frame519Default3Data,
-    frame519Default3Props: frame519Default4Data,
-    frame519Default4Props: frame519Default5Data,
-    frame519Default5Props: frame519Default6Data,
-    frame519Default6Props: frame519Default7Data,
-    frame519Default7Props: frame519Default8Data,
-    frame519Default8Props: frame519Default9Data,
-    frame518DefaultProps: frame518Default2Data,
-    frame518Default2Props: frame518Default3Data,
-    frame518Default3Props: frame518Default4Data,
-    frame518Default4Props: frame518Default5Data,
-    frame518Default5Props: frame518Default6Data,
-    frame518Default6Props: frame518Default7Data,
-    frame518Default7Props: frame518Default8Data,
-    frame518Default8Props: frame518Default9Data,
-    frame519ErrorDDSDefaultProps: frame519ErrorDDSDefaultData,
-    frame519ErrorDDSDefault2Props: frame519ErrorDDSDefault2Data,
-    frame519ErrorDDSDefault3Props: frame519ErrorDDSDefault3Data,
-    frame519ErrorDDSDefault4Props: frame519ErrorDDSDefault4Data,
-    property1NehativeInsight3Props: property1NehativeInsight322Data,
-    frame519Default9Props: frame519Default10Data,
-    frame518Default9Props: frame518Default10Data,
+const frame519ReadyDefaultData = {
+    property1NehativeInsight22Props: property1NehativeInsight223Data,
 };
 
-const frame519DraftDefault2Data = {
-    className: "frame-519-draft-default-1",
+const property1NehativeInsight323Data = {
+    className: "insights-4",
 };
 
-const frame519DraftDefault3Data = {
-    className: "frame-519-draft-default-2",
+const property1NehativeInsight324Data = {
+    className: "insights-5",
+};
+
+const frame519Default20Data = {
+    className: "frame-519-variant7-7",
+};
+
+const frame518Default16Data = {
+    children: "21K",
+    className: "frame-518-variant7-7",
+};
+
+const frame519DraftDefault5Data = {
+    className: "frame-519-draft-default-4",
+};
+
+const frame519DraftDefault6Data = {
+    className: "frame-519-draft-default-5",
 };
 
 const frame61Data = {
@@ -329,21 +499,83 @@ const frame61Data = {
 
 const frame612Data = {
     spanText: <>Deployment<br />12:45 | 17 jun 21<br /></>,
-    className: "frame-68",
+    className: "frame-68-1",
 };
 
 const x1Data = {
     stageName: "SG_AXI",
-    state: "Label",
-    group1049Props: group1049Data,
-    frame519DraftDefaultProps: frame519DraftDefault2Data,
-    frame519DraftDefault2Props: frame519DraftDefault3Data,
+    number: "41",
+    number2: "103",
+    state: "1D",
+    text30: "24,088",
+    text31: "Predictions Requests",
+    text32: "+ 12%",
+    state2: "Station",
+    spanText: "Last ",
+    spanText2: "Pred",
+    spanText3: "iction",
+    spanText4: "Avg. ",
+    spanText5: "Pre",
+    spanText6: <>dictions<br /></>,
+    spanText7: "Per Day",
+    attention: "High Severity Data Drift",
+    attention2: "Data Drift Shutdown",
+    attention3: "Medium severity Data Drift",
+    attention4: "Low Severity Data Drift",
+    attention5: "Ready",
+    stage: "Create new station",
+    spanText8: "1H   ",
+    spanText9: "1D",
+    spanText10: "   1W   1M   1Y        ",
+    spanText11: "by deployment",
+    state3: "Label",
+    action: "Data Drift Detected",
+    state4: "102K",
+    spanText12: <>21 minutes ago<br /></>,
+    spanText13: "12:45 | 17 jun 21",
+    header3Props: header3Data,
+    frame139DefaultProps: frame139Default2Data,
+    frame139tagsProps: frame139tags3Data,
+    frame280Variant6Props: frame280Variant62Data,
+    frame280Variant4Props: frame280Variant43Data,
+    frame280Variant42Props: frame280Variant44Data,
+    frame280Variant3Props: frame280Variant32Data,
+    frame139tags2Props: frame139tags4Data,
+    frame519DefaultProps: frame519Default11Data,
+    frame519Default2Props: frame519Default12Data,
+    frame519Default3Props: frame519Default13Data,
+    frame519Default4Props: frame519Default14Data,
+    frame519Default5Props: frame519Default15Data,
+    frame519Default6Props: frame519Default16Data,
+    frame519Default7Props: frame519Default17Data,
+    frame519Default8Props: frame519Default18Data,
+    frame519Default9Props: frame519Default19Data,
+    frame518DefaultProps: frame518Default7Data,
+    frame518Default2Props: frame518Default8Data,
+    frame518Default3Props: frame518Default9Data,
+    frame518Default4Props: frame518Default10Data,
+    frame518Default5Props: frame518Default11Data,
+    frame518Default6Props: frame518Default12Data,
+    frame518Default7Props: frame518Default13Data,
+    frame518Default8Props: frame518Default14Data,
+    frame518Default9Props: frame518Default15Data,
+    frame519ErrorDDSDefaultProps: frame519ErrorDDSDefault2Data,
+    frame519ErrorDDSDefault2Props: frame519ErrorDDSDefault3Data,
+    frame519ErrorDDSDefault3Props: frame519ErrorDDSDefault4Data,
+    frame519ErrorDDSDefault4Props: frame519ErrorDDSDefault5Data,
+    frame519ReadyDefaultProps: frame519ReadyDefaultData,
+    property1NehativeInsight32Props: property1NehativeInsight323Data,
+    property1NehativeInsight322Props: property1NehativeInsight324Data,
+    frame519Default10Props: frame519Default20Data,
+    frame518Default10Props: frame518Default16Data,
+    frame519DraftDefaultProps: frame519DraftDefault5Data,
+    frame519DraftDefault2Props: frame519DraftDefault6Data,
     frame61Props: frame61Data,
     frame612Props: frame612Data,
 };
 
-const header3Data = {
-    className: "header-1",
+const header22Data = {
+    className: "header-3",
 };
 
 const group322Data = {
@@ -423,7 +655,7 @@ const property114Data = {
 };
 
 const x7Data = {
-    headerProps: header3Data,
+    header2Props: header22Data,
     group1082Props: group10822Data,
     group1084Props: group10842Data,
     group1083Props: group10832Data,
@@ -431,198 +663,6 @@ const x7Data = {
     group1087Props: group10872Data,
     property11Props: property113Data,
     property112Props: property114Data,
-};
-
-const header22Data = {
-    className: "header-3",
-};
-
-const frame139tags3Data = {
-    children: "Inactive 15",
-};
-
-const frame280Variant43Data = {
-    children: "Ready 12",
-};
-
-const frame280Variant44Data = {
-    children: "Vanti Model 12",
-    className: "frame-280-variant4-2",
-};
-
-const frame139tags4Data = {
-    children: "Draft 68",
-    className: "frame-280-variant5-1",
-};
-
-const frame519Default12Data = {
-    className: "frame-519-variant2-1",
-};
-
-const frame519Default13Data = {
-    className: "frame-519-variant3-1",
-};
-
-const frame519Default14Data = {
-    className: "frame-519-variant4-1",
-};
-
-const frame519Default15Data = {
-    className: "frame-519-variant5-1",
-};
-
-const frame519Default16Data = {
-    className: "frame-519-variant6-1",
-};
-
-const frame519Default17Data = {
-    className: "frame-519-variant7-4",
-};
-
-const frame519Default18Data = {
-    className: "frame-519-variant7-5",
-};
-
-const frame519Default19Data = {
-    className: "frame-519-variant7-6",
-};
-
-const frame518Default12Data = {
-    className: "frame-518-variant2-1",
-};
-
-const frame518Default13Data = {
-    className: "frame-518-variant3-1",
-};
-
-const frame518Default14Data = {
-    className: "frame-518-variant4-1",
-};
-
-const frame518Default15Data = {
-    className: "frame-518-variant5-1",
-};
-
-const frame518Default16Data = {
-    className: "frame-518-variant6-1",
-};
-
-const frame518Default17Data = {
-    className: "frame-518-variant7-4",
-};
-
-const frame518Default18Data = {
-    className: "frame-518-variant7-5",
-};
-
-const frame518Default19Data = {
-    className: "frame-518-variant7-6",
-};
-
-const property1NehativeInsight5Data = {
-    children: "Error",
-    className: "",
-};
-
-const frame519ErrorDDSDefault5Data = {
-    property1NehativeInsightProps: property1NehativeInsight5Data,
-};
-
-const property1NehativeInsight6Data = {
-    children: "Error",
-    className: "",
-};
-
-const frame519ErrorDDSDefault6Data = {
-    className: "frame-519-error-dds-default-4",
-    property1NehativeInsightProps: property1NehativeInsight6Data,
-};
-
-const property1NehativeInsight7Data = {
-    children: "Error",
-    className: "insights-6",
-};
-
-const frame519ErrorDDSDefault7Data = {
-    className: "frame-519-new-model-default-1",
-    property1NehativeInsightProps: property1NehativeInsight7Data,
-};
-
-const property1NehativeInsight8Data = {
-    children: "Error",
-    className: "insights-7",
-};
-
-const frame519ErrorDDSDefault8Data = {
-    className: "frame-519-error-dds-default-5",
-    property1NehativeInsightProps: property1NehativeInsight8Data,
-};
-
-const property1NehativeInsight324Data = {
-    className: "insights-11",
-};
-
-const frame519Default20Data = {
-    className: "frame-519-variant7-7",
-};
-
-const frame518Default20Data = {
-    className: "frame-518-variant7-7",
-};
-
-const group10492Data = {
-    className: "group-1049",
-    frame139tagsProps: frame139tags3Data,
-    frame280Variant4Props: frame280Variant43Data,
-    frame280Variant42Props: frame280Variant44Data,
-    frame139tags2Props: frame139tags4Data,
-    frame519DefaultProps: frame519Default12Data,
-    frame519Default2Props: frame519Default13Data,
-    frame519Default3Props: frame519Default14Data,
-    frame519Default4Props: frame519Default15Data,
-    frame519Default5Props: frame519Default16Data,
-    frame519Default6Props: frame519Default17Data,
-    frame519Default7Props: frame519Default18Data,
-    frame519Default8Props: frame519Default19Data,
-    frame518DefaultProps: frame518Default12Data,
-    frame518Default2Props: frame518Default13Data,
-    frame518Default3Props: frame518Default14Data,
-    frame518Default4Props: frame518Default15Data,
-    frame518Default5Props: frame518Default16Data,
-    frame518Default6Props: frame518Default17Data,
-    frame518Default7Props: frame518Default18Data,
-    frame518Default8Props: frame518Default19Data,
-    frame519ErrorDDSDefaultProps: frame519ErrorDDSDefault5Data,
-    frame519ErrorDDSDefault2Props: frame519ErrorDDSDefault6Data,
-    frame519ErrorDDSDefault3Props: frame519ErrorDDSDefault7Data,
-    frame519ErrorDDSDefault4Props: frame519ErrorDDSDefault8Data,
-    property1NehativeInsight3Props: property1NehativeInsight324Data,
-    frame519Default9Props: frame519Default20Data,
-    frame518Default9Props: frame518Default20Data,
-};
-
-const frame613Data = {
-    spanText: <>12:45 | 17 jun 21<br /></>,
-};
-
-const frame614Data = {
-    spanText: <>Deployment<br />12:45 | 17 jun 21<br /></>,
-    className: "frame-68-1",
-};
-
-const x2Data = {
-    stageName: "SG_AXI",
-    remindMeLater: "Remind Me Later",
-    learnMore: "LEARN MORE",
-    spanText: "Low",
-    spanText2: " Severity Data Drift Detected",
-    spanText3: " ",
-    spanText4: <>in Station cndscnkd<br /></>,
-    spanText5: `The data structure sent to the "predict" API has been changed. If the severity of the drift changes we will update you | 12:45, 12 July (12 min ago)`,
-    header2Props: header22Data,
-    group1049Props: group10492Data,
-    frame61Props: frame613Data,
-    frame612Props: frame614Data,
 };
 
 const property1Default2Data = {
@@ -652,13 +692,9 @@ const cluster22Data = {
     property1DefaultProps: property1Default4Data,
 };
 
-const group263Data = {
-    className: "group-26-3",
-};
-
-const header4Data = {
+const header42Data = {
     ellipse12: "/img/group-13-4@2x.svg",
-    group26Props: group263Data,
+    className: "header-1",
 };
 
 const x6Data = {
@@ -701,12 +737,12 @@ const x6Data = {
     image21032: "/img/image--210--29@2x.png",
     image21033: "/img/image--210--30@2x.png",
     visualClustering: "Visual Clustering",
-    text55: "| Each dot represents a single image.",
+    text51: "| Each dot represents a single image.",
     percent: "2.5%",
-    text53: "of the samples were predicted by the model to be failed units.",
+    text49: "of the samples were predicted by the model to be failed units.",
     improvementPossibil: "Fail Rate",
     improvementPossibil2: "Insight",
-    text54: <>Class 0 consists of Outliers only - rebuilding a model without it will result in a better model for this stage.<br /><br />Class 0 consists of Outliers only - rebuilding a model without it will result in a better model for this stage<br /><br />Class 0 consists of Outliers only - rebuilding a model without it will result in a better model for this stage</>,
+    text50: <>Class 0 consists of Outliers only - rebuilding a model without it will result in a better model for this stage.<br /><br />Class 0 consists of Outliers only - rebuilding a model without it will result in a better model for this stage<br /><br />Class 0 consists of Outliers only - rebuilding a model without it will result in a better model for this stage</>,
     trainNewModel: "Train New Model",
     spanText15: "Low",
     spanText16: " Severity Data Drift Detected ",
@@ -715,15 +751,15 @@ const x6Data = {
     live: "Live",
     trainNewModel2: "Train New Model",
     model2: "Model 2",
-    text57: "2,127",
+    text53: "2,127",
     noOfSamples: "No. of Samples",
     noOfClusters: "No. of Clusters",
     number3: "3",
     recommended: "Recommended",
     vantiNewModel: "vanti new model",
-    text58: "Supervised-efd-data-kpi-240-1231236356365361823123.csv",
+    text54: "Supervised-efd-data-kpi-240-1231236356365361823123.csv",
     number4: "0",
-    text59: "0.841",
+    text55: "0.841",
     silhouetteScore: "Silhouette Score",
     number5: "100",
     sg_Axi: "SG_AXI",
@@ -733,6 +769,6 @@ const x6Data = {
     property1DefaultProps: property1Default2Data,
     cluster2Props: cluster2Data,
     cluster22Props: cluster22Data,
-    header4Props: header4Data,
+    header4Props: header42Data,
 };
 

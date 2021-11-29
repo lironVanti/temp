@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../Header";
+import Header2 from "../Header2";
 import Group1082 from "../Group1082";
 import Group1084 from "../Group1084";
 import Group1083 from "../Group1083";
@@ -74,7 +74,7 @@ function X5(props) {
   return (
     <div className="container-center-horizontal">
       <div className="x5 screen">
-        <Header />
+        <Header2 />
         <Rectangle50></Rectangle50>
         <Group1082 group32Props={group1082Props.group32Props} />
         <Group1084 />

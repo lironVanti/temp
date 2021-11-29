@@ -13,8 +13,8 @@ function Group1082(props) {
         <Group32 className={group32Props.className} />
         <Text className="text">
           <span>
-            <span className="span0-4 poppins-normal-shuttle-gray-24px">currently</span>
-            <span className="span1-4 poppins-normal-shuttle-gray-24px">&nbsp;</span>
+            <span className="span0-5 poppins-normal-shuttle-gray-24px">currently</span>
+            <span className="span1-5 poppins-normal-shuttle-gray-24px">&nbsp;</span>
             <span className="span2-2 poppins-normal-shuttle-gray-24px">deployed</span>
             <span className="span3-2 poppins-normal-shuttle-gray-24px">:</span>
             <span className="span4-2 poppins-light-concord-24px">&nbsp;</span>

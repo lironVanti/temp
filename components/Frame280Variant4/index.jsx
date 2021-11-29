@@ -17,18 +17,22 @@ function Frame280Variant4(props) {
 const Frame280Variant41 = styled.div`
   height: 26px;
   margin-top: 15px;
-  margin-right: 52px;
+  margin-right: 50px;
   display: flex;
   align-items: center;
   min-width: 106px;
 
   &.frame-280-variant4.frame-280-variant4-1 {
     margin-top: 14px;
-    margin-right: 6px;
+    margin-right: 4px;
     min-width: 152px;
   }
 
   &.frame-280-variant4.frame-280-variant4-2 {
+    margin-right: 52px;
+  }
+
+  &.frame-280-variant4.frame-280-variant4-3 {
     margin-top: 14px;
     margin-right: 6px;
     min-width: 152px;
@@ -65,7 +69,7 @@ const Ready121 = styled.div`
 `;
 
 const Rectangle2042 = styled.div`
-  .frame-280-variant4.frame-280-variant4-2 & {
+  .frame-280-variant4.frame-280-variant4-3 & {
     background-color: var(--canary);
   }
 `;
@@ -73,7 +77,7 @@ const Rectangle2042 = styled.div`
 const Ready122 = styled.div`
   ${PoppinsNormalCharade17px}
 
-  .frame-280-variant4.frame-280-variant4-2  & {
+  .frame-280-variant4.frame-280-variant4-3  & {
     min-width: 121px;
     width: unset;
   }

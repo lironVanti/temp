@@ -4,34 +4,39 @@ import styled from "styled-components";
 
 
 function Header4(props) {
-  const { ellipse12, group26Props } = props;
+  const { ellipse12, className } = props;
 
   return (
-    <Header>
-      <OverlapGroup8>
-        <OverlapGroup>
-          <Fill1 src="/img/fill-1-1@2x.svg" />
-          <Group13 src={ellipse12} />
+    <Header className={`header ${className || ""}`}>
+      <OverlapGroup6 className="overlap-group6">
+        <OverlapGroup className="overlap-group-4">
+          <Fill1 className="fill-1" src="/img/fill-1@2x.svg" />
+          <Group13 className="group-13" src={ellipse12} />
         </OverlapGroup>
-        <Group26 className={group26Props.className} />
-      </OverlapGroup8>
+        <Group26 />
+      </OverlapGroup6>
     </Header>
   );
 }
 
 const Header = styled.div`
-  position: fixed;
   height: 70px;
-  top: 0;
-  left: 0;
-  z-index: 3;
+  margin-top: 1870px;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   min-width: 1920px;
+
+  &.header.header-1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    margin-top: unset;
+  }
 `;
 
-const OverlapGroup8 = styled.div`
+const OverlapGroup6 = styled.div`
   height: 78px;
   position: relative;
   margin-top: -3px;
@@ -40,7 +45,7 @@ const OverlapGroup8 = styled.div`
   justify-content: flex-end;
   align-items: flex-start;
   min-width: 1928px;
-  background-image: url(/img/rectangle-4@1x.svg);
+  background-image: url(/img/rectangle@1x.svg);
   background-size: 100% 100%;
 `;
 
@@ -66,6 +71,12 @@ const Group13 = styled.img`
   height: 27px;
   top: 0;
   left: 0;
+`;
+
+const OverlapGroup8 = styled.div`
+  .header.header-1 & {
+    background-image: url(/img/rectangle-4@1x.svg);
+  }
 `;
 
 export default Header4;

@@ -18,36 +18,31 @@ function Frame519ErrorDDSDefault(props) {
 const Frame519ErrorDDSDefault1 = styled.div`
   position: absolute;
   height: 47px;
-  top: 0;
-  left: 0;
+  top: 52px;
+  left: 448px;
   display: flex;
   justify-content: center;
   align-items: center;
   min-width: 100px;
 
   &.frame-519-error-dds-default.frame-519-error-dds-default-1 {
+    top: 0;
+    left: 0;
+  }
+
+  &.frame-519-error-dds-default.frame-519-error-dds-default-2 {
     top: 82px;
+    left: 0;
   }
 
   &.frame-519-error-dds-default.frame-519-new-model-default {
     top: 158px;
+    left: 0;
   }
 
-  &.frame-519-error-dds-default.frame-519-error-dds-default-2 {
+  &.frame-519-error-dds-default.frame-519-error-dds-default-3 {
     top: 237px;
-    border-radius: 22px;
-  }
-
-  &.frame-519-error-dds-default.frame-519-error-dds-default-4 {
-    top: 82px;
-  }
-
-  &.frame-519-error-dds-default.frame-519-new-model-default-1 {
-    top: 158px;
-  }
-
-  &.frame-519-error-dds-default.frame-519-error-dds-default-5 {
-    top: 237px;
+    left: 0;
     border-radius: 22px;
   }
 `;

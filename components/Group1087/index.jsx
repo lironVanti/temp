@@ -18,31 +18,31 @@ function Group1087(props) {
 
   return (
     <Group10871 className={`group-1087 ${className || ""}`}>
-      <OverlapGroup3 className="overlap-group3-1">
-        <OverlapGroup2 className="overlap-group2-1">
+      <OverlapGroup3 className="overlap-group3-2">
+        <OverlapGroup2 className="overlap-group2-2">
           <Frame542 className="frame-542">
             <Group709 />
             <Text6 className="text-6">Model Self-Monitoring</Text6>
           </Frame542>
           <Text7 className="text-7">
-            <span className="span0-6 poppins-semi-bold-caribbean-green-pearl-24px">
+            <span className="span0-7 poppins-semi-bold-caribbean-green-pearl-24px">
               70% Ratio First Prediction
               <br />
             </span>
-            <span className="span1-6 poppins-semi-bold-ocean-green-pearl-24px">68% Ratio Real Prediction</span>
+            <span className="span1-7 poppins-semi-bold-ocean-green-pearl-24px">68% Ratio Real Prediction</span>
           </Text7>
         </OverlapGroup2>
         <Text8 className="text-8">
-          <span className="span0-7 poppins-normal-shuttle-gray-13px">Ratio prediction has </span>
-          <span className="span1-7 poppins-normal-shuttle-gray-12px">slightly</span>
+          <span className="span0-8 poppins-normal-shuttle-gray-13px">Ratio prediction has </span>
+          <span className="span1-8 poppins-normal-shuttle-gray-12px">slightly</span>
           <span className="span2-4 poppins-normal-shuttle-gray-13px">
             {" "}
             changed. No immediate action is required, but we recommend a close monitoring.
           </span>
         </Text8>
       </OverlapGroup3>
-      <OverlapGroup5 className="overlap-group5-1">
-        <OverlapGroup1 className="overlap-group1-3">
+      <OverlapGroup5 className="overlap-group5-2">
+        <OverlapGroup1 className="overlap-group1-5">
           <Group714 className="group-714">
             <Group709 className={group709Props.className} />
             <ModelOptimization className="model-optimization">Model Optimization</ModelOptimization>
@@ -53,15 +53,15 @@ function Group1087(props) {
           A new model is being automatically trained to potentially improve station performance.
         </Text5>
       </OverlapGroup5>
-      <OverlapGroup4 className="overlap-group4-1">
-        <OverlapGroup className="overlap-group-6">
+      <OverlapGroup4 className="overlap-group4-2">
+        <OverlapGroup className="overlap-group-11">
           <Frame713 className="frame-713">
             <Group712 className="group-712">
               <Group711 className="group-711" src="/img/group-711@2x.svg" />
             </Group712>
             <ModelAdaptation className="model-adaptation">
-              <span className="span0-8 poppins-medium-charade-18px">Model </span>
-              <span className="span1-8 poppins-medium-charade-17px">Adaptation</span>
+              <span className="span0-9 poppins-medium-charade-18px">Model </span>
+              <span className="span1-9 poppins-medium-charade-17px">Adaptation</span>
             </ModelAdaptation>
           </Frame713>
           <Text2 className="text-2">

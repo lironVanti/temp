@@ -7,8 +7,8 @@ function Frame61(props) {
   const { spanText, className } = props;
 
   return (
-    <Frame611 className={`frame-61 ${className || ""}`}>
-      <State className="state-10">
+    <Frame611 className={`frame-61-1 ${className || ""}`}>
+      <State className="state-17">
         <span>
           <span className="span0-15 poppins-normal-charade-17px">{spanText}</span>
           <span className="span1-15 poppins-normal-charade-14px">(david r. )</span>
@@ -27,13 +27,7 @@ const Frame611 = styled.div`
   align-items: center;
   min-width: 140px;
 
-  &.frame-61.frame-68 {
-    height: 92px;
-    margin-left: 76px;
-    margin-top: -1926px;
-  }
-
-  &.frame-61.frame-68-1 {
+  &.frame-61-1.frame-68-1 {
     height: 92px;
     margin-left: 76px;
     margin-top: -1926px;
@@ -53,17 +47,7 @@ const State1 = styled.div`
   ${PoppinsNormalCharade17px}
             
             
-           .frame-61.frame-68  & {
-    height: 72px;
-  }
-`;
-
-const State2 = styled.div`
-  ${ValignTextMiddle}
-  ${PoppinsNormalCharade17px}
-            
-            
-           .frame-61.frame-68-1  & {
+           .frame-61-1.frame-68-1  & {
     height: 72px;
   }
 `;

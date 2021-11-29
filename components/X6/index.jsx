@@ -65,12 +65,12 @@ function X6(props) {
     image21032,
     image21033,
     visualClustering,
-    text55,
+    text51,
     percent,
-    text53,
+    text49,
     improvementPossibil,
     improvementPossibil2,
-    text54,
+    text50,
     trainNewModel,
     spanText15,
     spanText16,
@@ -79,15 +79,15 @@ function X6(props) {
     live,
     trainNewModel2,
     model2,
-    text57,
+    text53,
     noOfSamples,
     noOfClusters,
     number3,
     recommended,
     vantiNewModel,
-    text58,
+    text54,
     number4,
-    text59,
+    text55,
     silhouetteScore,
     number5,
     sg_Axi,
@@ -115,16 +115,16 @@ function X6(props) {
                       <Group875>
                         <FlexCol>
                           <FlexCol1>
-                            <Text48>
+                            <Text44>
                               <span className="poppins-normal-charade-17px">{spanText}</span>
                               <span className="poppins-normal-oxford-blue-12px-2">{spanText2}</span>
-                            </Text48>
+                            </Text44>
                             <Div src="/img/div-12@1x.svg" />
                           </FlexCol1>
                           <FlexRow1>
                             <Number>{number}</Number>
                             <Property1Default />
-                            <Text49>
+                            <Text45>
                               <span>
                                 <span className="poppins-normal-oxford-blue-14px">{spanText3}</span>
                                 <span className="poppins-semi-bold-oxford-blue-14px">{spanText4}</span>
@@ -134,7 +134,7 @@ function X6(props) {
                                 <span className="poppins-semi-bold-oxford-blue-14px">{spanText8}</span>
                                 <span className="poppins-normal-oxford-blue-14px">{spanText9}</span>
                               </span>
-                            </Text49>
+                            </Text45>
                             <Image21011 src={image21011} />
                             <Image21012 src={image21012} />
                             <Image21012 src={image21013} />
@@ -152,13 +152,13 @@ function X6(props) {
                         <FlexRow2>
                           <Number1>{number2}</Number1>
                           <Property1Default className={property1DefaultProps.className} />
-                          <Text50>
+                          <Text46>
                             <span className="poppins-normal-oxford-blue-14px">{spanText10}</span>
                             <span className="poppins-semi-bold-oxford-blue-14px">{spanText11}</span>
                             <span className="poppins-normal-oxford-blue-14px">{spanText12}</span>
                             <span className="poppins-semi-bold-oxford-blue-14px">{spanText13}</span>
                             <span className="poppins-normal-oxford-blue-14px">{spanText14}</span>
-                          </Text50>
+                          </Text46>
                           <Image21014 src={image21014} />
                           <Image21012 src={image21015} />
                           <Image21012 src={image21016} />
@@ -203,7 +203,7 @@ function X6(props) {
                             <Vector src="/img/vector@2x.svg" />
                           </OverlapGroup1>
                         </Group685>
-                        <Text55>{text55}</Text55>
+                        <Text51>{text51}</Text51>
                       </OverlapGroup2>
                     </FlexRow4>
                     <OverlapGroup4>
@@ -213,11 +213,11 @@ function X6(props) {
                   <Group878>
                     <OverlapGroup11>
                       <Percent>{percent}</Percent>
-                      <Text53>{text53}</Text53>
+                      <Text49>{text49}</Text49>
                       <ImprovementPossibil>{improvementPossibil}</ImprovementPossibil>
                       <ImprovementPossibil1>{improvementPossibil2}</ImprovementPossibil1>
                     </OverlapGroup11>
-                    <Text54>{text54}</Text54>
+                    <Text50>{text50}</Text50>
                   </Group878>
                 </FlexRow3>
               </Group879>
@@ -226,13 +226,13 @@ function X6(props) {
                   <Group866 src="/img/group-866-3@2x.svg" />
                   <TrainNewModel>{trainNewModel}</TrainNewModel>
                 </Group956>
-                <Text56>
+                <Text52>
                   <span>
                     <span className="poppins-semi-bold-sasquatch-socks-18px">{spanText15}</span>
                     <span className="poppins-normal-sasquatch-socks-18px">{spanText16}</span>
                     <span className="poppins-normal-shuttle-gray-14px">{spanText17}</span>
                   </span>
-                </Text56>
+                </Text52>
               </OverlapGroup41>
               <Model1>{model1}</Model1>
               <Group130>
@@ -252,7 +252,7 @@ function X6(props) {
                       <FlexCol2>
                         <Model2>{model2}</Model2>
                         <OverlapGroup42>
-                          <Text57>{text57}</Text57>
+                          <Text53>{text53}</Text53>
                           <NoOfSamples>{noOfSamples}</NoOfSamples>
                         </OverlapGroup42>
                         <OverlapGroup31>
@@ -273,7 +273,7 @@ function X6(props) {
                           </OverlapGroup21>
                         </FlexRow5>
                         <OverlapGroup51>
-                          <Text58>{text58}</Text58>
+                          <Text54>{text54}</Text54>
                           <Group201>
                             <Number3>{number4}</Number3>
                             <OverlapGroup12>
@@ -281,7 +281,7 @@ function X6(props) {
                                 <Ellipse76 src="/img/ellipse-76@2x.svg" />
                                 <Ellipse78 src="/img/ellipse-78@2x.svg" />
                               </OverlapGroup8>
-                              <Text59>{text59}</Text59>
+                              <Text55>{text55}</Text55>
                               <Group150>
                                 <SilhouetteScore>{silhouetteScore}</SilhouetteScore>
                                 <InformationButton>
@@ -319,7 +319,7 @@ function X6(props) {
           </OverlapGroup10>
         </FlexRow>
         <Rectangle130></Rectangle130>
-        <Header4 ellipse12={header4Props.ellipse12} group26Props={header4Props.group26Props} />
+        <Header4 ellipse12={header4Props.ellipse12} className={header4Props.className} />
         <Rectangle50></Rectangle50>
         <StageHeader>
           <Home src="/img/home-2@2x.svg" />
@@ -441,7 +441,7 @@ const FlexCol1 = styled.div`
   min-height: 51px;
 `;
 
-const Text48 = styled.div`
+const Text44 = styled.div`
   width: 297px;
   min-height: 26px;
   font-family: var(--font-family-poppins);
@@ -475,7 +475,7 @@ const Number = styled.div`
   letter-spacing: 0;
 `;
 
-const Text49 = styled.p`
+const Text45 = styled.p`
   ${ValignTextMiddle}
   ${PoppinsNormalOxfordBlue14px}
             width: 396px;
@@ -522,7 +522,7 @@ const Number1 = styled.div`
   letter-spacing: 0;
 `;
 
-const Text50 = styled.p`
+const Text46 = styled.p`
   ${PoppinsNormalOxfordBlue14px}
   width: 432px;
   min-height: 21px;
@@ -637,7 +637,7 @@ const Vector = styled.img`
   transform: rotate(180deg);
 `;
 
-const Text55 = styled.p`
+const Text51 = styled.p`
   ${PoppinsNormalOxfordBlue12px2}
   position: absolute;
   width: 343px;
@@ -688,14 +688,14 @@ const Percent = styled.div`
   letter-spacing: 0;
 `;
 
-const Text53 = styled.div`
+const Text49 = styled.div`
   ${ValignTextMiddle}
   position: absolute;
   width: 546px;
   height: 80px;
   top: 47px;
   left: 0;
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-light);
   font-weight: 300;
   color: var(--oxford-blue-2);
   font-size: var(--font-size-m);
@@ -720,7 +720,7 @@ const ImprovementPossibil1 = styled.div`
   letter-spacing: 0;
 `;
 
-const Text54 = styled.p`
+const Text50 = styled.p`
   ${ValignTextMiddle}
   ${PoppinsNormalOxfordBlue14px}
             width: 522px;
@@ -768,7 +768,7 @@ const TrainNewModel = styled.div`
   letter-spacing: 0;
 `;
 
-const Text56 = styled.div`
+const Text52 = styled.div`
   ${ValignTextMiddle}
   ${PoppinsSemiBoldWhite18px}
             position: absolute;
@@ -909,7 +909,7 @@ const OverlapGroup42 = styled.div`
   margin-left: 1px;
 `;
 
-const Text57 = styled.div`
+const Text53 = styled.div`
   ${PoppinsBoldOxfordBlue20px}
   position: absolute;
   top: 19px;
@@ -1031,7 +1031,7 @@ const OverlapGroup51 = styled.div`
   margin-top: 17px;
 `;
 
-const Text58 = styled.div`
+const Text54 = styled.div`
   position: absolute;
   top: 116px;
   left: 0;
@@ -1096,7 +1096,7 @@ const Ellipse78 = styled.img`
   left: 5px;
 `;
 
-const Text59 = styled.div`
+const Text55 = styled.div`
   ${PoppinsBoldOxfordBlue36px2}
   position: absolute;
   top: 28px;
