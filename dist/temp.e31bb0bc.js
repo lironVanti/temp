@@ -36385,11 +36385,11 @@ exports.default = _default;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.ValignTextMiddle = exports.ValignTextBottom = exports.PoppinsSemiBoldWhite24px = exports.PoppinsSemiBoldWhite18px = exports.PoppinsSemiBoldShuttleGray24px = exports.PoppinsSemiBoldSasquatchSocks24px = exports.PoppinsSemiBoldSasquatchSocks18px = exports.PoppinsSemiBoldOxfordBlue14px = exports.PoppinsSemiBoldOceanGreenPearl24px = exports.PoppinsSemiBoldGulfBlue17px = exports.PoppinsSemiBoldCaribbeanGreenPearl2 = exports.PoppinsSemiBoldCanary24px = exports.PoppinsNormalZircon13px = exports.PoppinsNormalWhite24px = exports.PoppinsNormalWhite16px = exports.PoppinsNormalWhite13px = exports.PoppinsNormalShuttleGray24px = exports.PoppinsNormalShuttleGray18px = exports.PoppinsNormalShuttleGray17px = exports.PoppinsNormalShuttleGray14px = exports.PoppinsNormalShuttleGray13px = exports.PoppinsNormalShuttleGray12px = exports.PoppinsNormalShuttleGray10px = exports.PoppinsNormalSasquatchSocks18px = exports.PoppinsNormalSasquatchSocks17px = exports.PoppinsNormalPeriwinkle17px = exports.PoppinsNormalPeriwinkle13px = exports.PoppinsNormalOxfordBlue30px = exports.PoppinsNormalOxfordBlue17px = exports.PoppinsNormalOxfordBlue15px = exports.PoppinsNormalOxfordBlue14px = exports.PoppinsNormalOxfordBlue12px2 = exports.PoppinsNormalOxfordBlue12px = exports.PoppinsNormalGulfBlue20px = exports.PoppinsNormalGulfBlue18px = exports.PoppinsNormalGulfBlue17px = exports.PoppinsNormalGulfBlue15px = exports.PoppinsNormalGulfBlue13px = exports.PoppinsNormalCharade30px = exports.PoppinsNormalCharade24px = exports.PoppinsNormalCharade17px = exports.PoppinsNormalCharade14px = exports.PoppinsNormalCadetBlue9px = exports.PoppinsNormalCadetBlue17px = exports.PoppinsNormalBilobaFlower17px = exports.PoppinsMediumShuttleGray17px = exports.PoppinsMediumCharade18px = exports.PoppinsMediumCharade17px = exports.PoppinsLightConcord24px = exports.PoppinsBoldSasquatchSocks24px = exports.PoppinsBoldOxfordBlue50px = exports.PoppinsBoldOxfordBlue36px2 = exports.PoppinsBoldOxfordBlue36px = exports.PoppinsBoldOxfordBlue30px = exports.PoppinsBoldOxfordBlue20px = exports.PoppinsBoldCharade30px = exports.PoppinsBoldCharade17px = exports.Border7pxSasquatchSocks2 = exports.Border1pxMystic = void 0;
+exports.ValignTextMiddle = exports.ValignTextBottom = exports.PoppinsSemiBoldWhite24px = exports.PoppinsSemiBoldWhite18px = exports.PoppinsSemiBoldShuttleGray24px = exports.PoppinsSemiBoldSasquatchSocks24px = exports.PoppinsSemiBoldSasquatchSocks18px = exports.PoppinsSemiBoldOxfordBlue14px = exports.PoppinsSemiBoldOceanGreenPearl24px = exports.PoppinsSemiBoldGulfBlue17px = exports.PoppinsSemiBoldCaribbeanGreenPearl2 = exports.PoppinsSemiBoldCanary24px = exports.PoppinsNormalZircon13px = exports.PoppinsNormalWhite24px = exports.PoppinsNormalWhite16px = exports.PoppinsNormalWhite13px = exports.PoppinsNormalShuttleGray24px = exports.PoppinsNormalShuttleGray18px = exports.PoppinsNormalShuttleGray17px = exports.PoppinsNormalShuttleGray14px = exports.PoppinsNormalShuttleGray13px = exports.PoppinsNormalShuttleGray12px = exports.PoppinsNormalShuttleGray10px = exports.PoppinsNormalSasquatchSocks18px = exports.PoppinsNormalSasquatchSocks17px = exports.PoppinsNormalPeriwinkle17px = exports.PoppinsNormalPeriwinkle13px = exports.PoppinsNormalOxfordBlue30px = exports.PoppinsNormalOxfordBlue17px = exports.PoppinsNormalOxfordBlue15px = exports.PoppinsNormalOxfordBlue14px = exports.PoppinsNormalOxfordBlue12px2 = exports.PoppinsNormalOxfordBlue12px = exports.PoppinsNormalGulfBlue20px = exports.PoppinsNormalGulfBlue18px = exports.PoppinsNormalGulfBlue17px = exports.PoppinsNormalGulfBlue15px = exports.PoppinsNormalGulfBlue13px = exports.PoppinsNormalCharade30px = exports.PoppinsNormalCharade24px = exports.PoppinsNormalCharade17px = exports.PoppinsNormalCharade14px = exports.PoppinsNormalCadetBlue9px = exports.PoppinsNormalCadetBlue17px = exports.PoppinsNormalBilobaFlower17px = exports.PoppinsMediumShuttleGray17px = exports.PoppinsMediumGulfBlue17px = exports.PoppinsMediumCharade18px = exports.PoppinsMediumCharade17px = exports.PoppinsLightConcord24px = exports.PoppinsBoldSasquatchSocks24px = exports.PoppinsBoldOxfordBlue50px = exports.PoppinsBoldOxfordBlue36px2 = exports.PoppinsBoldOxfordBlue36px = exports.PoppinsBoldOxfordBlue30px = exports.PoppinsBoldOxfordBlue20px = exports.PoppinsBoldCharade30px = exports.PoppinsBoldCharade17px = exports.Border7pxSasquatchSocks2 = exports.Border1pxMystic = void 0;
 
 var _styledComponents = require("styled-components");
 
-var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10, _templateObject11, _templateObject12, _templateObject13, _templateObject14, _templateObject15, _templateObject16, _templateObject17, _templateObject18, _templateObject19, _templateObject20, _templateObject21, _templateObject22, _templateObject23, _templateObject24, _templateObject25, _templateObject26, _templateObject27, _templateObject28, _templateObject29, _templateObject30, _templateObject31, _templateObject32, _templateObject33, _templateObject34, _templateObject35, _templateObject36, _templateObject37, _templateObject38, _templateObject39, _templateObject40, _templateObject41, _templateObject42, _templateObject43, _templateObject44, _templateObject45, _templateObject46, _templateObject47, _templateObject48, _templateObject49, _templateObject50, _templateObject51, _templateObject52, _templateObject53, _templateObject54, _templateObject55, _templateObject56, _templateObject57, _templateObject58, _templateObject59;
+var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10, _templateObject11, _templateObject12, _templateObject13, _templateObject14, _templateObject15, _templateObject16, _templateObject17, _templateObject18, _templateObject19, _templateObject20, _templateObject21, _templateObject22, _templateObject23, _templateObject24, _templateObject25, _templateObject26, _templateObject27, _templateObject28, _templateObject29, _templateObject30, _templateObject31, _templateObject32, _templateObject33, _templateObject34, _templateObject35, _templateObject36, _templateObject37, _templateObject38, _templateObject39, _templateObject40, _templateObject41, _templateObject42, _templateObject43, _templateObject44, _templateObject45, _templateObject46, _templateObject47, _templateObject48, _templateObject49, _templateObject50, _templateObject51, _templateObject52, _templateObject53, _templateObject54, _templateObject55, _templateObject56, _templateObject57, _templateObject58, _templateObject59, _templateObject60;
 
 function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
@@ -36409,50 +36409,50 @@ var PoppinsNormalShuttleGray14px = (0, _styledComponents.css)(_templateObject7 |
 exports.PoppinsNormalShuttleGray14px = PoppinsNormalShuttleGray14px;
 var PoppinsNormalOxfordBlue14px = (0, _styledComponents.css)(_templateObject8 || (_templateObject8 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue-2);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-s);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalOxfordBlue14px = PoppinsNormalOxfordBlue14px;
-var PoppinsNormalGulfBlue17px = (0, _styledComponents.css)(_templateObject9 || (_templateObject9 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
-exports.PoppinsNormalGulfBlue17px = PoppinsNormalGulfBlue17px;
-var PoppinsBoldOxfordBlue30px = (0, _styledComponents.css)(_templateObject10 || (_templateObject10 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins-bold);\n  font-size: var(--font-size-xxl);\n  font-weight: 700;\n  font-style: normal;\n"])));
-exports.PoppinsBoldOxfordBlue30px = PoppinsBoldOxfordBlue30px;
-var PoppinsNormalOxfordBlue17px = (0, _styledComponents.css)(_templateObject11 || (_templateObject11 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalOxfordBlue17px = (0, _styledComponents.css)(_templateObject9 || (_templateObject9 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalOxfordBlue17px = PoppinsNormalOxfordBlue17px;
+var PoppinsNormalGulfBlue17px = (0, _styledComponents.css)(_templateObject10 || (_templateObject10 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
+exports.PoppinsNormalGulfBlue17px = PoppinsNormalGulfBlue17px;
+var PoppinsBoldOxfordBlue30px = (0, _styledComponents.css)(_templateObject11 || (_templateObject11 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins-bold);\n  font-size: var(--font-size-xxl);\n  font-weight: 700;\n  font-style: normal;\n"])));
+exports.PoppinsBoldOxfordBlue30px = PoppinsBoldOxfordBlue30px;
 var PoppinsSemiBoldOxfordBlue14px = (0, _styledComponents.css)(_templateObject12 || (_templateObject12 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue-2);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-s);\n  font-weight: 600;\n  font-style: normal;\n"])));
 exports.PoppinsSemiBoldOxfordBlue14px = PoppinsSemiBoldOxfordBlue14px;
 var PoppinsNormalShuttleGray24px = (0, _styledComponents.css)(_templateObject13 || (_templateObject13 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xl);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalShuttleGray24px = PoppinsNormalShuttleGray24px;
-var PoppinsNormalSasquatchSocks17px = (0, _styledComponents.css)(_templateObject14 || (_templateObject14 = _taggedTemplateLiteral(["\n  color: var(--sasquatch-socks);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
-exports.PoppinsNormalSasquatchSocks17px = PoppinsNormalSasquatchSocks17px;
-var PoppinsNormalPeriwinkle17px = (0, _styledComponents.css)(_templateObject15 || (_templateObject15 = _taggedTemplateLiteral(["\n  color: var(--periwinkle);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
-exports.PoppinsNormalPeriwinkle17px = PoppinsNormalPeriwinkle17px;
-var PoppinsMediumCharade18px = (0, _styledComponents.css)(_templateObject16 || (_templateObject16 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins-medium);\n  font-size: var(--font-size-l);\n  font-weight: 500;\n  font-style: normal;\n"])));
-exports.PoppinsMediumCharade18px = PoppinsMediumCharade18px;
-var PoppinsNormalShuttleGray13px = (0, _styledComponents.css)(_templateObject17 || (_templateObject17 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
-exports.PoppinsNormalShuttleGray13px = PoppinsNormalShuttleGray13px;
-var PoppinsNormalWhite13px = (0, _styledComponents.css)(_templateObject18 || (_templateObject18 = _taggedTemplateLiteral(["\n  color: var(--white);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
-exports.PoppinsNormalWhite13px = PoppinsNormalWhite13px;
-var PoppinsNormalWhite16px = (0, _styledComponents.css)(_templateObject19 || (_templateObject19 = _taggedTemplateLiteral(["\n  color: var(--white);\n  font-family: var(--font-family-poppins);\n  font-size: 16px;\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalWhite16px = (0, _styledComponents.css)(_templateObject14 || (_templateObject14 = _taggedTemplateLiteral(["\n  color: var(--white);\n  font-family: var(--font-family-poppins);\n  font-size: 16px;\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalWhite16px = PoppinsNormalWhite16px;
+var PoppinsNormalSasquatchSocks17px = (0, _styledComponents.css)(_templateObject15 || (_templateObject15 = _taggedTemplateLiteral(["\n  color: var(--sasquatch-socks);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
+exports.PoppinsNormalSasquatchSocks17px = PoppinsNormalSasquatchSocks17px;
+var PoppinsNormalPeriwinkle17px = (0, _styledComponents.css)(_templateObject16 || (_templateObject16 = _taggedTemplateLiteral(["\n  color: var(--periwinkle);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
+exports.PoppinsNormalPeriwinkle17px = PoppinsNormalPeriwinkle17px;
+var PoppinsMediumCharade18px = (0, _styledComponents.css)(_templateObject17 || (_templateObject17 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-l);\n  font-weight: 500;\n  font-style: normal;\n"])));
+exports.PoppinsMediumCharade18px = PoppinsMediumCharade18px;
+var PoppinsNormalShuttleGray13px = (0, _styledComponents.css)(_templateObject18 || (_templateObject18 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
+exports.PoppinsNormalShuttleGray13px = PoppinsNormalShuttleGray13px;
+var PoppinsNormalWhite13px = (0, _styledComponents.css)(_templateObject19 || (_templateObject19 = _taggedTemplateLiteral(["\n  color: var(--white);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
+exports.PoppinsNormalWhite13px = PoppinsNormalWhite13px;
 var PoppinsNormalSasquatchSocks18px = (0, _styledComponents.css)(_templateObject20 || (_templateObject20 = _taggedTemplateLiteral(["\n  color: var(--sasquatch-socks);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-l);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalSasquatchSocks18px = PoppinsNormalSasquatchSocks18px;
 var PoppinsNormalCharade30px = (0, _styledComponents.css)(_templateObject21 || (_templateObject21 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xxl);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalCharade30px = PoppinsNormalCharade30px;
-var PoppinsNormalBilobaFlower17px = (0, _styledComponents.css)(_templateObject22 || (_templateObject22 = _taggedTemplateLiteral(["\n  color: var(--biloba-flower);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
-exports.PoppinsNormalBilobaFlower17px = PoppinsNormalBilobaFlower17px;
-var PoppinsSemiBoldWhite24px = (0, _styledComponents.css)(_templateObject23 || (_templateObject23 = _taggedTemplateLiteral(["\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
-exports.PoppinsSemiBoldWhite24px = PoppinsSemiBoldWhite24px;
-var PoppinsMediumCharade17px = (0, _styledComponents.css)(_templateObject24 || (_templateObject24 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins-medium);\n  font-size: var(--font-size-m);\n  font-weight: 500;\n  font-style: normal;\n"])));
-exports.PoppinsMediumCharade17px = PoppinsMediumCharade17px;
-var PoppinsMediumShuttleGray17px = (0, _styledComponents.css)(_templateObject25 || (_templateObject25 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins-medium);\n  font-size: var(--font-size-m);\n  font-weight: 500;\n  font-style: normal;\n"])));
-exports.PoppinsMediumShuttleGray17px = PoppinsMediumShuttleGray17px;
-var PoppinsBoldCharade17px = (0, _styledComponents.css)(_templateObject26 || (_templateObject26 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins-bold);\n  font-size: var(--font-size-m);\n  font-weight: 700;\n  font-style: normal;\n"])));
-exports.PoppinsBoldCharade17px = PoppinsBoldCharade17px;
-var PoppinsNormalShuttleGray10px = (0, _styledComponents.css)(_templateObject27 || (_templateObject27 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: 10px;\n  font-weight: 400;\n  font-style: normal;\n"])));
-exports.PoppinsNormalShuttleGray10px = PoppinsNormalShuttleGray10px;
-var PoppinsSemiBoldGulfBlue17px = (0, _styledComponents.css)(_templateObject28 || (_templateObject28 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-m);\n  font-weight: 600;\n  font-style: normal;\n"])));
-exports.PoppinsSemiBoldGulfBlue17px = PoppinsSemiBoldGulfBlue17px;
-var PoppinsBoldOxfordBlue36px = (0, _styledComponents.css)(_templateObject29 || (_templateObject29 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue-2);\n  font-family: var(--font-family-poppins-bold);\n  font-size: 36px;\n  font-weight: 700;\n  font-style: normal;\n"])));
-exports.PoppinsBoldOxfordBlue36px = PoppinsBoldOxfordBlue36px;
-var PoppinsNormalPeriwinkle13px = (0, _styledComponents.css)(_templateObject30 || (_templateObject30 = _taggedTemplateLiteral(["\n  color: var(--periwinkle);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalPeriwinkle13px = (0, _styledComponents.css)(_templateObject22 || (_templateObject22 = _taggedTemplateLiteral(["\n  color: var(--periwinkle);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalPeriwinkle13px = PoppinsNormalPeriwinkle13px;
+var PoppinsNormalBilobaFlower17px = (0, _styledComponents.css)(_templateObject23 || (_templateObject23 = _taggedTemplateLiteral(["\n  color: var(--biloba-flower);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 400;\n  font-style: normal;\n"])));
+exports.PoppinsNormalBilobaFlower17px = PoppinsNormalBilobaFlower17px;
+var PoppinsSemiBoldWhite24px = (0, _styledComponents.css)(_templateObject24 || (_templateObject24 = _taggedTemplateLiteral(["\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
+exports.PoppinsSemiBoldWhite24px = PoppinsSemiBoldWhite24px;
+var PoppinsMediumCharade17px = (0, _styledComponents.css)(_templateObject25 || (_templateObject25 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 500;\n  font-style: normal;\n"])));
+exports.PoppinsMediumCharade17px = PoppinsMediumCharade17px;
+var PoppinsMediumShuttleGray17px = (0, _styledComponents.css)(_templateObject26 || (_templateObject26 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 500;\n  font-style: normal;\n"])));
+exports.PoppinsMediumShuttleGray17px = PoppinsMediumShuttleGray17px;
+var PoppinsBoldCharade17px = (0, _styledComponents.css)(_templateObject27 || (_templateObject27 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins-bold);\n  font-size: var(--font-size-m);\n  font-weight: 700;\n  font-style: normal;\n"])));
+exports.PoppinsBoldCharade17px = PoppinsBoldCharade17px;
+var PoppinsNormalShuttleGray10px = (0, _styledComponents.css)(_templateObject28 || (_templateObject28 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: 10px;\n  font-weight: 400;\n  font-style: normal;\n"])));
+exports.PoppinsNormalShuttleGray10px = PoppinsNormalShuttleGray10px;
+var PoppinsSemiBoldGulfBlue17px = (0, _styledComponents.css)(_templateObject29 || (_templateObject29 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-m);\n  font-weight: 600;\n  font-style: normal;\n"])));
+exports.PoppinsSemiBoldGulfBlue17px = PoppinsSemiBoldGulfBlue17px;
+var PoppinsBoldOxfordBlue36px = (0, _styledComponents.css)(_templateObject30 || (_templateObject30 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue-2);\n  font-family: var(--font-family-poppins-bold);\n  font-size: 36px;\n  font-weight: 700;\n  font-style: normal;\n"])));
+exports.PoppinsBoldOxfordBlue36px = PoppinsBoldOxfordBlue36px;
 var PoppinsBoldCharade30px = (0, _styledComponents.css)(_templateObject31 || (_templateObject31 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins-bold);\n  font-size: var(--font-size-xxl);\n  font-weight: 700;\n  font-style: normal;\n"])));
 exports.PoppinsBoldCharade30px = PoppinsBoldCharade30px;
 var PoppinsNormalOxfordBlue12px = (0, _styledComponents.css)(_templateObject32 || (_templateObject32 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xxs);\n  font-weight: 400;\n  font-style: normal;\n"])));
@@ -36469,47 +36469,49 @@ var PoppinsNormalCharade14px = (0, _styledComponents.css)(_templateObject37 || (
 exports.PoppinsNormalCharade14px = PoppinsNormalCharade14px;
 var PoppinsNormalOxfordBlue15px = (0, _styledComponents.css)(_templateObject38 || (_templateObject38 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue-2);\n  font-family: var(--font-family-poppins);\n  font-size: 15px;\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalOxfordBlue15px = PoppinsNormalOxfordBlue15px;
-var PoppinsNormalGulfBlue13px = (0, _styledComponents.css)(_templateObject39 || (_templateObject39 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsMediumGulfBlue17px = (0, _styledComponents.css)(_templateObject39 || (_templateObject39 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-m);\n  font-weight: 500;\n  font-style: normal;\n"])));
+exports.PoppinsMediumGulfBlue17px = PoppinsMediumGulfBlue17px;
+var PoppinsNormalGulfBlue13px = (0, _styledComponents.css)(_templateObject40 || (_templateObject40 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalGulfBlue13px = PoppinsNormalGulfBlue13px;
-var PoppinsNormalZircon13px = (0, _styledComponents.css)(_templateObject40 || (_templateObject40 = _taggedTemplateLiteral(["\n  color: var(--zircon);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalZircon13px = (0, _styledComponents.css)(_templateObject41 || (_templateObject41 = _taggedTemplateLiteral(["\n  color: var(--zircon);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xs);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalZircon13px = PoppinsNormalZircon13px;
-var PoppinsNormalWhite24px = (0, _styledComponents.css)(_templateObject41 || (_templateObject41 = _taggedTemplateLiteral(["\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xl);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalWhite24px = (0, _styledComponents.css)(_templateObject42 || (_templateObject42 = _taggedTemplateLiteral(["\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xl);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalWhite24px = PoppinsNormalWhite24px;
-var PoppinsLightConcord24px = (0, _styledComponents.css)(_templateObject42 || (_templateObject42 = _taggedTemplateLiteral(["\n  color: var(--concord);\n  font-family: var(--font-family-poppins-light);\n  font-size: var(--font-size-xl);\n  font-weight: 300;\n  font-style: normal;\n"])));
+var PoppinsLightConcord24px = (0, _styledComponents.css)(_templateObject43 || (_templateObject43 = _taggedTemplateLiteral(["\n  color: var(--concord);\n  font-family: var(--font-family-poppins-light);\n  font-size: var(--font-size-xl);\n  font-weight: 300;\n  font-style: normal;\n"])));
 exports.PoppinsLightConcord24px = PoppinsLightConcord24px;
-var PoppinsNormalCharade24px = (0, _styledComponents.css)(_templateObject43 || (_templateObject43 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xl);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalCharade24px = (0, _styledComponents.css)(_templateObject44 || (_templateObject44 = _taggedTemplateLiteral(["\n  color: var(--charade);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xl);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalCharade24px = PoppinsNormalCharade24px;
-var PoppinsNormalGulfBlue15px = (0, _styledComponents.css)(_templateObject44 || (_templateObject44 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: 15px;\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalGulfBlue15px = (0, _styledComponents.css)(_templateObject45 || (_templateObject45 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: 15px;\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalGulfBlue15px = PoppinsNormalGulfBlue15px;
-var PoppinsNormalGulfBlue20px = (0, _styledComponents.css)(_templateObject45 || (_templateObject45 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: 20px;\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalGulfBlue20px = (0, _styledComponents.css)(_templateObject46 || (_templateObject46 = _taggedTemplateLiteral(["\n  color: var(--gulf-blue);\n  font-family: var(--font-family-poppins);\n  font-size: 20px;\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalGulfBlue20px = PoppinsNormalGulfBlue20px;
-var PoppinsNormalShuttleGray18px = (0, _styledComponents.css)(_templateObject46 || (_templateObject46 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-l);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalShuttleGray18px = (0, _styledComponents.css)(_templateObject47 || (_templateObject47 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-l);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalShuttleGray18px = PoppinsNormalShuttleGray18px;
-var PoppinsSemiBoldCaribbeanGreenPearl2 = (0, _styledComponents.css)(_templateObject47 || (_templateObject47 = _taggedTemplateLiteral(["\n  color: var(--caribbean-green-pearl);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
+var PoppinsSemiBoldCaribbeanGreenPearl2 = (0, _styledComponents.css)(_templateObject48 || (_templateObject48 = _taggedTemplateLiteral(["\n  color: var(--caribbean-green-pearl);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
 exports.PoppinsSemiBoldCaribbeanGreenPearl2 = PoppinsSemiBoldCaribbeanGreenPearl2;
-var PoppinsSemiBoldOceanGreenPearl24px = (0, _styledComponents.css)(_templateObject48 || (_templateObject48 = _taggedTemplateLiteral(["\n  color: var(--ocean-green-pearl);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
+var PoppinsSemiBoldOceanGreenPearl24px = (0, _styledComponents.css)(_templateObject49 || (_templateObject49 = _taggedTemplateLiteral(["\n  color: var(--ocean-green-pearl);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
 exports.PoppinsSemiBoldOceanGreenPearl24px = PoppinsSemiBoldOceanGreenPearl24px;
-var PoppinsSemiBoldCanary24px = (0, _styledComponents.css)(_templateObject49 || (_templateObject49 = _taggedTemplateLiteral(["\n  color: var(--canary);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
+var PoppinsSemiBoldCanary24px = (0, _styledComponents.css)(_templateObject50 || (_templateObject50 = _taggedTemplateLiteral(["\n  color: var(--canary);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
 exports.PoppinsSemiBoldCanary24px = PoppinsSemiBoldCanary24px;
-var PoppinsBoldSasquatchSocks24px = (0, _styledComponents.css)(_templateObject50 || (_templateObject50 = _taggedTemplateLiteral(["\n  color: var(--sasquatch-socks);\n  font-family: var(--font-family-poppins-bold);\n  font-size: var(--font-size-xl);\n  font-weight: 700;\n  font-style: normal;\n"])));
+var PoppinsBoldSasquatchSocks24px = (0, _styledComponents.css)(_templateObject51 || (_templateObject51 = _taggedTemplateLiteral(["\n  color: var(--sasquatch-socks);\n  font-family: var(--font-family-poppins-bold);\n  font-size: var(--font-size-xl);\n  font-weight: 700;\n  font-style: normal;\n"])));
 exports.PoppinsBoldSasquatchSocks24px = PoppinsBoldSasquatchSocks24px;
-var PoppinsSemiBoldSasquatchSocks24px = (0, _styledComponents.css)(_templateObject51 || (_templateObject51 = _taggedTemplateLiteral(["\n  color: var(--sasquatch-socks);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
+var PoppinsSemiBoldSasquatchSocks24px = (0, _styledComponents.css)(_templateObject52 || (_templateObject52 = _taggedTemplateLiteral(["\n  color: var(--sasquatch-socks);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
 exports.PoppinsSemiBoldSasquatchSocks24px = PoppinsSemiBoldSasquatchSocks24px;
-var PoppinsSemiBoldShuttleGray24px = (0, _styledComponents.css)(_templateObject52 || (_templateObject52 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
+var PoppinsSemiBoldShuttleGray24px = (0, _styledComponents.css)(_templateObject53 || (_templateObject53 = _taggedTemplateLiteral(["\n  color: var(--shuttle-gray);\n  font-family: var(--font-family-poppins-semibold);\n  font-size: var(--font-size-xl);\n  font-weight: 600;\n  font-style: normal;\n"])));
 exports.PoppinsSemiBoldShuttleGray24px = PoppinsSemiBoldShuttleGray24px;
-var PoppinsNormalOxfordBlue12px2 = (0, _styledComponents.css)(_templateObject53 || (_templateObject53 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue-2);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xxs);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalOxfordBlue12px2 = (0, _styledComponents.css)(_templateObject54 || (_templateObject54 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue-2);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xxs);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalOxfordBlue12px2 = PoppinsNormalOxfordBlue12px2;
-var PoppinsBoldOxfordBlue36px2 = (0, _styledComponents.css)(_templateObject54 || (_templateObject54 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins-bold);\n  font-size: 36px;\n  font-weight: 700;\n  font-style: normal;\n"])));
+var PoppinsBoldOxfordBlue36px2 = (0, _styledComponents.css)(_templateObject55 || (_templateObject55 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins-bold);\n  font-size: 36px;\n  font-weight: 700;\n  font-style: normal;\n"])));
 exports.PoppinsBoldOxfordBlue36px2 = PoppinsBoldOxfordBlue36px2;
-var PoppinsNormalOxfordBlue30px = (0, _styledComponents.css)(_templateObject55 || (_templateObject55 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xxl);\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalOxfordBlue30px = (0, _styledComponents.css)(_templateObject56 || (_templateObject56 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins);\n  font-size: var(--font-size-xxl);\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalOxfordBlue30px = PoppinsNormalOxfordBlue30px;
-var PoppinsBoldOxfordBlue20px = (0, _styledComponents.css)(_templateObject56 || (_templateObject56 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins-bold);\n  font-size: 20px;\n  font-weight: 700;\n  font-style: normal;\n"])));
+var PoppinsBoldOxfordBlue20px = (0, _styledComponents.css)(_templateObject57 || (_templateObject57 = _taggedTemplateLiteral(["\n  color: var(--oxford-blue);\n  font-family: var(--font-family-poppins-bold);\n  font-size: 20px;\n  font-weight: 700;\n  font-style: normal;\n"])));
 exports.PoppinsBoldOxfordBlue20px = PoppinsBoldOxfordBlue20px;
-var PoppinsNormalCadetBlue9px = (0, _styledComponents.css)(_templateObject57 || (_templateObject57 = _taggedTemplateLiteral(["\n  color: var(--cadet-blue);\n  font-family: var(--font-family-poppins);\n  font-size: 9px;\n  font-weight: 400;\n  font-style: normal;\n"])));
+var PoppinsNormalCadetBlue9px = (0, _styledComponents.css)(_templateObject58 || (_templateObject58 = _taggedTemplateLiteral(["\n  color: var(--cadet-blue);\n  font-family: var(--font-family-poppins);\n  font-size: 9px;\n  font-weight: 400;\n  font-style: normal;\n"])));
 exports.PoppinsNormalCadetBlue9px = PoppinsNormalCadetBlue9px;
-var Border1pxMystic = (0, _styledComponents.css)(_templateObject58 || (_templateObject58 = _taggedTemplateLiteral(["\n  border: 1px solid var(--mystic);\n"])));
+var Border1pxMystic = (0, _styledComponents.css)(_templateObject59 || (_templateObject59 = _taggedTemplateLiteral(["\n  border: 1px solid var(--mystic);\n"])));
 exports.Border1pxMystic = Border1pxMystic;
-var Border7pxSasquatchSocks2 = (0, _styledComponents.css)(_templateObject59 || (_templateObject59 = _taggedTemplateLiteral(["\n  border: 7px solid var(--sasquatch-socks-2);\n"])));
+var Border7pxSasquatchSocks2 = (0, _styledComponents.css)(_templateObject60 || (_templateObject60 = _taggedTemplateLiteral(["\n  border: 7px solid var(--sasquatch-socks-2);\n"])));
 exports.Border7pxSasquatchSocks2 = Border7pxSasquatchSocks2;
 },{"styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Group26/index.jsx":[function(require,module,exports) {
 "use strict";
@@ -36541,7 +36543,7 @@ function Group26(props) {
   }), /*#__PURE__*/_react.default.createElement(Group30, {
     className: "group-30"
   }, /*#__PURE__*/_react.default.createElement(FlexRow, {
-    className: "flex-row"
+    className: "flex-row-1"
   }, /*#__PURE__*/_react.default.createElement(JohnSmith, {
     className: "john-smith"
   }, "Jen Conner"), /*#__PURE__*/_react.default.createElement(Triangle, {
@@ -36552,7 +36554,7 @@ function Group26(props) {
   }, "Innoviz Germany")));
 }
 
-var Group261 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  margin-left: 1568px;\n  display: flex;\n  align-items: center;\n  min-width: 163px;\n\n  &.group-26.group-26-1 {\n    margin-left: 650px;\n  }\n"])));
+var Group261 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  margin-left: 1568px;\n  display: flex;\n  align-items: center;\n  min-width: 163px;\n\n  &.group-26.group-26-2 {\n    margin-left: 650px;\n  }\n"])));
 
 var Ellipse12 = _styledComponents.default.img(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 46px;\n  height: 46px;\n  object-fit: cover;\n"])));
 
@@ -36596,7 +36598,7 @@ function Header4(props) {
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup6, {
     className: "overlap-group6"
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup, {
-    className: "overlap-group-4"
+    className: "overlap-group-2"
   }, /*#__PURE__*/_react.default.createElement(Fill1, {
     className: "fill-1",
     src: "/img/fill-1@2x.svg"
@@ -36606,7 +36608,7 @@ function Header4(props) {
   })), /*#__PURE__*/_react.default.createElement(_Group.default, null)));
 }
 
-var Header = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 70px;\n  margin-top: 1870px;\n  display: flex;\n  justify-content: center;\n  align-items: flex-start;\n  min-width: 1920px;\n\n  &.header.header-1 {\n    position: fixed;\n    top: 0;\n    left: 0;\n    z-index: 3;\n    margin-top: unset;\n  }\n"])));
+var Header = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 70px;\n  display: flex;\n  justify-content: center;\n  align-items: flex-start;\n  min-width: 1920px;\n\n  &.header.header-1 {\n    margin-top: 1870px;\n  }\n\n  &.header.header-2 {\n    position: fixed;\n    top: 0;\n    left: 0;\n    z-index: 3;\n  }\n"])));
 
 var OverlapGroup6 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  height: 78px;\n  position: relative;\n  margin-top: -3px;\n  display: flex;\n  padding: 15px 33px;\n  justify-content: flex-end;\n  align-items: flex-start;\n  min-width: 1928px;\n  background-image: url(/img/rectangle@1x.svg);\n  background-size: 100% 100%;\n"])));
 
@@ -36616,7 +36618,7 @@ var Fill1 = _styledComponents.default.img(_templateObject4 || (_templateObject4 
 
 var Group13 = _styledComponents.default.img(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 110px;\n  height: 27px;\n  top: 0;\n  left: 0;\n"])));
 
-var OverlapGroup8 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  .header.header-1 & {\n    background-image: url(/img/rectangle-4@1x.svg);\n  }\n"])));
+var OverlapGroup8 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  .header.header-2 & {\n    background-image: url(/img/rectangle-4@1x.svg);\n  }\n"])));
 
 var _default = Header4;
 exports.default = _default;
@@ -36641,25 +36643,52 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
 function Frame139Default(props) {
-  var className = props.className;
-  return /*#__PURE__*/_react.default.createElement(Frame139Default1, {
-    className: "frame-139-default ".concat(className || "")
-  }, /*#__PURE__*/_react.default.createElement(Rectangle204, {
-    className: "rectangle-204"
-  }), /*#__PURE__*/_react.default.createElement(Live26, {
-    className: "live-26"
-  }, "Live\xA0\xA026"));
+  var children = props.children;
+  return /*#__PURE__*/_react.default.createElement(Frame139Default1, null, /*#__PURE__*/_react.default.createElement(Rectangle204, null), /*#__PURE__*/_react.default.createElement(Live26, null, children));
 }
 
-var Frame139Default1 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 20px;\n  margin-right: 63px;\n  display: flex;\n  align-items: center;\n  min-width: 93px;\n\n  &.frame-139-default.frame-139-default-1 {\n    margin-right: 65px;\n  }\n"])));
+var Frame139Default1 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 20px;\n  margin-right: 63px;\n  display: flex;\n  align-items: center;\n  min-width: 93px;\n"])));
 
 var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--caribbean-green-pearl);\n"])));
 
-var Live26 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  min-height: 26px;\n  margin-left: 11px;\n  min-width: 62px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalCharade17px);
+var Live26 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  min-height: 26px;\n  margin-left: 11px;\n  min-width: 62px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalOxfordBlue17px);
 
 var _default = Frame139Default;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame139tags/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2, _templateObject3;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Frame139tags(props) {
+  var children = props.children;
+  return /*#__PURE__*/_react.default.createElement(Frame139tags1, null, /*#__PURE__*/_react.default.createElement(Rectangle204, null), /*#__PURE__*/_react.default.createElement(Inactive15, null, children));
+}
+
+var Frame139tags1 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 14px;\n  margin-right: 37px;\n  display: flex;\n  align-items: center;\n  min-width: 119px;\n"])));
+
+var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--cadet-blue);\n"])));
+
+var Inactive15 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  min-height: 26px;\n  margin-left: 11px;\n  min-width: 88px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalOxfordBlue17px);
+
+var _default = Frame139tags;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame139tags2/index.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -36679,33 +36708,700 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
-function Frame139tags(props) {
+function Frame139tags2(props) {
   var children = props.children,
       className = props.className;
-  return /*#__PURE__*/_react.default.createElement(Frame139tags1, {
-    className: "frame-139tags ".concat(className || "")
+  return /*#__PURE__*/_react.default.createElement(Frame280Variant5, {
+    className: "frame-280-variant5 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(Rectangle204, {
-    className: "rectangle-204-1"
-  }), /*#__PURE__*/_react.default.createElement(Inactive15, {
-    className: "inactive-15"
+    className: "rectangle-204-2"
+  }), /*#__PURE__*/_react.default.createElement(Draft68, {
+    className: "draft-68"
   }, children));
 }
 
-var Frame139tags1 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 14px;\n  margin-right: 37px;\n  display: flex;\n  align-items: center;\n  min-width: 119px;\n\n  &.frame-139tags.frame-280-variant5 {\n    margin-right: 35px;\n    min-width: 121px;\n  }\n\n  &.frame-139tags.frame-139tags-1 {\n    margin-right: 39px;\n  }\n\n  &.frame-139tags.frame-280-variant5-1 {\n    min-width: 121px;\n  }\n"])));
+var Frame280Variant5 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 14px;\n  margin-right: 35px;\n  display: flex;\n  align-items: center;\n  min-width: 121px;\n\n  &.frame-280-variant5.frame-139tags-1 {\n    margin-right: 37px;\n    min-width: 119px;\n  }\n\n  &.frame-280-variant5.frame-139tags-2 {\n    margin-right: 39px;\n    min-width: 119px;\n  }\n\n  &.frame-280-variant5.frame-280-variant5-2 {\n    margin-right: 37px;\n  }\n"])));
 
-var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--cadet-blue);\n"])));
+var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--periwinkle);\n"])));
 
-var Inactive15 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  min-height: 26px;\n  margin-left: 11px;\n  min-width: 88px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalCharade17px);
+var Draft68 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  width: 90px;\n  min-height: 26px;\n  margin-left: 11px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalCharade17px);
 
-var Rectangle2041 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  .frame-139tags.frame-280-variant5 & {\n    background-color: var(--periwinkle);\n  }\n"])));
+var Rectangle2041 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  .frame-280-variant5.frame-139tags-1 & {\n    background-color: var(--cadet-blue);\n  }\n"])));
 
-var Draft68 = _styledComponents.default.div(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-139tags.frame-280-variant5  & {\n    width: 90px;\n    min-width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
+var Inactive15 = _styledComponents.default.div(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-280-variant5.frame-139tags-1  & {\n    min-width: 88px;\n    width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
 
-var Rectangle2042 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  .frame-139tags.frame-280-variant5-1 & {\n    background-color: var(--periwinkle);\n  }\n"])));
+var Rectangle2042 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  .frame-280-variant5.frame-139tags-2 & {\n    background-color: var(--cadet-blue);\n  }\n"])));
 
-var Draft681 = _styledComponents.default.div(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-139tags.frame-280-variant5-1  & {\n    width: 90px;\n    min-width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
+var Inactive151 = _styledComponents.default.div(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-280-variant5.frame-139tags-2  & {\n    min-width: 88px;\n    width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
 
-var _default = Frame139tags;
+var _default = Frame139tags2;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Default/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10, _templateObject11, _templateObject12, _templateObject13, _templateObject14, _templateObject15, _templateObject16, _templateObject17, _templateObject18, _templateObject19, _templateObject20;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Frame518Default(props) {
+  var children = props.children,
+      className = props.className;
+  return /*#__PURE__*/_react.default.createElement(Frame518Default1, {
+    className: "frame-518-default ".concat(className || "")
+  }, /*#__PURE__*/_react.default.createElement(State, {
+    className: "state-5"
+  }, children));
+}
+
+var Frame518Default1 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 36px;\n\n  &.frame-518-default.frame-518-variant6 {\n    margin-top: 33px;\n    min-width: 40px;\n  }\n\n  &.frame-518-default.frame-518-variant7 {\n    margin-top: 33px;\n    min-width: 41px;\n  }\n\n  &.frame-518-default.frame-518-variant7-1 {\n    margin-top: 42px;\n    min-width: 51px;\n  }\n\n  &.frame-518-default.frame-518-variant7-2 {\n    margin-top: 31px;\n  }\n\n  &.frame-518-default.frame-518-variant7-3 {\n    position: absolute;\n    top: 920px;\n    left: 757px;\n    min-width: 41px;\n  }\n\n  &.frame-518-default.frame-518-variant6-1 {\n    margin-top: 33px;\n    min-width: 40px;\n  }\n\n  &.frame-518-default.frame-518-variant7-4 {\n    margin-top: 33px;\n    min-width: 41px;\n  }\n\n  &.frame-518-default.frame-518-variant7-5 {\n    margin-top: 42px;\n    min-width: 51px;\n  }\n\n  &.frame-518-default.frame-518-variant7-6 {\n    margin-top: 31px;\n  }\n\n  &.frame-518-default.frame-518-variant7-7 {\n    position: absolute;\n    top: 793px;\n    left: 704px;\n    min-width: 41px;\n  }\n\n  &.frame-518-default.frame-518-default-2 {\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant2 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant3 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant4 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant5 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant6-2 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-8 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-9 {\n    margin-top: 42px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-10 {\n    margin-top: 31px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-11 {\n    position: absolute;\n    top: 799px;\n    left: 749px;\n    min-width: 46px;\n  }\n"])));
+
+var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 16px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State1 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant6  & {\n    min-width: 20px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State2 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7  & {\n    min-width: 21px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State3 = _styledComponents.default.div(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-1  & {\n    min-width: 31px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State4 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-3  & {\n    min-width: 21px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State5 = _styledComponents.default.div(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant6-1  & {\n    min-width: 20px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State6 = _styledComponents.default.div(_templateObject8 || (_templateObject8 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-4  & {\n    min-width: 21px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State7 = _styledComponents.default.div(_templateObject9 || (_templateObject9 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-5  & {\n    min-width: 31px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State8 = _styledComponents.default.div(_templateObject10 || (_templateObject10 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-7  & {\n    min-width: 21px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State9 = _styledComponents.default.div(_templateObject11 || (_templateObject11 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-default-2  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State10 = _styledComponents.default.div(_templateObject12 || (_templateObject12 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant2  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State11 = _styledComponents.default.div(_templateObject13 || (_templateObject13 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant3  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State12 = _styledComponents.default.div(_templateObject14 || (_templateObject14 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant4  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State13 = _styledComponents.default.div(_templateObject15 || (_templateObject15 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant5  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State14 = _styledComponents.default.div(_templateObject16 || (_templateObject16 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant6-2  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State15 = _styledComponents.default.div(_templateObject17 || (_templateObject17 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-8  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State16 = _styledComponents.default.div(_templateObject18 || (_templateObject18 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-9  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State17 = _styledComponents.default.div(_templateObject19 || (_templateObject19 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-10  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var State18 = _styledComponents.default.div(_templateObject20 || (_templateObject20 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-11  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var _default = Frame518Default;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Variant2/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Frame518Variant2(props) {
+  var children = props.children,
+      className = props.className;
+  return /*#__PURE__*/_react.default.createElement(Frame518Variant21, {
+    className: "frame-518-variant2-1 ".concat(className || "")
+  }, /*#__PURE__*/_react.default.createElement(State, {
+    className: "state-6"
+  }, children));
+}
+
+var Frame518Variant21 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 35px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 47px;\n\n  &.frame-518-variant2-1.frame-518-variant5-1 {\n    margin-top: 33px;\n  }\n\n  &.frame-518-variant2-1.frame-518-variant2-2 {\n    margin-top: 33px;\n  }\n\n  &.frame-518-variant2-1.frame-518-variant5-2 {\n    margin-top: 33px;\n  }\n"])));
+
+var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 27px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var _default = Frame518Variant2;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Variant3/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2, _templateObject3, _templateObject4;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Frame518Variant3(props) {
+  var children = props.children;
+  return /*#__PURE__*/_react.default.createElement(Frame518Variant31, null, /*#__PURE__*/_react.default.createElement(State, null, children));
+}
+
+var Frame518Variant31 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 33px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 42px;\n"])));
+
+var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 22px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var Frame518Variant32 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 33px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 42px;\n"])));
+
+var State1 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 22px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var _default = Frame518Variant3;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Variant4/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2, _templateObject3, _templateObject4;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Frame518Variant4(props) {
+  var children = props.children;
+  return /*#__PURE__*/_react.default.createElement(Frame518Variant41, null, /*#__PURE__*/_react.default.createElement(State, null, children));
+}
+
+var Frame518Variant41 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 33px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 50px;\n"])));
+
+var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 30px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var Frame518Variant42 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 33px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 50px;\n"])));
+
+var State1 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 30px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
+
+var _default = Frame518Variant4;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Property1NehativeInsight32/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _templateObject;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Property1NehativeInsight32(props) {
+  var className = props.className;
+  return /*#__PURE__*/_react.default.createElement(Insights, {
+    className: "insights-3 ".concat(className || "")
+  });
+}
+
+var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 102px;\n  height: 32px;\n  top: 676px;\n  left: 501px;\n  border-radius: 48px;\n\n  &.insights-3.insights-4 {\n    top: 549px;\n    left: 448px;\n  }\n\n  &.insights-3.insights-5 {\n    top: 0;\n    left: 82px;\n    border-radius: 30px;\n  }\n\n  &.insights-3.insights-6 {\n    margin-top: 46px;\n    position: unset;\n    top: unset;\n    left: unset;\n  }\n"])));
+
+var _default = Property1NehativeInsight32;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Group1036/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Group1036() {
+  return /*#__PURE__*/_react.default.createElement(Group10361, null, /*#__PURE__*/_react.default.createElement(OverlapGroup, null, /*#__PURE__*/_react.default.createElement(Chevron, {
+    src: "/img/chevron-1@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Group277, {
+    src: "/img/group-277@2x.svg"
+  })), /*#__PURE__*/_react.default.createElement(Chevron1, {
+    src: "/img/chevron@2x.svg"
+  }));
+}
+
+var Group10361 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 16px;\n  margin-left: 26px;\n  margin-top: 3.3px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 300px;\n"])));
+
+var OverlapGroup = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 288px;\n  height: 17px;\n  position: relative;\n  margin-left: -1px;\n  margin-top: -0.46px;\n"])));
+
+var Chevron = _styledComponents.default.img(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 11px;\n  height: 10px;\n  top: 3px;\n  left: 168px;\n"])));
+
+var Group277 = _styledComponents.default.img(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 288px;\n  height: 17px;\n  top: 0;\n  left: 0;\n"])));
+
+var Chevron1 = _styledComponents.default.img(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  width: 11px;\n  height: 10px;\n  align-self: center;\n  margin-left: 2px;\n  margin-bottom: 1.3px;\n"])));
+
+var Group10362 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  height: 16px;\n  margin-left: 26px;\n  margin-top: 3.3px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 300px;\n"])));
+
+var OverlapGroup1 = _styledComponents.default.div(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  width: 288px;\n  height: 17px;\n  position: relative;\n  margin-left: -1px;\n  margin-top: -0.46px;\n"])));
+
+var Chevron2 = _styledComponents.default.img(_templateObject8 || (_templateObject8 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 11px;\n  height: 10px;\n  top: 3px;\n  left: 168px;\n"])));
+
+var Group2771 = _styledComponents.default.img(_templateObject9 || (_templateObject9 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 288px;\n  height: 17px;\n  top: 0;\n  left: 0;\n"])));
+
+var Chevron3 = _styledComponents.default.img(_templateObject10 || (_templateObject10 = _taggedTemplateLiteral(["\n  width: 11px;\n  height: 10px;\n  align-self: center;\n  margin-left: 2px;\n  margin-bottom: 1.3px;\n"])));
+
+var _default = Group1036;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Property1NehativeInsight2/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Property1NehativeInsight2(props) {
+  var className = props.className;
+  return /*#__PURE__*/_react.default.createElement(Insights, {
+    className: "insights-7 ".concat(className || "")
+  }, /*#__PURE__*/_react.default.createElement(Attention, {
+    className: "attention"
+  }, "Draft"));
+}
+
+var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 32px;\n  top: 759px;\n  left: 831px;\n  display: flex;\n  padding: 2.5px 29px;\n  align-items: flex-start;\n  min-width: 102px;\n  border-radius: 48px;\n\n  &.insights-7.insights-8 {\n    top: 838px;\n  }\n\n  &.insights-7.insights-9 {\n    top: 927px;\n  }\n"])));
+
+var Attention = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 42px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalOxfordBlue17px);
+
+var _default = Property1NehativeInsight2;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Property1NehativeInsight3/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Property1NehativeInsight3(props) {
+  var spanText = props.spanText,
+      spanText2 = props.spanText2;
+  return /*#__PURE__*/_react.default.createElement(Insights, null, /*#__PURE__*/_react.default.createElement(Attention, null, /*#__PURE__*/_react.default.createElement("span", null, /*#__PURE__*/_react.default.createElement("span", {
+    className: "poppins-normal-oxford-blue-17px"
+  }, spanText), /*#__PURE__*/_react.default.createElement("span", {
+    className: "poppins-normal-oxford-blue-17px"
+  }, spanText2))));
+}
+
+var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 33px;\n  margin-top: -1px;\n  display: flex;\n  padding: 3px 5px;\n  align-items: flex-start;\n  min-width: 102px;\n  border-radius: 42px;\n"])));
+
+var Attention = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 90px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalOxfordBlue17px);
+
+var _default = Property1NehativeInsight3;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/TestOl/TestOl.css":[function(require,module,exports) {
+var reloadCSS = require('_css_loader');
+
+module.hot.dispose(reloadCSS);
+module.hot.accept(reloadCSS);
+},{"_css_loader":"node_modules/parcel-bundler/src/builtins/css-loader.js"}],"components/TestOl/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _Header = _interopRequireDefault(require("../Header4"));
+
+var _Frame139Default = _interopRequireDefault(require("../Frame139Default"));
+
+var _Frame139tags = _interopRequireDefault(require("../Frame139tags"));
+
+var _Frame139tags2 = _interopRequireDefault(require("../Frame139tags2"));
+
+var _Frame518Default = _interopRequireDefault(require("../Frame518Default"));
+
+var _Frame518Variant = _interopRequireDefault(require("../Frame518Variant2"));
+
+var _Frame518Variant2 = _interopRequireDefault(require("../Frame518Variant3"));
+
+var _Frame518Variant3 = _interopRequireDefault(require("../Frame518Variant4"));
+
+var _Property1NehativeInsight = _interopRequireDefault(require("../Property1NehativeInsight32"));
+
+var _Group = _interopRequireDefault(require("../Group1036"));
+
+var _Property1NehativeInsight2 = _interopRequireDefault(require("../Property1NehativeInsight2"));
+
+var _Property1NehativeInsight3 = _interopRequireDefault(require("../Property1NehativeInsight3"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+require("./TestOl.css");
+
+var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10, _templateObject11, _templateObject12, _templateObject13, _templateObject14, _templateObject15, _templateObject16, _templateObject17, _templateObject18, _templateObject19, _templateObject20, _templateObject21, _templateObject22, _templateObject23, _templateObject24, _templateObject25, _templateObject26, _templateObject27, _templateObject28, _templateObject29, _templateObject30, _templateObject31, _templateObject32, _templateObject33, _templateObject34, _templateObject35, _templateObject36, _templateObject37, _templateObject38, _templateObject39, _templateObject40, _templateObject41, _templateObject42, _templateObject43, _templateObject44, _templateObject45, _templateObject46, _templateObject47, _templateObject48, _templateObject49, _templateObject50, _templateObject51, _templateObject52, _templateObject53, _templateObject54, _templateObject55, _templateObject56, _templateObject57, _templateObject58, _templateObject59, _templateObject60, _templateObject61;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function TestOl(props) {
+  var state5 = props.state5,
+      header4Props = props.header4Props,
+      frame139DefaultProps = props.frame139DefaultProps,
+      frame139tagsProps = props.frame139tagsProps,
+      frame139tags2Props = props.frame139tags2Props,
+      frame518DefaultProps = props.frame518DefaultProps,
+      frame518Variant2Props = props.frame518Variant2Props,
+      frame518Variant3Props = props.frame518Variant3Props,
+      frame518Variant4Props = props.frame518Variant4Props,
+      frame518Variant22Props = props.frame518Variant22Props,
+      frame518Default2Props = props.frame518Default2Props,
+      frame518Default3Props = props.frame518Default3Props,
+      frame518Default4Props = props.frame518Default4Props,
+      frame518Default5Props = props.frame518Default5Props,
+      frame518Default6Props = props.frame518Default6Props,
+      property1NehativeInsight2Props = props.property1NehativeInsight2Props,
+      property1NehativeInsight22Props = props.property1NehativeInsight22Props,
+      property1NehativeInsight3Props = props.property1NehativeInsight3Props;
+  return /*#__PURE__*/_react.default.createElement("div", {
+    className: "container-center-horizontal"
+  }, /*#__PURE__*/_react.default.createElement("div", {
+    className: "test-ol screen"
+  }, /*#__PURE__*/_react.default.createElement(_Header.default, {
+    ellipse12: header4Props.ellipse12
+  }), /*#__PURE__*/_react.default.createElement(OverlapGroup5, null, /*#__PURE__*/_react.default.createElement(OverlapGroup1, null, /*#__PURE__*/_react.default.createElement(Group958, null, /*#__PURE__*/_react.default.createElement(Group866, {
+    src: "/img/group-866@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(OverlapGroup, null, /*#__PURE__*/_react.default.createElement(RemindMeLater, {
+    src: "/img/remind-me-later@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Vector32Stroke, {
+    src: "/img/vector-32--stroke-@2x.svg"
+  })), /*#__PURE__*/_react.default.createElement(LEARNMORE, {
+    src: "/img/learn-more@2x.svg"
+  })), /*#__PURE__*/_react.default.createElement(Group959, {
+    src: "/img/group-959@1x.svg"
+  })), /*#__PURE__*/_react.default.createElement(Vector53, {
+    src: "/img/vector-53@2x.svg"
+  })), /*#__PURE__*/_react.default.createElement(FlexRow, null, /*#__PURE__*/_react.default.createElement(OverlapGroup7, null, /*#__PURE__*/_react.default.createElement(Group1046, null, /*#__PURE__*/_react.default.createElement(FlexCol, null, /*#__PURE__*/_react.default.createElement(Group1043, null, /*#__PURE__*/_react.default.createElement(OverlapGroup2, null, /*#__PURE__*/_react.default.createElement(Rv, {
+    src: "/img/rv@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(_Frame139Default.default, null, frame139DefaultProps.children), /*#__PURE__*/_react.default.createElement(_Frame139tags.default, null, frame139tagsProps.children), /*#__PURE__*/_react.default.createElement(Vector50Stroke, {
+    src: "/img/vector-50--stroke-@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(OverlapGroup3, null, /*#__PURE__*/_react.default.createElement(X103, {
+    src: "/img/103@2x.svg"
+  })), /*#__PURE__*/_react.default.createElement(Frame280Variant6, {
+    src: "/img/frame-280-variant6@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Frame280Variant4, {
+    src: "/img/frame-280-variant4@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Frame280Variant41, {
+    src: "/img/frame-280-variant4-1@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Frame280Variant3, {
+    src: "/img/frame-280-variant3@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(_Frame139tags2.default, null, frame139tags2Props.children))), /*#__PURE__*/_react.default.createElement(OverlapGroup4, null, /*#__PURE__*/_react.default.createElement(Rectangle368Stroke, {
+    src: "/img/rectangle-368--stroke-@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(State, {
+    src: "/img/state-2@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(X24088, {
+    src: "/img/24-088@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(PredictionsRequests, {
+    src: "/img/predictions-requests@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(X12, {
+    src: "/img/--12-@2x.svg"
+  }))), /*#__PURE__*/_react.default.createElement(OverlapGroup31, null, /*#__PURE__*/_react.default.createElement(Rectangle209Stroke, {
+    src: "/img/rectangle-209--stroke-@1x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Group1007, {
+    src: "/img/group-1007@1x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Group831, {
+    src: "/img/group-831@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Vector, {
+    src: "/img/vector@1x.svg"
+  }), /*#__PURE__*/_react.default.createElement(State1, {
+    src: "/img/state@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(SDMCS, {
+    src: "/img/sd-mcs@1x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Group844, null, /*#__PURE__*/_react.default.createElement(State2, {
+    src: "/img/state-3@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Group834, null, /*#__PURE__*/_react.default.createElement(_Frame518Default.default, null, frame518DefaultProps.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant.default, null, frame518Variant2Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant2.default, null, frame518Variant3Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant3.default, null, frame518Variant4Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant.default, {
+    className: frame518Variant22Props.className
+  }, frame518Variant22Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
+    className: frame518Default2Props.className
+  }, frame518Default2Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
+    className: frame518Default3Props.className
+  }, frame518Default3Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
+    className: frame518Default4Props.className
+  }, frame518Default4Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
+    className: frame518Default5Props.className
+  }, frame518Default5Props.children))), /*#__PURE__*/_react.default.createElement(Group842, {
+    src: "/img/group-842@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Insights, {
+    src: "/img/insights@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Insights1, {
+    src: "/img/insights-1@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight.default, null), /*#__PURE__*/_react.default.createElement(Insights2, {
+    src: "/img/insights-2@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Polygon28Stroke, {
+    src: "/img/polygon-28--stroke-@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(VectorStroke, {
+    src: "/img/vector--stroke-@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Rectangle342, {
+    src: "/img/rectangle-342-1@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Rectangle344, {
+    src: "/img/rectangle-342-1@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(State3, {
+    src: "/img/state-1@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
+    className: frame518Default6Props.className
+  }, frame518Default6Props.children), /*#__PURE__*/_react.default.createElement(Group1048, null, /*#__PURE__*/_react.default.createElement(OverlapGroup11, null, /*#__PURE__*/_react.default.createElement(Group1037, {
+    src: "/img/group-1037@2x.svg"
+  })), /*#__PURE__*/_react.default.createElement(Stage, {
+    src: "/img/stage@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(Group1039, {
+    src: "/img/group-1039@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(_Group.default, null)))), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight2.default, null), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight2.default, {
+    className: property1NehativeInsight2Props.className
+  }), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight2.default, {
+    className: property1NehativeInsight22Props.className
+  }), /*#__PURE__*/_react.default.createElement(Rectangle3421, null), /*#__PURE__*/_react.default.createElement(Rectangle343, null), /*#__PURE__*/_react.default.createElement(Rectangle3441, null), /*#__PURE__*/_react.default.createElement(State4, null, state5), /*#__PURE__*/_react.default.createElement(Frame1010, null, /*#__PURE__*/_react.default.createElement(Rectangle3431, {
+    src: "/img/rectangle-343@2x.svg"
+  }), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight3.default, {
+    spanText: property1NehativeInsight3Props.spanText,
+    spanText2: property1NehativeInsight3Props.spanText2
+  }))), /*#__PURE__*/_react.default.createElement(Rectangle194, {
+    src: "/img/rectangle-194@2x.svg"
+  }))));
+}
+
+var OverlapGroup5 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  width: 1622px;\n  height: 72px;\n  position: relative;\n  margin-top: 36px;\n"])));
+
+var OverlapGroup1 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 1622px;\n  height: 72px;\n  top: 0;\n  left: 0;\n"])));
+
+var Group958 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 72px;\n  top: 0;\n  left: 0;\n  display: flex;\n  padding: 15.8px 32px;\n  align-items: center;\n  min-width: 1622px;\n  background-image: url(/img/rectangle-338@1x.svg);\n  background-size: 100% 100%;\n"])));
+
+var Group866 = _styledComponents.default.img(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  width: 40px;\n  height: 35px;\n  align-self: flex-start;\n"])));
+
+var OverlapGroup = _styledComponents.default.div(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  height: 37px;\n  margin-left: 1124px;\n  margin-bottom: 1px;\n  display: flex;\n  padding: 10.7px 12.9px;\n  justify-content: flex-end;\n  align-items: flex-start;\n  min-width: 212px;\n  border-radius: 3px;\n"])));
+
+var RemindMeLater = _styledComponents.default.img(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  width: 148px;\n  height: 15px;\n"])));
+
+var Vector32Stroke = _styledComponents.default.img(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  width: 16px;\n  height: 9px;\n  align-self: center;\n  margin-left: 8px;\n  margin-bottom: 0.15px;\n"])));
+
+var LEARNMORE = _styledComponents.default.img(_templateObject8 || (_templateObject8 = _taggedTemplateLiteral(["\n  width: 106px;\n  height: 14px;\n  margin-left: 66px;\n  margin-top: 1.44px;\n"])));
+
+var Group959 = _styledComponents.default.img(_templateObject9 || (_templateObject9 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 988px;\n  height: 38px;\n  top: 19px;\n  left: 104px;\n"])));
+
+var Vector53 = _styledComponents.default.img(_templateObject10 || (_templateObject10 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 2px;\n  height: 56px;\n  top: 8px;\n  left: 1439px;\n"])));
+
+var FlexRow = _styledComponents.default.div(_templateObject11 || (_templateObject11 = _taggedTemplateLiteral(["\n  margin-top: 36px;\n  margin-left: 35px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 1627px;\n"])));
+
+var OverlapGroup7 = _styledComponents.default.div(_templateObject12 || (_templateObject12 = _taggedTemplateLiteral(["\n  width: 1592px;\n  height: 992px;\n  position: relative;\n"])));
+
+var Group1046 = _styledComponents.default.div(_templateObject13 || (_templateObject13 = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 992px;\n  top: 0;\n  left: 0;\n  display: flex;\n  align-items: flex-start;\n  min-width: 1592px;\n"])));
+
+var FlexCol = _styledComponents.default.div(_templateObject14 || (_templateObject14 = _taggedTemplateLiteral(["\n  width: 280px;\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n  min-height: 944px;\n"])));
+
+var Group1043 = _styledComponents.default.div(_templateObject15 || (_templateObject15 = _taggedTemplateLiteral(["\n  height: 714px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 280px;\n  background-image: url(/img/rectangle-367@1x.svg);\n  background-size: 100% 100%;\n"])));
+
+var OverlapGroup2 = _styledComponents.default.div(_templateObject16 || (_templateObject16 = _taggedTemplateLiteral(["\n  width: 280px;\n  position: relative;\n  display: flex;\n  flex-direction: column;\n  padding: 28px 28px;\n  align-items: center;\n  min-height: 714px;\n  background-image: url(/img/rectangle-367--stroke-@1x.svg);\n  background-size: 100% 100%;\n"])));
+
+var Rv = _styledComponents.default.img(_templateObject17 || (_templateObject17 = _taggedTemplateLiteral(["\n  width: 155px;\n  height: 155px;\n  margin-right: 1px;\n"])));
+
+var Vector50Stroke = _styledComponents.default.img(_templateObject18 || (_templateObject18 = _taggedTemplateLiteral(["\n  width: 218px;\n  height: 2px;\n  align-self: flex-start;\n  margin-top: 20px;\n"])));
+
+var OverlapGroup3 = _styledComponents.default.div(_templateObject19 || (_templateObject19 = _taggedTemplateLiteral(["\n  height: 155px;\n  margin-top: 27px;\n  margin-right: 1px;\n  display: flex;\n  padding: 58px 37.8px;\n  justify-content: flex-end;\n  align-items: flex-start;\n  min-width: 155px;\n  background-image: url(/img/group-1041@2x.svg);\n  background-size: 100% 100%;\n"])));
+
+var X103 = _styledComponents.default.img(_templateObject20 || (_templateObject20 = _taggedTemplateLiteral(["\n  width: 79px;\n  height: 39px;\n"])));
+
+var Frame280Variant6 = _styledComponents.default.img(_templateObject21 || (_templateObject21 = _taggedTemplateLiteral(["\n  width: 84px;\n  height: 20px;\n  align-self: flex-start;\n  margin-top: 21px;\n  margin-left: 33.52px;\n"])));
+
+var Frame280Variant4 = _styledComponents.default.img(_templateObject22 || (_templateObject22 = _taggedTemplateLiteral(["\n  width: 106px;\n  height: 26px;\n  margin-top: 18px;\n  margin-right: 50px;\n"])));
+
+var Frame280Variant41 = _styledComponents.default.img(_templateObject23 || (_templateObject23 = _taggedTemplateLiteral(["\n  width: 152px;\n  height: 26px;\n  margin-top: 14px;\n  margin-right: 4px;\n"])));
+
+var Frame280Variant3 = _styledComponents.default.img(_templateObject24 || (_templateObject24 = _taggedTemplateLiteral(["\n  width: 149px;\n  height: 26px;\n  margin-top: 14px;\n  margin-right: 7px;\n"])));
+
+var OverlapGroup4 = _styledComponents.default.div(_templateObject25 || (_templateObject25 = _taggedTemplateLiteral(["\n  width: 280px;\n  height: 206px;\n  position: relative;\n  margin-top: 24px;\n  background-image: url(/img/rectangle-368@2x.svg);\n  background-size: 100% 100%;\n"])));
+
+var Rectangle368Stroke = _styledComponents.default.img(_templateObject26 || (_templateObject26 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 280px;\n  height: 206px;\n  top: 0;\n  left: 0;\n"])));
+
+var State = _styledComponents.default.img(_templateObject27 || (_templateObject27 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 13px;\n  height: 9px;\n  top: 77px;\n  left: 222px;\n"])));
+
+var X24088 = _styledComponents.default.img(_templateObject28 || (_templateObject28 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 171px;\n  height: 45px;\n  top: 71px;\n  left: 36px;\n"])));
+
+var PredictionsRequests = _styledComponents.default.img(_templateObject29 || (_templateObject29 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 175px;\n  height: 18px;\n  top: 138px;\n  left: 38px;\n"])));
+
+var X12 = _styledComponents.default.img(_templateObject30 || (_templateObject30 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 37px;\n  height: 12px;\n  top: 97px;\n  left: 222px;\n"])));
+
+var OverlapGroup31 = _styledComponents.default.div(_templateObject31 || (_templateObject31 = _taggedTemplateLiteral(["\n  width: 1263px;\n  height: 992px;\n  position: relative;\n  margin-left: 50px;\n"])));
+
+var Rectangle209Stroke = _styledComponents.default.img(_templateObject32 || (_templateObject32 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 1262px;\n  height: 969px;\n  top: 0;\n  left: 0;\n"])));
+
+var Group1007 = _styledComponents.default.img(_templateObject33 || (_templateObject33 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 1263px;\n  height: 724px;\n  top: 168px;\n  left: 0;\n"])));
+
+var Group831 = _styledComponents.default.img(_templateObject34 || (_templateObject34 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 124px;\n  height: 19px;\n  top: 122px;\n  left: 1043px;\n"])));
+
+var Vector = _styledComponents.default.img(_templateObject35 || (_templateObject35 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 128px;\n  height: 684px;\n  top: 190px;\n  left: 1044px;\n"])));
+
+var State1 = _styledComponents.default.img(_templateObject36 || (_templateObject36 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 60px;\n  height: 15px;\n  top: 122px;\n  left: 93px;\n"])));
+
+var SDMCS = _styledComponents.default.img(_templateObject37 || (_templateObject37 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 269px;\n  height: 814px;\n  top: 178px;\n  left: 52px;\n"])));
+
+var Group844 = _styledComponents.default.div(_templateObject38 || (_templateObject38 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 147px;\n  top: 123px;\n  left: 757px;\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n  min-height: 754px;\n"])));
+
+var State2 = _styledComponents.default.img(_templateObject39 || (_templateObject39 = _taggedTemplateLiteral(["\n  width: 138px;\n  height: 32px;\n  margin-top: -1px;\n  align-self: flex-end;\n  margin-right: -0.6px;\n"])));
+
+var Group834 = _styledComponents.default.div(_templateObject40 || (_templateObject40 = _taggedTemplateLiteral(["\n  width: 51px;\n  position: relative;\n  margin-top: 36px;\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n  min-height: 687px;\n"])));
+
+var Group842 = _styledComponents.default.img(_templateObject41 || (_templateObject41 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 110px;\n  height: 11px;\n  top: 219px;\n  left: 507px;\n"])));
+
+var Insights = _styledComponents.default.img(_templateObject42 || (_templateObject42 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 100px;\n  height: 22px;\n  top: 353px;\n  left: 508px;\n"])));
+
+var Insights1 = _styledComponents.default.img(_templateObject43 || (_templateObject43 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 100px;\n  height: 30px;\n  top: 274px;\n  left: 508px;\n"])));
+
+var Insights2 = _styledComponents.default.img(_templateObject44 || (_templateObject44 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 100px;\n  height: 31px;\n  top: 187px;\n  left: 501px;\n"])));
+
+var Polygon28Stroke = _styledComponents.default.img(_templateObject45 || (_templateObject45 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 20px;\n  height: 17px;\n  top: 194px;\n  left: 507px;\n"])));
+
+var VectorStroke = _styledComponents.default.img(_templateObject46 || (_templateObject46 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 2px;\n  height: 7px;\n  top: 201px;\n  left: 516px;\n"])));
+
+var Rectangle342 = _styledComponents.default.img(_templateObject47 || (_templateObject47 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 361px;\n  left: 508px;\n"])));
+
+var Rectangle344 = _styledComponents.default.img(_templateObject48 || (_templateObject48 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 282px;\n  left: 508px;\n"])));
+
+var State3 = _styledComponents.default.img(_templateObject49 || (_templateObject49 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 110px;\n  height: 36px;\n  top: 926px;\n  left: 1044px;\n"])));
+
+var Group1048 = _styledComponents.default.div(_templateObject50 || (_templateObject50 = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 34px;\n  top: 31px;\n  left: 73px;\n  display: flex;\n  align-items: center;\n  min-width: 1099px;\n"])));
+
+var OverlapGroup11 = _styledComponents.default.div(_templateObject51 || (_templateObject51 = _taggedTemplateLiteral(["\n  height: 32px;\n  display: flex;\n  padding: 0 8px;\n  align-items: center;\n  min-width: 32px;\n  background-image: url(/img/ellipse-85@2x.svg);\n  background-size: 100% 100%;\n"])));
+
+var Group1037 = _styledComponents.default.img(_templateObject52 || (_templateObject52 = _taggedTemplateLiteral(["\n  width: 16px;\n  height: 16px;\n"])));
+
+var Stage = _styledComponents.default.img(_templateObject53 || (_templateObject53 = _taggedTemplateLiteral(["\n  width: 163px;\n  height: 15px;\n  margin-left: 12px;\n  margin-bottom: 1.18px;\n"])));
+
+var Group1039 = _styledComponents.default.img(_templateObject54 || (_templateObject54 = _taggedTemplateLiteral(["\n  width: 34px;\n  height: 34px;\n  margin-left: 533px;\n"])));
+
+var Rectangle3421 = _styledComponents.default.div(_templateObject55 || (_templateObject55 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 768px;\n  left: 838px;\n  background-color: var(--periwinkle);\n"])));
+
+var Rectangle343 = _styledComponents.default.div(_templateObject56 || (_templateObject56 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 847px;\n  left: 838px;\n  background-color: var(--periwinkle);\n"])));
+
+var Rectangle3441 = _styledComponents.default.div(_templateObject57 || (_templateObject57 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 936px;\n  left: 838px;\n  background-color: var(--periwinkle);\n"])));
+
+var State4 = _styledComponents.default.div(_templateObject58 || (_templateObject58 = _taggedTemplateLiteral(["\n  ", "\n  position: absolute;\n  width: 140px;\n  top: 117px;\n  left: 791px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsMediumGulfBlue17px);
+
+var Frame1010 = _styledComponents.default.div(_templateObject59 || (_templateObject59 = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 31px;\n  top: 675px;\n  left: 839px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 117px;\n"])));
+
+var Rectangle3431 = _styledComponents.default.img(_templateObject60 || (_templateObject60 = _taggedTemplateLiteral(["\n  width: 16px;\n  height: 17px;\n  align-self: center;\n"])));
+
+var Rectangle194 = _styledComponents.default.img(_templateObject61 || (_templateObject61 = _taggedTemplateLiteral(["\n  width: 9px;\n  height: 90px;\n  margin-left: 26px;\n  margin-top: 107px;\n"])));
+
+var _default = TestOl;
+exports.default = _default;
+},{"react":"node_modules/react/index.js","../Header4":"components/Header4/index.jsx","../Frame139Default":"components/Frame139Default/index.jsx","../Frame139tags":"components/Frame139tags/index.jsx","../Frame139tags2":"components/Frame139tags2/index.jsx","../Frame518Default":"components/Frame518Default/index.jsx","../Frame518Variant2":"components/Frame518Variant2/index.jsx","../Frame518Variant3":"components/Frame518Variant3/index.jsx","../Frame518Variant4":"components/Frame518Variant4/index.jsx","../Property1NehativeInsight32":"components/Property1NehativeInsight32/index.jsx","../Group1036":"components/Group1036/index.jsx","../Property1NehativeInsight2":"components/Property1NehativeInsight2/index.jsx","../Property1NehativeInsight3":"components/Property1NehativeInsight3/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js","./TestOl.css":"components/TestOl/TestOl.css"}],"components/Frame139Default3/index.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _styledComponents = _interopRequireDefault(require("styled-components"));
+
+var _styledMixins = require("../../styledMixins");
+
+var _templateObject, _templateObject2, _templateObject3;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
+
+function Frame139Default3(props) {
+  var className = props.className;
+  return /*#__PURE__*/_react.default.createElement(Frame139Default, {
+    className: "frame-139-default-1 ".concat(className || "")
+  }, /*#__PURE__*/_react.default.createElement(Rectangle204, {
+    className: "rectangle-204-3"
+  }), /*#__PURE__*/_react.default.createElement(Live26, {
+    className: "live-26-1"
+  }, "Live\xA0\xA026"));
+}
+
+var Frame139Default = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 20px;\n  margin-right: 63px;\n  display: flex;\n  align-items: center;\n  min-width: 93px;\n\n  &.frame-139-default-1.frame-139-default-2 {\n    margin-right: 65px;\n  }\n"])));
+
+var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--caribbean-green-pearl);\n"])));
+
+var Live26 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  min-height: 26px;\n  margin-left: 11px;\n  min-width: 62px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalCharade17px);
+
+var _default = Frame139Default3;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame280Variant6/index.jsx":[function(require,module,exports) {
 "use strict";
@@ -36730,15 +37426,15 @@ function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(
 function Frame280Variant6(props) {
   var className = props.className;
   return /*#__PURE__*/_react.default.createElement(Frame280Variant61, {
-    className: "frame-280-variant6 ".concat(className || "")
+    className: "frame-280-variant6-1 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(Rectangle204, {
-    className: "rectangle-204-2"
+    className: "rectangle-204-4"
   }), /*#__PURE__*/_react.default.createElement(Error4, {
     className: "error-4"
   }, "Error 4"));
 }
 
-var Frame280Variant61 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 23px;\n  align-self: flex-start;\n  margin-top: 21px;\n  margin-left: 34px;\n  display: flex;\n  align-items: center;\n  min-width: 85px;\n\n  &.frame-280-variant6.frame-280-variant6-1 {\n    margin-top: 20px;\n    margin-left: 34px;\n  }\n"])));
+var Frame280Variant61 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 23px;\n  align-self: flex-start;\n  margin-top: 21px;\n  margin-left: 34px;\n  display: flex;\n  align-items: center;\n  min-width: 85px;\n\n  &.frame-280-variant6-1.frame-280-variant6-2 {\n    margin-top: 20px;\n    margin-left: 34px;\n  }\n"])));
 
 var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--sasquatch-socks);\n"])));
 
@@ -36770,27 +37466,27 @@ function Frame280Variant4(props) {
   var children = props.children,
       className = props.className;
   return /*#__PURE__*/_react.default.createElement(Frame280Variant41, {
-    className: "frame-280-variant4 ".concat(className || "")
+    className: "frame-280-variant4-2 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(Rectangle204, {
-    className: "rectangle-204-3"
+    className: "rectangle-204-5"
   }), /*#__PURE__*/_react.default.createElement(Ready12, {
     className: "ready-12"
   }, children));
 }
 
-var Frame280Variant41 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 15px;\n  margin-right: 50px;\n  display: flex;\n  align-items: center;\n  min-width: 106px;\n\n  &.frame-280-variant4.frame-280-variant4-1 {\n    margin-top: 14px;\n    margin-right: 4px;\n    min-width: 152px;\n  }\n\n  &.frame-280-variant4.frame-280-variant4-2 {\n    margin-right: 52px;\n  }\n\n  &.frame-280-variant4.frame-280-variant4-3 {\n    margin-top: 14px;\n    margin-right: 6px;\n    min-width: 152px;\n  }\n"])));
+var Frame280Variant41 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 15px;\n  margin-right: 50px;\n  display: flex;\n  align-items: center;\n  min-width: 106px;\n\n  &.frame-280-variant4-2.frame-280-variant4-3 {\n    margin-top: 14px;\n    margin-right: 4px;\n    min-width: 152px;\n  }\n\n  &.frame-280-variant4-2.frame-280-variant4-4 {\n    margin-right: 52px;\n  }\n\n  &.frame-280-variant4-2.frame-280-variant4-5 {\n    margin-top: 14px;\n    margin-right: 6px;\n    min-width: 152px;\n  }\n"])));
 
 var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--biloba-flower);\n"])));
 
 var Ready12 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  width: 75px;\n  min-height: 26px;\n  margin-left: 11px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalCharade17px);
 
-var Rectangle2041 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  .frame-280-variant4.frame-280-variant4-1 & {\n    background-color: var(--canary);\n  }\n"])));
+var Rectangle2041 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  .frame-280-variant4-2.frame-280-variant4-3 & {\n    background-color: var(--canary);\n  }\n"])));
 
-var Ready121 = _styledComponents.default.div(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-280-variant4.frame-280-variant4-1  & {\n    min-width: 121px;\n    width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
+var Ready121 = _styledComponents.default.div(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-280-variant4-2.frame-280-variant4-3  & {\n    min-width: 121px;\n    width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
 
-var Rectangle2042 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  .frame-280-variant4.frame-280-variant4-3 & {\n    background-color: var(--canary);\n  }\n"])));
+var Rectangle2042 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  .frame-280-variant4-2.frame-280-variant4-5 & {\n    background-color: var(--canary);\n  }\n"])));
 
-var Ready122 = _styledComponents.default.div(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-280-variant4.frame-280-variant4-3  & {\n    min-width: 121px;\n    width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
+var Ready122 = _styledComponents.default.div(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  ", "\n\n  .frame-280-variant4-2.frame-280-variant4-5  & {\n    min-width: 121px;\n    width: unset;\n  }\n"])), _styledMixins.PoppinsNormalCharade17px);
 
 var _default = Frame280Variant4;
 exports.default = _default;
@@ -36817,178 +37513,21 @@ function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(
 function Frame280Variant3(props) {
   var className = props.className;
   return /*#__PURE__*/_react.default.createElement(Frame280Variant31, {
-    className: "frame-280-variant3 ".concat(className || "")
+    className: "frame-280-variant3-1 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(Rectangle204, {
-    className: "rectangle-204-4"
+    className: "rectangle-204-6"
   }), /*#__PURE__*/_react.default.createElement(InAnalysis19, {
     className: "in-analysis-19"
   }, "In Analysis 19"));
 }
 
-var Frame280Variant31 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 14px;\n  margin-right: 7px;\n  display: flex;\n  align-items: center;\n  min-width: 149px;\n\n  &.frame-280-variant3.frame-280-variant3-1 {\n    margin-right: 9px;\n  }\n"])));
+var Frame280Variant31 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 26px;\n  margin-top: 14px;\n  margin-right: 7px;\n  display: flex;\n  align-items: center;\n  min-width: 149px;\n\n  &.frame-280-variant3-1.frame-280-variant3-2 {\n    margin-right: 9px;\n  }\n"])));
 
 var Rectangle204 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  width: 20px;\n  height: 20px;\n  background-color: var(--gulf-blue);\n"])));
 
 var InAnalysis19 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  width: 118px;\n  min-height: 26px;\n  margin-left: 11px;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalCharade17px);
 
 var _default = Frame280Variant3;
-exports.default = _default;
-},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Default/index.jsx":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _styledComponents = _interopRequireDefault(require("styled-components"));
-
-var _styledMixins = require("../../styledMixins");
-
-var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10, _templateObject11, _templateObject12, _templateObject13, _templateObject14, _templateObject15, _templateObject16;
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
-
-function Frame518Default(props) {
-  var children = props.children,
-      className = props.className;
-  return /*#__PURE__*/_react.default.createElement(Frame518Default1, {
-    className: "frame-518-default ".concat(className || "")
-  }, /*#__PURE__*/_react.default.createElement(State, {
-    className: "state-4"
-  }, children));
-}
-
-var Frame518Default1 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 36px;\n\n  &.frame-518-default.frame-518-variant6 {\n    margin-top: 33px;\n    min-width: 40px;\n  }\n\n  &.frame-518-default.frame-518-variant7 {\n    margin-top: 33px;\n    min-width: 41px;\n  }\n\n  &.frame-518-default.frame-518-variant7-1 {\n    margin-top: 42px;\n    min-width: 51px;\n  }\n\n  &.frame-518-default.frame-518-variant7-2 {\n    margin-top: 31px;\n  }\n\n  &.frame-518-default.frame-518-variant7-3 {\n    position: absolute;\n    top: 793px;\n    left: 704px;\n    min-width: 41px;\n  }\n\n  &.frame-518-default.frame-518-default-1 {\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant2 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant3 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant4 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant5 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant6-1 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-4 {\n    margin-top: 33px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-5 {\n    margin-top: 42px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-6 {\n    margin-top: 31px;\n    min-width: 46px;\n  }\n\n  &.frame-518-default.frame-518-variant7-7 {\n    position: absolute;\n    top: 799px;\n    left: 749px;\n    min-width: 46px;\n  }\n"])));
-
-var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 16px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State1 = _styledComponents.default.div(_templateObject3 || (_templateObject3 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant6  & {\n    min-width: 20px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State2 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7  & {\n    min-width: 21px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State3 = _styledComponents.default.div(_templateObject5 || (_templateObject5 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-1  & {\n    min-width: 31px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State4 = _styledComponents.default.div(_templateObject6 || (_templateObject6 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-3  & {\n    min-width: 21px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State5 = _styledComponents.default.div(_templateObject7 || (_templateObject7 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-default-1  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State6 = _styledComponents.default.div(_templateObject8 || (_templateObject8 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant2  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State7 = _styledComponents.default.div(_templateObject9 || (_templateObject9 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant3  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State8 = _styledComponents.default.div(_templateObject10 || (_templateObject10 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant4  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State9 = _styledComponents.default.div(_templateObject11 || (_templateObject11 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant5  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State10 = _styledComponents.default.div(_templateObject12 || (_templateObject12 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant6-1  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State11 = _styledComponents.default.div(_templateObject13 || (_templateObject13 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-4  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State12 = _styledComponents.default.div(_templateObject14 || (_templateObject14 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-5  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State13 = _styledComponents.default.div(_templateObject15 || (_templateObject15 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-6  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var State14 = _styledComponents.default.div(_templateObject16 || (_templateObject16 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            \n            \n           .frame-518-default.frame-518-variant7-7  & {\n    min-width: 26px;\n  }\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var _default = Frame518Default;
-exports.default = _default;
-},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Variant2/index.jsx":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _styledComponents = _interopRequireDefault(require("styled-components"));
-
-var _styledMixins = require("../../styledMixins");
-
-var _templateObject, _templateObject2;
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
-
-function Frame518Variant2(props) {
-  var children = props.children;
-  return /*#__PURE__*/_react.default.createElement(Frame518Variant21, null, /*#__PURE__*/_react.default.createElement(State, null, children));
-}
-
-var Frame518Variant21 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 33px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 47px;\n"])));
-
-var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 27px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var _default = Frame518Variant2;
-exports.default = _default;
-},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Variant3/index.jsx":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _styledComponents = _interopRequireDefault(require("styled-components"));
-
-var _styledMixins = require("../../styledMixins");
-
-var _templateObject, _templateObject2;
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
-
-function Frame518Variant3(props) {
-  var children = props.children;
-  return /*#__PURE__*/_react.default.createElement(Frame518Variant31, null, /*#__PURE__*/_react.default.createElement(State, null, children));
-}
-
-var Frame518Variant31 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 33px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 42px;\n"])));
-
-var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 22px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var _default = Frame518Variant3;
-exports.default = _default;
-},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame518Variant4/index.jsx":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _styledComponents = _interopRequireDefault(require("styled-components"));
-
-var _styledMixins = require("../../styledMixins");
-
-var _templateObject, _templateObject2;
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
-
-function Frame518Variant4(props) {
-  var children = props.children;
-  return /*#__PURE__*/_react.default.createElement(Frame518Variant41, null, /*#__PURE__*/_react.default.createElement(State, null, children));
-}
-
-var Frame518Variant41 = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 46px;\n  margin-top: 33px;\n  display: flex;\n  padding: 0 10px;\n  align-items: center;\n  min-width: 50px;\n"])));
-
-var State = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 30px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalShuttleGray17px);
-
-var _default = Frame518Variant4;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame519Default/index.jsx":[function(require,module,exports) {
 "use strict";
@@ -37015,11 +37554,11 @@ function Frame519Default(props) {
   return /*#__PURE__*/_react.default.createElement(Frame519Default1, {
     className: "frame-519-default ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(State, {
-    className: "state-8"
+    className: "state-13"
   }, /*#__PURE__*/_react.default.createElement("span", null, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0 poppins-normal-shuttle-gray-17px"
+    className: "span0-1 poppins-normal-shuttle-gray-17px"
   }, "51 minutes ago", /*#__PURE__*/_react.default.createElement("br", null)), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1 poppins-normal-shuttle-gray-14px"
+    className: "span1-1 poppins-normal-shuttle-gray-14px"
   }, "12:45 | 17 jun 21"))));
 }
 
@@ -37088,48 +37627,19 @@ function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(
 function Property1NehativeInsight22(props) {
   var className = props.className;
   return /*#__PURE__*/_react.default.createElement(Insights, {
-    className: "insights ".concat(className || "")
+    className: "insights-11 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(Attention, {
-    className: "attention"
+    className: "attention-2"
   }, "Ready"));
 }
 
-var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 32px;\n  top: 225px;\n  left: 454px;\n  display: flex;\n  padding: 2.5px 23px;\n  align-items: flex-start;\n  min-width: 102px;\n  border-radius: 30px;\n\n  &.insights.insights-1 {\n    top: 146px;\n  }\n\n  &.insights.insights-2 {\n    margin-top: -1px;\n    position: unset;\n    top: unset;\n    left: unset;\n  }\n"])));
+var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 32px;\n  top: 225px;\n  left: 454px;\n  display: flex;\n  padding: 2.5px 23px;\n  align-items: flex-start;\n  min-width: 102px;\n  border-radius: 30px;\n\n  &.insights-11.insights-12 {\n    top: 146px;\n  }\n\n  &.insights-11.insights-13 {\n    margin-top: -1px;\n    position: unset;\n    top: unset;\n    left: unset;\n  }\n"])));
 
 var Attention = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 54px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalBilobaFlower17px);
 
 var _default = Property1NehativeInsight22;
 exports.default = _default;
-},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Property1NehativeInsight32/index.jsx":[function(require,module,exports) {
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _react = _interopRequireDefault(require("react"));
-
-var _styledComponents = _interopRequireDefault(require("styled-components"));
-
-var _templateObject;
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
-
-function Property1NehativeInsight32(props) {
-  var className = props.className;
-  return /*#__PURE__*/_react.default.createElement(Insights, {
-    className: "insights-3 ".concat(className || "")
-  });
-}
-
-var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 102px;\n  height: 32px;\n  top: 549px;\n  left: 448px;\n  border-radius: 48px;\n\n  &.insights-3.insights-4 {\n    top: 0;\n    left: 82px;\n    border-radius: 30px;\n  }\n\n  &.insights-3.insights-5 {\n    margin-top: 46px;\n    position: unset;\n    top: unset;\n    left: unset;\n  }\n"])));
-
-var _default = Property1NehativeInsight32;
-exports.default = _default;
-},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Property1NehativeInsight/index.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Property1NehativeInsight/index.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -37153,13 +37663,13 @@ function Property1NehativeInsight(props) {
   var children = props.children,
       className = props.className;
   return /*#__PURE__*/_react.default.createElement(Insights, {
-    className: "insights-6 ".concat(className || "")
+    className: "insights-14 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(Attention, {
-    className: "attention-1"
+    className: "attention-3"
   }, children));
 }
 
-var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 32px;\n  display: flex;\n  padding: 2.5px 30.5px;\n  align-items: flex-start;\n  min-width: 102px;\n  border-radius: 29px;\n\n  &.insights-6.insights-8 {\n    border-radius: 16px;\n  }\n\n  &.insights-6.insights-9 {\n    border-radius: 41px;\n  }\n"])));
+var Insights = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  height: 32px;\n  display: flex;\n  padding: 2.5px 30.5px;\n  align-items: flex-start;\n  min-width: 102px;\n  border-radius: 29px;\n\n  &.insights-14.insights-16 {\n    border-radius: 16px;\n  }\n\n  &.insights-14.insights-17 {\n    border-radius: 41px;\n  }\n"])));
 
 var Attention = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 39px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalSasquatchSocks17px);
 
@@ -37199,7 +37709,7 @@ var Frame519ErrorDDSDefault1 = _styledComponents.default.div(_templateObject || 
 
 var _default = Frame519ErrorDDSDefault;
 exports.default = _default;
-},{"react":"node_modules/react/index.js","../Property1NehativeInsight":"components/Property1NehativeInsight/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Property1NehativeInsight322/index.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","../Property1NehativeInsight":"components/Property1NehativeInsight/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Property1NehativeInsight6/index.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -37219,7 +37729,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
-function Property1NehativeInsight322() {
+function Property1NehativeInsight6() {
   return /*#__PURE__*/_react.default.createElement(Insights, null, /*#__PURE__*/_react.default.createElement(Attention, null, "Draft"));
 }
 
@@ -37231,7 +37741,7 @@ var Insights1 = _styledComponents.default.div(_templateObject3 || (_templateObje
 
 var Attention1 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 42px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalPeriwinkle17px);
 
-var _default = Property1NehativeInsight322;
+var _default = Property1NehativeInsight6;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Frame519DraftDefault/index.jsx":[function(require,module,exports) {
 "use strict";
@@ -37243,7 +37753,7 @@ exports.default = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
-var _Property1NehativeInsight = _interopRequireDefault(require("../Property1NehativeInsight322"));
+var _Property1NehativeInsight = _interopRequireDefault(require("../Property1NehativeInsight6"));
 
 var _styledComponents = _interopRequireDefault(require("styled-components"));
 
@@ -37264,7 +37774,7 @@ var Frame519DraftDefault1 = _styledComponents.default.div(_templateObject || (_t
 
 var _default = Frame519DraftDefault;
 exports.default = _default;
-},{"react":"node_modules/react/index.js","../Property1NehativeInsight322":"components/Property1NehativeInsight322/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Property1NehativeInsight42/index.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","../Property1NehativeInsight6":"components/Property1NehativeInsight6/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js"}],"components/Property1NehativeInsight7/index.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -37284,7 +37794,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
-function Property1NehativeInsight42() {
+function Property1NehativeInsight7() {
   return /*#__PURE__*/_react.default.createElement(Insights, null, /*#__PURE__*/_react.default.createElement(Attention, null, "In Analysis"));
 }
 
@@ -37296,9 +37806,9 @@ var Insights1 = _styledComponents.default.div(_templateObject3 || (_templateObje
 
 var Attention1 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            height: 26px;\n  min-width: 90px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsNormalGulfBlue17px);
 
-var _default = Property1NehativeInsight42;
+var _default = Property1NehativeInsight7;
 exports.default = _default;
-},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Property1NehativeInsight4/index.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/Property1NehativeInsight8/index.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -37318,7 +37828,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(0); } return Object.freeze(Object.defineProperties(strings, { raw: { value: Object.freeze(raw) } })); }
 
-function Property1NehativeInsight4() {
+function Property1NehativeInsight8() {
   return /*#__PURE__*/_react.default.createElement(Insights, null, /*#__PURE__*/_react.default.createElement(Attention, null, "Error"));
 }
 
@@ -37330,7 +37840,7 @@ var Insights1 = _styledComponents.default.div(_templateObject3 || (_templateObje
 
 var Attention1 = _styledComponents.default.div(_templateObject4 || (_templateObject4 = _taggedTemplateLiteral(["\n  ", "\n  min-height: 20px;\n  min-width: 30px;\n  text-align: center;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalGulfBlue13px);
 
-var _default = Property1NehativeInsight4;
+var _default = Property1NehativeInsight8;
 exports.default = _default;
 },{"react":"node_modules/react/index.js","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js"}],"components/X2/X2.css":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
@@ -37349,9 +37859,9 @@ var _react = _interopRequireDefault(require("react"));
 
 var _Header = _interopRequireDefault(require("../Header4"));
 
-var _Frame139Default = _interopRequireDefault(require("../Frame139Default"));
+var _Frame139Default = _interopRequireDefault(require("../Frame139Default3"));
 
-var _Frame139tags = _interopRequireDefault(require("../Frame139tags"));
+var _Frame139tags = _interopRequireDefault(require("../Frame139tags2"));
 
 var _Frame280Variant = _interopRequireDefault(require("../Frame280Variant6"));
 
@@ -37375,17 +37885,19 @@ var _Property1NehativeInsight2 = _interopRequireDefault(require("../Property1Neh
 
 var _Frame519ErrorDDSDefault = _interopRequireDefault(require("../Frame519ErrorDDSDefault"));
 
+var _Group = _interopRequireDefault(require("../Group1036"));
+
 var _Frame519DraftDefault = _interopRequireDefault(require("../Frame519DraftDefault"));
 
-var _Property1NehativeInsight3 = _interopRequireDefault(require("../Property1NehativeInsight42"));
+var _Property1NehativeInsight3 = _interopRequireDefault(require("../Property1NehativeInsight7"));
 
-var _Property1NehativeInsight4 = _interopRequireDefault(require("../Property1NehativeInsight4"));
+var _Property1NehativeInsight4 = _interopRequireDefault(require("../Property1NehativeInsight8"));
 
 var _styledComponents = _interopRequireDefault(require("styled-components"));
 
 require("./X2.css");
 
-var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10, _templateObject11, _templateObject12, _templateObject13, _templateObject14, _templateObject15, _templateObject16, _templateObject17, _templateObject18, _templateObject19, _templateObject20, _templateObject21, _templateObject22, _templateObject23, _templateObject24, _templateObject25, _templateObject26, _templateObject27, _templateObject28, _templateObject29, _templateObject30, _templateObject31, _templateObject32, _templateObject33, _templateObject34, _templateObject35, _templateObject36, _templateObject37, _templateObject38, _templateObject39, _templateObject40, _templateObject41, _templateObject42, _templateObject43, _templateObject44, _templateObject45, _templateObject46, _templateObject47, _templateObject48, _templateObject49, _templateObject50, _templateObject51, _templateObject52, _templateObject53, _templateObject54, _templateObject55, _templateObject56, _templateObject57, _templateObject58, _templateObject59, _templateObject60, _templateObject61, _templateObject62, _templateObject63, _templateObject64, _templateObject65, _templateObject66, _templateObject67, _templateObject68;
+var _templateObject, _templateObject2, _templateObject3, _templateObject4, _templateObject5, _templateObject6, _templateObject7, _templateObject8, _templateObject9, _templateObject10, _templateObject11, _templateObject12, _templateObject13, _templateObject14, _templateObject15, _templateObject16, _templateObject17, _templateObject18, _templateObject19, _templateObject20, _templateObject21, _templateObject22, _templateObject23, _templateObject24, _templateObject25, _templateObject26, _templateObject27, _templateObject28, _templateObject29, _templateObject30, _templateObject31, _templateObject32, _templateObject33, _templateObject34, _templateObject35, _templateObject36, _templateObject37, _templateObject38, _templateObject39, _templateObject40, _templateObject41, _templateObject42, _templateObject43, _templateObject44, _templateObject45, _templateObject46, _templateObject47, _templateObject48, _templateObject49, _templateObject50, _templateObject51, _templateObject52, _templateObject53, _templateObject54, _templateObject55, _templateObject56, _templateObject57, _templateObject58, _templateObject59, _templateObject60, _templateObject61, _templateObject62, _templateObject63;
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -37415,9 +37927,10 @@ function X2(props) {
       frame519Default7Props = props.frame519Default7Props,
       frame519Default8Props = props.frame519Default8Props,
       property1NehativeInsight22Props = props.property1NehativeInsight22Props,
+      frame518Default6Props = props.frame518Default6Props,
       frame519ErrorDDSDefaultProps = props.frame519ErrorDDSDefaultProps,
       frame519Default9Props = props.frame519Default9Props,
-      frame518Default6Props = props.frame518Default6Props,
+      frame518Default6Props2 = props.frame518Default6Props2,
       frame519DraftDefaultProps = props.frame519DraftDefaultProps,
       frame519DraftDefault2Props = props.frame519DraftDefault2Props;
   return /*#__PURE__*/_react.default.createElement("div", {
@@ -37427,7 +37940,8 @@ function X2(props) {
   }, /*#__PURE__*/_react.default.createElement(FlexCol, null, /*#__PURE__*/_react.default.createElement(Frame67, {
     src: "/img/frame-67@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(_Header.default, {
-    ellipse12: header4Props.ellipse12
+    ellipse12: header4Props.ellipse12,
+    className: header4Props.className
   }), /*#__PURE__*/_react.default.createElement(OverlapGroup5, null, /*#__PURE__*/_react.default.createElement(Group958, null, /*#__PURE__*/_react.default.createElement(Group864, {
     src: "/img/group-864@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(OverlapGroup, null, /*#__PURE__*/_react.default.createElement(RemindMeLater, {
@@ -37440,15 +37954,15 @@ function X2(props) {
     src: "/img/group-959@1x.svg"
   })), /*#__PURE__*/_react.default.createElement(OverlapGroup4, null, /*#__PURE__*/_react.default.createElement(Group1048, null, /*#__PURE__*/_react.default.createElement(Group1046, null, /*#__PURE__*/_react.default.createElement(FlexCol1, null, /*#__PURE__*/_react.default.createElement(Group1043, null, /*#__PURE__*/_react.default.createElement(OverlapGroup1, null, /*#__PURE__*/_react.default.createElement(Rv, {
     src: "/img/rv@2x.svg"
-  }), /*#__PURE__*/_react.default.createElement(_Frame139Default.default, null), /*#__PURE__*/_react.default.createElement(_Frame139tags.default, null, frame139tagsProps.children), /*#__PURE__*/_react.default.createElement(Vector50Stroke, {
+  }), /*#__PURE__*/_react.default.createElement(_Frame139Default.default, null), /*#__PURE__*/_react.default.createElement(_Frame139tags.default, {
+    className: frame139tagsProps.className
+  }, frame139tagsProps.children), /*#__PURE__*/_react.default.createElement(Vector50Stroke, {
     src: "/img/vector-50--stroke-@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(OverlapGroup11, null, /*#__PURE__*/_react.default.createElement(X103, {
     src: "/img/103@2x.svg"
   })), /*#__PURE__*/_react.default.createElement(_Frame280Variant.default, null), /*#__PURE__*/_react.default.createElement(_Frame280Variant2.default, null, frame280Variant4Props.children), /*#__PURE__*/_react.default.createElement(_Frame280Variant2.default, {
     className: frame280Variant42Props.className
-  }, frame280Variant42Props.children), /*#__PURE__*/_react.default.createElement(_Frame280Variant3.default, null), /*#__PURE__*/_react.default.createElement(_Frame139tags.default, {
-    className: frame139tags2Props.className
-  }, frame139tags2Props.children))), /*#__PURE__*/_react.default.createElement(OverlapGroup2, null, /*#__PURE__*/_react.default.createElement(Rectangle368Stroke, {
+  }, frame280Variant42Props.children), /*#__PURE__*/_react.default.createElement(_Frame280Variant3.default, null), /*#__PURE__*/_react.default.createElement(_Frame139tags.default, null, frame139tags2Props.children))), /*#__PURE__*/_react.default.createElement(OverlapGroup2, null, /*#__PURE__*/_react.default.createElement(Rectangle368Stroke, {
     src: "/img/rectangle-368--stroke-@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(State, {
     src: "/img/state-1@2x.svg"
@@ -37468,7 +37982,11 @@ function X2(props) {
     src: "/img/sd-mcs@1x.svg"
   })), /*#__PURE__*/_react.default.createElement(Group844, null, /*#__PURE__*/_react.default.createElement(State2, {
     src: "/img/state-3@2x.svg"
-  }), /*#__PURE__*/_react.default.createElement(Group834, null, /*#__PURE__*/_react.default.createElement(_Frame518Default.default, null, frame518DefaultProps.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant.default, null, frame518Variant2Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant2.default, null, frame518Variant3Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant3.default, null, frame518Variant4Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant.default, null, frame518Variant22Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
+  }), /*#__PURE__*/_react.default.createElement(Group834, null, /*#__PURE__*/_react.default.createElement(_Frame518Default.default, null, frame518DefaultProps.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant.default, {
+    className: frame518Variant2Props.className
+  }, frame518Variant2Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant2.default, null, frame518Variant3Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant3.default, null, frame518Variant4Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Variant.default, {
+    className: frame518Variant22Props.className
+  }, frame518Variant22Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
     className: frame518Default2Props.className
   }, frame518Default2Props.children), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
     className: frame518Default3Props.className
@@ -37498,7 +38016,9 @@ function X2(props) {
     src: "/img/group-842@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight.default, null), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight.default, {
     className: property1NehativeInsight22Props.className
-  }), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight2.default, null), /*#__PURE__*/_react.default.createElement(_Frame519ErrorDDSDefault.default, {
+  }), /*#__PURE__*/_react.default.createElement(_Property1NehativeInsight2.default, {
+    className: frame518Default6Props.className
+  }), /*#__PURE__*/_react.default.createElement(_Frame519ErrorDDSDefault.default, {
     property1NehativeInsightProps: frame519ErrorDDSDefaultProps.property1NehativeInsightProps
   }), /*#__PURE__*/_react.default.createElement(Polygon28Stroke, {
     src: "/img/polygon-28--stroke-@2x.svg"
@@ -37511,20 +38031,14 @@ function X2(props) {
   }), /*#__PURE__*/_react.default.createElement(_Frame519Default.default, {
     className: frame519Default9Props.className
   }), /*#__PURE__*/_react.default.createElement(_Frame518Default.default, {
-    className: frame518Default6Props.className
-  }, frame518Default6Props.children)), /*#__PURE__*/_react.default.createElement(Group10481, null, /*#__PURE__*/_react.default.createElement(OverlapGroup12, null, /*#__PURE__*/_react.default.createElement(Group1037, {
+    className: frame518Default6Props2.className
+  }, frame518Default6Props2.children)), /*#__PURE__*/_react.default.createElement(Group10481, null, /*#__PURE__*/_react.default.createElement(OverlapGroup12, null, /*#__PURE__*/_react.default.createElement(Group1037, {
     src: "/img/group-1037@2x.svg"
   })), /*#__PURE__*/_react.default.createElement(Stage, {
     src: "/img/stage@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(Group1039, {
     src: "/img/group-1039@2x.svg"
-  }), /*#__PURE__*/_react.default.createElement(Group1036, null, /*#__PURE__*/_react.default.createElement(OverlapGroup7, null, /*#__PURE__*/_react.default.createElement(Chevron, {
-    src: "/img/chevron-1@2x.svg"
-  }), /*#__PURE__*/_react.default.createElement(Group277, {
-    src: "/img/group-277@2x.svg"
-  })), /*#__PURE__*/_react.default.createElement(Chevron1, {
-    src: "/img/chevron@2x.svg"
-  }))))), /*#__PURE__*/_react.default.createElement(Rectangle194, {
+  }), /*#__PURE__*/_react.default.createElement(_Group.default, null)))), /*#__PURE__*/_react.default.createElement(Rectangle194, {
     src: "/img/rectangle-194@2x.svg"
   })), /*#__PURE__*/_react.default.createElement(_Frame519DraftDefault.default, null), /*#__PURE__*/_react.default.createElement(_Frame519DraftDefault.default, {
     className: frame519DraftDefaultProps.className
@@ -37653,45 +38167,35 @@ var Stage = _styledComponents.default.img(_templateObject49 || (_templateObject4
 
 var Group1039 = _styledComponents.default.img(_templateObject50 || (_templateObject50 = _taggedTemplateLiteral(["\n  width: 34px;\n  height: 34px;\n  margin-left: 534px;\n"])));
 
-var Group1036 = _styledComponents.default.div(_templateObject51 || (_templateObject51 = _taggedTemplateLiteral(["\n  height: 16px;\n  margin-left: 26px;\n  margin-top: 3.3px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 300px;\n"])));
+var Rectangle194 = _styledComponents.default.img(_templateObject51 || (_templateObject51 = _taggedTemplateLiteral(["\n  width: 9px;\n  height: 90px;\n  margin-left: 26px;\n  margin-top: 107px;\n"])));
 
-var OverlapGroup7 = _styledComponents.default.div(_templateObject52 || (_templateObject52 = _taggedTemplateLiteral(["\n  width: 288px;\n  height: 17px;\n  position: relative;\n  margin-left: -1px;\n  margin-top: -0.46px;\n"])));
+var Rectangle3421 = _styledComponents.default.img(_templateObject52 || (_templateObject52 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 768px;\n  left: 838px;\n"])));
 
-var Chevron = _styledComponents.default.img(_templateObject53 || (_templateObject53 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 11px;\n  height: 10px;\n  top: 3px;\n  left: 168px;\n"])));
+var Rectangle343 = _styledComponents.default.img(_templateObject53 || (_templateObject53 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 847px;\n  left: 838px;\n"])));
 
-var Group277 = _styledComponents.default.img(_templateObject54 || (_templateObject54 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 288px;\n  height: 17px;\n  top: 0;\n  left: 0;\n"])));
+var Rectangle3441 = _styledComponents.default.img(_templateObject54 || (_templateObject54 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 936px;\n  left: 838px;\n"])));
 
-var Chevron1 = _styledComponents.default.img(_templateObject55 || (_templateObject55 = _taggedTemplateLiteral(["\n  width: 11px;\n  height: 10px;\n  align-self: center;\n  margin-left: 2px;\n  margin-bottom: 1.3px;\n"])));
+var State3 = _styledComponents.default.img(_templateObject55 || (_templateObject55 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 44px;\n  height: 14px;\n  top: 127px;\n  left: 839px;\n"])));
 
-var Rectangle194 = _styledComponents.default.img(_templateObject56 || (_templateObject56 = _taggedTemplateLiteral(["\n  width: 9px;\n  height: 90px;\n  margin-left: 26px;\n  margin-top: 107px;\n"])));
+var Frame1010 = _styledComponents.default.div(_templateObject56 || (_templateObject56 = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 30px;\n  top: 675px;\n  left: 839px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 117px;\n"])));
 
-var Rectangle3421 = _styledComponents.default.img(_templateObject57 || (_templateObject57 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 768px;\n  left: 838px;\n"])));
+var Rectangle3431 = _styledComponents.default.img(_templateObject57 || (_templateObject57 = _taggedTemplateLiteral(["\n  width: 16px;\n  height: 16px;\n  align-self: center;\n"])));
 
-var Rectangle343 = _styledComponents.default.img(_templateObject58 || (_templateObject58 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 847px;\n  left: 838px;\n"])));
+var Frame78 = _styledComponents.default.div(_templateObject58 || (_templateObject58 = _taggedTemplateLiteral(["\n  width: 89px;\n  position: relative;\n  margin-left: 21px;\n  margin-top: -1906px;\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n  min-height: 44px;\n"])));
 
-var Rectangle3441 = _styledComponents.default.img(_templateObject59 || (_templateObject59 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 16px;\n  height: 16px;\n  top: 936px;\n  left: 838px;\n"])));
+var Frame77 = _styledComponents.default.img(_templateObject59 || (_templateObject59 = _taggedTemplateLiteral(["\n  width: 90px;\n  height: 11px;\n  margin-top: 8px;\n  margin-left: -0.4px;\n"])));
 
-var State3 = _styledComponents.default.img(_templateObject60 || (_templateObject60 = _taggedTemplateLiteral(["\n  position: absolute;\n  width: 44px;\n  height: 14px;\n  top: 127px;\n  left: 839px;\n"])));
+var Frame64 = _styledComponents.default.img(_templateObject60 || (_templateObject60 = _taggedTemplateLiteral(["\n  width: 56px;\n  height: 33px;\n  margin-left: 67px;\n  margin-top: -1909.24px;\n"])));
 
-var Frame1010 = _styledComponents.default.div(_templateObject61 || (_templateObject61 = _taggedTemplateLiteral(["\n  position: absolute;\n  height: 30px;\n  top: 675px;\n  left: 839px;\n  display: flex;\n  align-items: flex-start;\n  min-width: 117px;\n"])));
+var Frame58 = _styledComponents.default.img(_templateObject61 || (_templateObject61 = _taggedTemplateLiteral(["\n  width: 146px;\n  height: 58px;\n  margin-left: 153px;\n  margin-top: -1909.21px;\n"])));
 
-var Rectangle3431 = _styledComponents.default.img(_templateObject62 || (_templateObject62 = _taggedTemplateLiteral(["\n  width: 16px;\n  height: 16px;\n  align-self: center;\n"])));
+var Frame61 = _styledComponents.default.img(_templateObject62 || (_templateObject62 = _taggedTemplateLiteral(["\n  width: 137px;\n  height: 58px;\n  margin-left: 98px;\n  margin-top: -1913.44px;\n"])));
 
-var Frame78 = _styledComponents.default.div(_templateObject63 || (_templateObject63 = _taggedTemplateLiteral(["\n  width: 89px;\n  position: relative;\n  margin-left: 21px;\n  margin-top: -1906px;\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n  min-height: 44px;\n"])));
-
-var Frame77 = _styledComponents.default.img(_templateObject64 || (_templateObject64 = _taggedTemplateLiteral(["\n  width: 90px;\n  height: 11px;\n  margin-top: 8px;\n  margin-left: -0.4px;\n"])));
-
-var Frame64 = _styledComponents.default.img(_templateObject65 || (_templateObject65 = _taggedTemplateLiteral(["\n  width: 56px;\n  height: 33px;\n  margin-left: 67px;\n  margin-top: -1909.24px;\n"])));
-
-var Frame58 = _styledComponents.default.img(_templateObject66 || (_templateObject66 = _taggedTemplateLiteral(["\n  width: 146px;\n  height: 58px;\n  margin-left: 153px;\n  margin-top: -1909.21px;\n"])));
-
-var Frame61 = _styledComponents.default.img(_templateObject67 || (_templateObject67 = _taggedTemplateLiteral(["\n  width: 137px;\n  height: 58px;\n  margin-left: 98px;\n  margin-top: -1913.44px;\n"])));
-
-var Frame68 = _styledComponents.default.img(_templateObject68 || (_templateObject68 = _taggedTemplateLiteral(["\n  width: 137px;\n  height: 83px;\n  margin-left: 79px;\n  margin-top: -1926.41px;\n"])));
+var Frame68 = _styledComponents.default.img(_templateObject63 || (_templateObject63 = _taggedTemplateLiteral(["\n  width: 137px;\n  height: 83px;\n  margin-left: 79px;\n  margin-top: -1926.41px;\n"])));
 
 var _default = X2;
 exports.default = _default;
-},{"react":"node_modules/react/index.js","../Header4":"components/Header4/index.jsx","../Frame139Default":"components/Frame139Default/index.jsx","../Frame139tags":"components/Frame139tags/index.jsx","../Frame280Variant6":"components/Frame280Variant6/index.jsx","../Frame280Variant4":"components/Frame280Variant4/index.jsx","../Frame280Variant3":"components/Frame280Variant3/index.jsx","../Frame518Default":"components/Frame518Default/index.jsx","../Frame518Variant2":"components/Frame518Variant2/index.jsx","../Frame518Variant3":"components/Frame518Variant3/index.jsx","../Frame518Variant4":"components/Frame518Variant4/index.jsx","../Frame519Default":"components/Frame519Default/index.jsx","../Property1NehativeInsight22":"components/Property1NehativeInsight22/index.jsx","../Property1NehativeInsight32":"components/Property1NehativeInsight32/index.jsx","../Frame519ErrorDDSDefault":"components/Frame519ErrorDDSDefault/index.jsx","../Frame519DraftDefault":"components/Frame519DraftDefault/index.jsx","../Property1NehativeInsight42":"components/Property1NehativeInsight42/index.jsx","../Property1NehativeInsight4":"components/Property1NehativeInsight4/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","./X2.css":"components/X2/X2.css"}],"components/Header2/index.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","../Header4":"components/Header4/index.jsx","../Frame139Default3":"components/Frame139Default3/index.jsx","../Frame139tags2":"components/Frame139tags2/index.jsx","../Frame280Variant6":"components/Frame280Variant6/index.jsx","../Frame280Variant4":"components/Frame280Variant4/index.jsx","../Frame280Variant3":"components/Frame280Variant3/index.jsx","../Frame518Default":"components/Frame518Default/index.jsx","../Frame518Variant2":"components/Frame518Variant2/index.jsx","../Frame518Variant3":"components/Frame518Variant3/index.jsx","../Frame518Variant4":"components/Frame518Variant4/index.jsx","../Frame519Default":"components/Frame519Default/index.jsx","../Property1NehativeInsight22":"components/Property1NehativeInsight22/index.jsx","../Property1NehativeInsight32":"components/Property1NehativeInsight32/index.jsx","../Frame519ErrorDDSDefault":"components/Frame519ErrorDDSDefault/index.jsx","../Group1036":"components/Group1036/index.jsx","../Frame519DraftDefault":"components/Frame519DraftDefault/index.jsx","../Property1NehativeInsight7":"components/Property1NehativeInsight7/index.jsx","../Property1NehativeInsight8":"components/Property1NehativeInsight8/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","./X2.css":"components/X2/X2.css"}],"components/Header2/index.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -37714,11 +38218,11 @@ function _taggedTemplateLiteral(strings, raw) { if (!raw) { raw = strings.slice(
 function Header2(props) {
   var className = props.className;
   return /*#__PURE__*/_react.default.createElement(Header, {
-    className: "header-2 ".concat(className || "")
+    className: "header-3 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup10, {
     className: "overlap-group10"
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup, {
-    className: "overlap-group-7"
+    className: "overlap-group-9"
   }, /*#__PURE__*/_react.default.createElement(Fill1, {
     className: "fill-1-1",
     src: "/img/fill-1@2x.svg"
@@ -37733,7 +38237,7 @@ function Header2(props) {
   }), /*#__PURE__*/_react.default.createElement(Group30, {
     className: "group-30-1"
   }, /*#__PURE__*/_react.default.createElement(FlexRow, {
-    className: "flex-row-2"
+    className: "flex-row-3"
   }, /*#__PURE__*/_react.default.createElement(JohnSmith, {
     className: "john-smith-2"
   }, "Jen Conner"), /*#__PURE__*/_react.default.createElement(Triangle, {
@@ -37744,7 +38248,7 @@ function Header2(props) {
   }, "Innoviz Germany")))));
 }
 
-var Header = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  position: fixed;\n  height: 70px;\n  top: 0;\n  left: 0;\n  z-index: 7;\n  display: flex;\n  justify-content: center;\n  align-items: flex-start;\n  min-width: 1920px;\n\n  &.header-2.header-3 {\n    z-index: 6;\n  }\n"])));
+var Header = _styledComponents.default.div(_templateObject || (_templateObject = _taggedTemplateLiteral(["\n  position: fixed;\n  height: 70px;\n  top: 0;\n  left: 0;\n  z-index: 7;\n  display: flex;\n  justify-content: center;\n  align-items: flex-start;\n  min-width: 1920px;\n\n  &.header-3.header-4 {\n    z-index: 6;\n  }\n"])));
 
 var OverlapGroup10 = _styledComponents.default.div(_templateObject2 || (_templateObject2 = _taggedTemplateLiteral(["\n  height: 78px;\n  margin-top: -3px;\n  display: flex;\n  padding: 15px 33px;\n  justify-content: flex-end;\n  align-items: flex-start;\n  min-width: 1928px;\n  background-image: url(/img/rectangle@1x.svg);\n  background-size: 100% 100%;\n"])));
 
@@ -37768,7 +38272,7 @@ var Triangle = _styledComponents.default.img(_templateObject11 || (_templateObje
 
 var JohnSmith1 = _styledComponents.default.div(_templateObject12 || (_templateObject12 = _taggedTemplateLiteral(["\n  ", "\n  min-height: 20px;\n  min-width: 109px;\n  opacity: 0.8;\n  text-align: right;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsNormalZircon13px);
 
-var OverlapGroup101 = _styledComponents.default.div(_templateObject13 || (_templateObject13 = _taggedTemplateLiteral(["\n  .header-2.header-3 & {\n    background-image: url(/img/rectangle-2@1x.svg);\n  }\n"])));
+var OverlapGroup101 = _styledComponents.default.div(_templateObject13 || (_templateObject13 = _taggedTemplateLiteral(["\n  .header-3.header-4 & {\n    background-image: url(/img/rectangle-2@1x.svg);\n  }\n"])));
 
 var _default = Header2;
 exports.default = _default;
@@ -37835,9 +38339,9 @@ function Group1082(props) {
   }), /*#__PURE__*/_react.default.createElement(Text, {
     className: "text"
   }, /*#__PURE__*/_react.default.createElement("span", null, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0-5 poppins-normal-shuttle-gray-24px"
+    className: "span0-6 poppins-normal-shuttle-gray-24px"
   }, "currently"), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1-5 poppins-normal-shuttle-gray-24px"
+    className: "span1-6 poppins-normal-shuttle-gray-24px"
   }, "\xA0"), /*#__PURE__*/_react.default.createElement("span", {
     className: "span2-2 poppins-normal-shuttle-gray-24px"
   }, "deployed"), /*#__PURE__*/_react.default.createElement("span", {
@@ -37890,7 +38394,7 @@ function Group1084(props) {
   }), /*#__PURE__*/_react.default.createElement(SGAXI, {
     className: "sgaxi"
   }, "SG_AXI"), /*#__PURE__*/_react.default.createElement(OverlapGroup, {
-    className: "overlap-group-8"
+    className: "overlap-group-10"
   }, /*#__PURE__*/_react.default.createElement(Text, {
     className: "text-1"
   }, "Live"), /*#__PURE__*/_react.default.createElement(Fill10, {
@@ -37945,7 +38449,7 @@ function Group1083(props) {
     className: "vector-31",
     src: "/img/vector-31@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(OverlapGroup, {
-    className: "overlap-group-9"
+    className: "overlap-group-11"
   }, /*#__PURE__*/_react.default.createElement(Group, {
     className: "group",
     src: "/img/group@2x.svg"
@@ -38003,7 +38507,7 @@ var OverlapGroup12 = _styledComponents.default.div(_templateObject13 || (_templa
 
 var ButtonsMain = _styledComponents.default.img(_templateObject14 || (_templateObject14 = _taggedTemplateLiteral(["\n  width: 200px;\n  height: 35px;\n"])));
 
-var OverlapGroup121 = _styledComponents.default.div(_templateObject15 || (_templateObject15 = _taggedTemplateLiteral(["\n  .group-1083.group-1083-1 & {\n    background-image: url(/img/buttons-main-4@2x.svg);\n  }\n"])));
+var OverlapGroup111 = _styledComponents.default.div(_templateObject15 || (_templateObject15 = _taggedTemplateLiteral(["\n  .group-1083.group-1083-1 & {\n    background-image: url(/img/buttons-main-4@2x.svg);\n  }\n"])));
 
 var _default = Group1083;
 exports.default = _default;
@@ -38032,18 +38536,18 @@ function Group961(props) {
   return /*#__PURE__*/_react.default.createElement(Group9611, {
     className: "group-961 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup2, {
-    className: "overlap-group2-1"
+    className: "overlap-group2-2"
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup1, {
-    className: "overlap-group1-4"
+    className: "overlap-group1-6"
   }, /*#__PURE__*/_react.default.createElement(Group866, {
-    className: "group-866",
+    className: "group-866-1",
     src: "/img/group-866@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(OverlapGroup, {
-    className: "overlap-group-10"
+    className: "overlap-group-12"
   }, /*#__PURE__*/_react.default.createElement(ButtonsMain, {
     className: "buttons-main-1"
   }), /*#__PURE__*/_react.default.createElement(RemindMeLater, {
-    className: "remind-me-later-1"
+    className: "remind-me-later-2"
   }, "Remind Me Later"), /*#__PURE__*/_react.default.createElement(Vector32, {
     className: "vector-32-1",
     src: "/img/vector-32@2x.svg"
@@ -38052,9 +38556,9 @@ function Group961(props) {
   }, "FIX IT")), /*#__PURE__*/_react.default.createElement(Text1, {
     className: "text-1-1"
   }, /*#__PURE__*/_react.default.createElement("span", null, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0-6 poppins-semi-bold-sasquatch-socks-18px"
+    className: "span0-7 poppins-semi-bold-sasquatch-socks-18px"
   }, "Low"), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1-6 poppins-normal-sasquatch-socks-18px"
+    className: "span1-7 poppins-normal-sasquatch-socks-18px"
   }, " Severity Data Drift Detected"), /*#__PURE__*/_react.default.createElement("span", {
     className: "span2-3 poppins-normal-shuttle-gray-18px"
   }, "\xA0"), /*#__PURE__*/_react.default.createElement("span", {
@@ -38152,9 +38656,9 @@ function Group1087(props) {
   return /*#__PURE__*/_react.default.createElement(Group10871, {
     className: "group-1087 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup3, {
-    className: "overlap-group3-2"
+    className: "overlap-group3-3"
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup2, {
-    className: "overlap-group2-2"
+    className: "overlap-group2-3"
   }, /*#__PURE__*/_react.default.createElement(Frame542, {
     className: "frame-542"
   }, /*#__PURE__*/_react.default.createElement(_Group.default, null), /*#__PURE__*/_react.default.createElement(Text6, {
@@ -38162,21 +38666,21 @@ function Group1087(props) {
   }, "Model Self-Monitoring")), /*#__PURE__*/_react.default.createElement(Text7, {
     className: "text-7"
   }, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0-7 poppins-semi-bold-caribbean-green-pearl-24px"
+    className: "span0-8 poppins-semi-bold-caribbean-green-pearl-24px"
   }, "70% Ratio First Prediction", /*#__PURE__*/_react.default.createElement("br", null)), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1-7 poppins-semi-bold-ocean-green-pearl-24px"
+    className: "span1-8 poppins-semi-bold-ocean-green-pearl-24px"
   }, "68% Ratio Real Prediction"))), /*#__PURE__*/_react.default.createElement(Text8, {
     className: "text-8"
   }, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0-8 poppins-normal-shuttle-gray-13px"
+    className: "span0-9 poppins-normal-shuttle-gray-13px"
   }, "Ratio prediction has "), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1-8 poppins-normal-shuttle-gray-12px"
+    className: "span1-9 poppins-normal-shuttle-gray-12px"
   }, "slightly"), /*#__PURE__*/_react.default.createElement("span", {
     className: "span2-4 poppins-normal-shuttle-gray-13px"
   }, " ", "changed. No immediate action is required, but we recommend a close monitoring."))), /*#__PURE__*/_react.default.createElement(OverlapGroup5, {
-    className: "overlap-group5-2"
+    className: "overlap-group5-3"
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup1, {
-    className: "overlap-group1-5"
+    className: "overlap-group1-7"
   }, /*#__PURE__*/_react.default.createElement(Group714, {
     className: "group-714"
   }, /*#__PURE__*/_react.default.createElement(_Group.default, {
@@ -38188,9 +38692,9 @@ function Group1087(props) {
   }, "New Model by Vanti will displayed here")), /*#__PURE__*/_react.default.createElement(Text5, {
     className: "text-5"
   }, "A new model is being automatically trained to potentially improve station performance.")), /*#__PURE__*/_react.default.createElement(OverlapGroup4, {
-    className: "overlap-group4-2"
+    className: "overlap-group4-3"
   }, /*#__PURE__*/_react.default.createElement(OverlapGroup, {
-    className: "overlap-group-11"
+    className: "overlap-group-13"
   }, /*#__PURE__*/_react.default.createElement(Frame713, {
     className: "frame-713"
   }, /*#__PURE__*/_react.default.createElement(Group712, {
@@ -38201,9 +38705,9 @@ function Group1087(props) {
   })), /*#__PURE__*/_react.default.createElement(ModelAdaptation, {
     className: "model-adaptation"
   }, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0-9 poppins-medium-charade-18px"
+    className: "span0-10 poppins-medium-charade-18px"
   }, "Model "), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1-9 poppins-medium-charade-17px"
+    className: "span1-10 poppins-medium-charade-17px"
   }, "Adaptation"))), /*#__PURE__*/_react.default.createElement(Text2, {
     className: "text-2"
   }, "Data Drift detected", /*#__PURE__*/_react.default.createElement("br", null), "in Low Severity")), /*#__PURE__*/_react.default.createElement(Text3, {
@@ -39026,11 +39530,11 @@ function Frame61(props) {
   return /*#__PURE__*/_react.default.createElement(Frame611, {
     className: "frame-61-1 ".concat(className || "")
   }, /*#__PURE__*/_react.default.createElement(State, {
-    className: "state-17"
+    className: "state-22"
   }, /*#__PURE__*/_react.default.createElement("span", null, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0-15 poppins-normal-charade-17px"
+    className: "span0-16 poppins-normal-charade-17px"
   }, spanText), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1-15 poppins-normal-charade-14px"
+    className: "span1-16 poppins-normal-charade-14px"
   }, "(david r. )"))));
 }
 
@@ -39059,9 +39563,9 @@ var _react = _interopRequireDefault(require("react"));
 
 var _Header = _interopRequireDefault(require("../Header3"));
 
-var _Frame139Default = _interopRequireDefault(require("../Frame139Default"));
+var _Frame139Default = _interopRequireDefault(require("../Frame139Default3"));
 
-var _Frame139tags = _interopRequireDefault(require("../Frame139tags"));
+var _Frame139tags = _interopRequireDefault(require("../Frame139tags2"));
 
 var _Frame280Variant = _interopRequireDefault(require("../Frame280Variant6"));
 
@@ -39081,9 +39585,9 @@ var _Property1NehativeInsight = _interopRequireDefault(require("../Property1Neha
 
 var _Frame519DraftDefault = _interopRequireDefault(require("../Frame519DraftDefault"));
 
-var _Property1NehativeInsight2 = _interopRequireDefault(require("../Property1NehativeInsight42"));
+var _Property1NehativeInsight2 = _interopRequireDefault(require("../Property1NehativeInsight7"));
 
-var _Property1NehativeInsight3 = _interopRequireDefault(require("../Property1NehativeInsight4"));
+var _Property1NehativeInsight3 = _interopRequireDefault(require("../Property1NehativeInsight8"));
 
 var _Frame = _interopRequireDefault(require("../Frame61"));
 
@@ -39131,13 +39635,13 @@ function X1(props) {
       spanText12 = props.spanText12,
       spanText13 = props.spanText13,
       header3Props = props.header3Props,
-      frame139DefaultProps = props.frame139DefaultProps,
-      frame139tagsProps = props.frame139tagsProps,
+      frame139Default3Props = props.frame139Default3Props,
+      frame139tags2Props = props.frame139tags2Props,
       frame280Variant6Props = props.frame280Variant6Props,
       frame280Variant4Props = props.frame280Variant4Props,
       frame280Variant42Props = props.frame280Variant42Props,
       frame280Variant3Props = props.frame280Variant3Props,
-      frame139tags2Props = props.frame139tags2Props,
+      frame139tags22Props = props.frame139tags22Props,
       frame519DefaultProps = props.frame519DefaultProps,
       frame519Default2Props = props.frame519Default2Props,
       frame519Default3Props = props.frame519Default3Props,
@@ -39186,10 +39690,10 @@ function X1(props) {
   }), /*#__PURE__*/_react.default.createElement(Ellipse28, {
     src: "/img/ellipse-28@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(Number, null, number)), /*#__PURE__*/_react.default.createElement(_Frame139Default.default, {
-    className: frame139DefaultProps.className
+    className: frame139Default3Props.className
   }), /*#__PURE__*/_react.default.createElement(_Frame139tags.default, {
-    className: frame139tagsProps.className
-  }, frame139tagsProps.children), /*#__PURE__*/_react.default.createElement(Vector50, {
+    className: frame139tags2Props.className
+  }, frame139tags2Props.children), /*#__PURE__*/_react.default.createElement(Vector50, {
     src: "/img/vector-50@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(OverlapGroup3, null, /*#__PURE__*/_react.default.createElement(OverlapGroup1, null, /*#__PURE__*/_react.default.createElement(Ellipse24, {
     src: "/img/ellipse-24@2x.svg"
@@ -39210,8 +39714,8 @@ function X1(props) {
   }, frame280Variant42Props.children), /*#__PURE__*/_react.default.createElement(_Frame280Variant3.default, {
     className: frame280Variant3Props.className
   }), /*#__PURE__*/_react.default.createElement(_Frame139tags.default, {
-    className: frame139tags2Props.className
-  }, frame139tags2Props.children)), /*#__PURE__*/_react.default.createElement(OverlapGroup9, null, /*#__PURE__*/_react.default.createElement(State, null, state), /*#__PURE__*/_react.default.createElement(OverlapGroup11, null, /*#__PURE__*/_react.default.createElement(Text30, null, text30), /*#__PURE__*/_react.default.createElement(Text31, null, text31)), /*#__PURE__*/_react.default.createElement(Text32, null, text32))), /*#__PURE__*/_react.default.createElement(OverlapGroup10, null, /*#__PURE__*/_react.default.createElement(Rectangle209, {
+    className: frame139tags22Props.className
+  }, frame139tags22Props.children)), /*#__PURE__*/_react.default.createElement(OverlapGroup9, null, /*#__PURE__*/_react.default.createElement(State, null, state), /*#__PURE__*/_react.default.createElement(OverlapGroup11, null, /*#__PURE__*/_react.default.createElement(Text30, null, text30), /*#__PURE__*/_react.default.createElement(Text31, null, text31)), /*#__PURE__*/_react.default.createElement(Text32, null, text32))), /*#__PURE__*/_react.default.createElement(OverlapGroup10, null, /*#__PURE__*/_react.default.createElement(Rectangle209, {
     src: "/img/rectangle-209@1x.svg"
   }), /*#__PURE__*/_react.default.createElement(Group1007, {
     src: "/img/group-1007@1x.svg"
@@ -39309,7 +39813,7 @@ function X1(props) {
     src: "/img/chevron-2@2x.svg"
   }), /*#__PURE__*/_react.default.createElement(State4, null, /*#__PURE__*/_react.default.createElement("span", {
     className: "poppins-semi-bold-gulf-blue-17px"
-  }, spanText8), /*#__PURE__*/_react.default.createElement(Span113, null, spanText9), /*#__PURE__*/_react.default.createElement("span", {
+  }, spanText8), /*#__PURE__*/_react.default.createElement(Span114, null, spanText9), /*#__PURE__*/_react.default.createElement("span", {
     className: "poppins-semi-bold-gulf-blue-17px"
   }, spanText10), /*#__PURE__*/_react.default.createElement(Span36, null, spanText11))), /*#__PURE__*/_react.default.createElement(Chevron1, {
     src: "/img/chevron-1@2x.svg"
@@ -39459,7 +39963,7 @@ var OverlapGroup8 = _styledComponents.default.div(_templateObject63 || (_templat
 
 var Group1037 = _styledComponents.default.img(_templateObject64 || (_templateObject64 = _taggedTemplateLiteral(["\n  width: 16px;\n  height: 16px;\n"])));
 
-var Stage = _styledComponents.default.div(_templateObject65 || (_templateObject65 = _taggedTemplateLiteral(["\n  ", "\n  width: 204px;\n  height: 26px;\n  margin-left: 12px;\n  font-family: var(--font-family-poppins-medium);\n  font-weight: 500;\n  color: var(--gulf-blue);\n  font-size: var(--font-size-m);\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle);
+var Stage = _styledComponents.default.div(_templateObject65 || (_templateObject65 = _taggedTemplateLiteral(["\n  ", "\n  ", "\n            width: 204px;\n  height: 26px;\n  margin-left: 12px;\n  letter-spacing: 0;\n"])), _styledMixins.ValignTextMiddle, _styledMixins.PoppinsMediumGulfBlue17px);
 
 var Group1039 = _styledComponents.default.div(_templateObject66 || (_templateObject66 = _taggedTemplateLiteral(["\n  height: 34px;\n  margin-left: 492px;\n  display: flex;\n  padding: 0 7.6px;\n  justify-content: flex-end;\n  align-items: center;\n  min-width: 34px;\n  background-color: var(--black-haze);\n  border-radius: 27px;\n"])));
 
@@ -39473,7 +39977,7 @@ var Chevron = _styledComponents.default.img(_templateObject70 || (_templateObjec
 
 var State4 = _styledComponents.default.div(_templateObject71 || (_templateObject71 = _taggedTemplateLiteral(["\n  ", "\n  position: absolute;\n  top: 0;\n  left: 0;\n  letter-spacing: 0;\n"])), _styledMixins.PoppinsSemiBoldGulfBlue17px);
 
-var Span113 = _styledComponents.default.span(_templateObject72 || (_templateObject72 = _taggedTemplateLiteral(["\n  ", "\n  text-decoration: underline;\n"])), _styledMixins.PoppinsSemiBoldGulfBlue17px);
+var Span114 = _styledComponents.default.span(_templateObject72 || (_templateObject72 = _taggedTemplateLiteral(["\n  ", "\n  text-decoration: underline;\n"])), _styledMixins.PoppinsSemiBoldGulfBlue17px);
 
 var Span36 = _styledComponents.default.span(_templateObject73 || (_templateObject73 = _taggedTemplateLiteral(["\n  font-family: var(--font-family-poppins-semibold);\n  font-weight: 600;\n  color: var(--gulf-blue);\n  font-size: var(--font-size-s);\n"])));
 
@@ -39515,7 +40019,7 @@ var State7 = _styledComponents.default.div(_templateObject91 || (_templateObject
 
 var _default = X1;
 exports.default = _default;
-},{"react":"node_modules/react/index.js","../Header3":"components/Header3/index.jsx","../Frame139Default":"components/Frame139Default/index.jsx","../Frame139tags":"components/Frame139tags/index.jsx","../Frame280Variant6":"components/Frame280Variant6/index.jsx","../Frame280Variant4":"components/Frame280Variant4/index.jsx","../Frame280Variant3":"components/Frame280Variant3/index.jsx","../Frame519Default":"components/Frame519Default/index.jsx","../Frame518Default":"components/Frame518Default/index.jsx","../Frame519ErrorDDSDefault":"components/Frame519ErrorDDSDefault/index.jsx","../Frame519ReadyDefault":"components/Frame519ReadyDefault/index.jsx","../Property1NehativeInsight32":"components/Property1NehativeInsight32/index.jsx","../Frame519DraftDefault":"components/Frame519DraftDefault/index.jsx","../Property1NehativeInsight42":"components/Property1NehativeInsight42/index.jsx","../Property1NehativeInsight4":"components/Property1NehativeInsight4/index.jsx","../Frame61":"components/Frame61/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js","./X1.css":"components/X1/X1.css"}],"components/X7/X7.css":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","../Header3":"components/Header3/index.jsx","../Frame139Default3":"components/Frame139Default3/index.jsx","../Frame139tags2":"components/Frame139tags2/index.jsx","../Frame280Variant6":"components/Frame280Variant6/index.jsx","../Frame280Variant4":"components/Frame280Variant4/index.jsx","../Frame280Variant3":"components/Frame280Variant3/index.jsx","../Frame519Default":"components/Frame519Default/index.jsx","../Frame518Default":"components/Frame518Default/index.jsx","../Frame519ErrorDDSDefault":"components/Frame519ErrorDDSDefault/index.jsx","../Frame519ReadyDefault":"components/Frame519ReadyDefault/index.jsx","../Property1NehativeInsight32":"components/Property1NehativeInsight32/index.jsx","../Frame519DraftDefault":"components/Frame519DraftDefault/index.jsx","../Property1NehativeInsight7":"components/Property1NehativeInsight7/index.jsx","../Property1NehativeInsight8":"components/Property1NehativeInsight8/index.jsx","../Frame61":"components/Frame61/index.jsx","styled-components":"node_modules/styled-components/dist/styled-components.browser.esm.js","../../styledMixins":"styledMixins.js","./X1.css":"components/X1/X1.css"}],"components/X7/X7.css":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
@@ -39699,9 +40203,9 @@ function Cluster2(props) {
   }), /*#__PURE__*/_react.default.createElement(Text47, {
     className: "text-47"
   }, /*#__PURE__*/_react.default.createElement("span", {
-    className: "span0-21 poppins-normal-oxford-blue-14px"
+    className: "span0-22 poppins-normal-oxford-blue-14px"
   }, "Product code "), /*#__PURE__*/_react.default.createElement("span", {
-    className: "span1-21 poppins-semi-bold-oxford-blue-14px"
+    className: "span1-22 poppins-semi-bold-oxford-blue-14px"
   }, spanText2), /*#__PURE__*/_react.default.createElement("span", {
     className: "span2-13 poppins-normal-oxford-blue-14px"
   }, " is responisble for "), /*#__PURE__*/_react.default.createElement("span", {
@@ -40250,6 +40754,8 @@ var _react = _interopRequireDefault(require("react"));
 
 var _reactRouterDom = require("react-router-dom");
 
+var _TestOl = _interopRequireDefault(require("./components/TestOl"));
+
 var _X = _interopRequireDefault(require("./components/X2"));
 
 var _X2 = _interopRequireDefault(require("./components/X5"));
@@ -40263,17 +40769,11 @@ var _X5 = _interopRequireDefault(require("./components/X6"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function App() {
-  return /*#__PURE__*/_react.default.createElement(_reactRouterDom.BrowserRouter, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Switch, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    path: "/2"
-  }, /*#__PURE__*/_react.default.createElement(_X.default, x2Data)), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    path: "/5"
-  }, /*#__PURE__*/_react.default.createElement(_X2.default, x5Data)), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    path: "/:path(|1)"
-  }, /*#__PURE__*/_react.default.createElement(_X3.default, x1Data)), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    path: "/7"
-  }, /*#__PURE__*/_react.default.createElement(_X4.default, x7Data)), /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
-    path: "/6"
-  }, /*#__PURE__*/_react.default.createElement(_X5.default, x6Data))));
+  return /*#__PURE__*/_react.default.createElement("img", {
+    src: "/img/test-11.png",
+    height: "100%",
+    width: "100%"
+  });
 }
 
 var _default = App;
@@ -40281,19 +40781,14 @@ exports.default = _default;
 var header4Data = {
   ellipse12: "/img/group-13@2x.svg"
 };
+var frame139DefaultData = {
+  children: "Live  26"
+};
 var frame139tagsData = {
   children: "Inactive 15"
 };
-var frame280Variant4Data = {
-  children: "Ready 12"
-};
-var frame280Variant42Data = {
-  children: "Vanti Model 12",
-  className: "frame-280-variant4-1"
-};
 var frame139tags2Data = {
-  children: "Draft 68",
-  className: "frame-280-variant5"
+  children: "Draft 68"
 };
 var frame518DefaultData = {
   children: "1K"
@@ -40308,7 +40803,8 @@ var frame518Variant4Data = {
   children: "22K"
 };
 var frame518Variant22Data = {
-  children: "41K"
+  children: "41K",
+  className: "frame-518-variant5-1"
 };
 var frame518Default2Data = {
   children: "2K",
@@ -40325,6 +40821,91 @@ var frame518Default4Data = {
 var frame518Default5Data = {
   children: "1K",
   className: "frame-518-variant7-2"
+};
+var frame518Default6Data = {
+  children: "9K",
+  className: "frame-518-variant7-3"
+};
+var property1NehativeInsight22Data = {
+  className: "insights-8"
+};
+var property1NehativeInsight23Data = {
+  className: "insights-9"
+};
+var property1NehativeInsight3Data = {
+  spanText: "I",
+  spanText2: "n Analysis"
+};
+var testOlData = {
+  state5: "Label",
+  header4Props: header4Data,
+  frame139DefaultProps: frame139DefaultData,
+  frame139tagsProps: frame139tagsData,
+  frame139tags2Props: frame139tags2Data,
+  frame518DefaultProps: frame518DefaultData,
+  frame518Variant2Props: frame518Variant2Data,
+  frame518Variant3Props: frame518Variant3Data,
+  frame518Variant4Props: frame518Variant4Data,
+  frame518Variant22Props: frame518Variant22Data,
+  frame518Default2Props: frame518Default2Data,
+  frame518Default3Props: frame518Default3Data,
+  frame518Default4Props: frame518Default4Data,
+  frame518Default5Props: frame518Default5Data,
+  frame518Default6Props: frame518Default6Data,
+  property1NehativeInsight2Props: property1NehativeInsight22Data,
+  property1NehativeInsight22Props: property1NehativeInsight23Data,
+  property1NehativeInsight3Props: property1NehativeInsight3Data
+};
+var header42Data = {
+  ellipse12: "/img/group-13@2x.svg",
+  className: "header-1"
+};
+var frame139tags22Data = {
+  children: "Inactive 15",
+  className: "frame-139tags-1"
+};
+var frame280Variant4Data = {
+  children: "Ready 12"
+};
+var frame280Variant42Data = {
+  children: "Vanti Model 12",
+  className: "frame-280-variant4-3"
+};
+var frame139tags23Data = {
+  children: "Draft 68"
+};
+var frame518Default7Data = {
+  children: "1K"
+};
+var frame518Variant23Data = {
+  children: "10K",
+  className: "frame-518-variant2-2"
+};
+var frame518Variant32Data = {
+  children: "11K"
+};
+var frame518Variant42Data = {
+  children: "22K"
+};
+var frame518Variant24Data = {
+  children: "41K",
+  className: "frame-518-variant5-2"
+};
+var frame518Default8Data = {
+  children: "2K",
+  className: "frame-518-variant6-1"
+};
+var frame518Default9Data = {
+  children: "4K",
+  className: "frame-518-variant7-4"
+};
+var frame518Default10Data = {
+  children: "43K",
+  className: "frame-518-variant7-5"
+};
+var frame518Default11Data = {
+  children: "1K",
+  className: "frame-518-variant7-6"
 };
 var frame519Default2Data = {
   className: "frame-519-variant2"
@@ -40350,8 +40931,11 @@ var frame519Default8Data = {
 var frame519Default9Data = {
   className: "frame-519-variant7-2"
 };
-var property1NehativeInsight222Data = {
-  className: "insights-1"
+var property1NehativeInsight223Data = {
+  className: "insights-12"
+};
+var property1NehativeInsight322Data = {
+  className: "insights-4"
 };
 var property1NehativeInsightData = {
   children: "Error",
@@ -40363,9 +40947,9 @@ var frame519ErrorDDSDefaultData = {
 var frame519Default10Data = {
   className: "frame-519-variant7-3"
 };
-var frame518Default6Data = {
+var frame518Default12Data = {
   children: "9K",
-  className: "frame-518-variant7-3"
+  className: "frame-518-variant7-7"
 };
 var frame519DraftDefault2Data = {
   className: "frame-519-draft-default-1"
@@ -40374,20 +40958,20 @@ var frame519DraftDefault3Data = {
   className: "frame-519-draft-default-2"
 };
 var x2Data = {
-  header4Props: header4Data,
-  frame139tagsProps: frame139tagsData,
+  header4Props: header42Data,
+  frame139tagsProps: frame139tags22Data,
   frame280Variant4Props: frame280Variant4Data,
   frame280Variant42Props: frame280Variant42Data,
-  frame139tags2Props: frame139tags2Data,
-  frame518DefaultProps: frame518DefaultData,
-  frame518Variant2Props: frame518Variant2Data,
-  frame518Variant3Props: frame518Variant3Data,
-  frame518Variant4Props: frame518Variant4Data,
-  frame518Variant22Props: frame518Variant22Data,
-  frame518Default2Props: frame518Default2Data,
-  frame518Default3Props: frame518Default3Data,
-  frame518Default4Props: frame518Default4Data,
-  frame518Default5Props: frame518Default5Data,
+  frame139tags2Props: frame139tags23Data,
+  frame518DefaultProps: frame518Default7Data,
+  frame518Variant2Props: frame518Variant23Data,
+  frame518Variant3Props: frame518Variant32Data,
+  frame518Variant4Props: frame518Variant42Data,
+  frame518Variant22Props: frame518Variant24Data,
+  frame518Default2Props: frame518Default8Data,
+  frame518Default3Props: frame518Default9Data,
+  frame518Default4Props: frame518Default10Data,
+  frame518Default5Props: frame518Default11Data,
   frame519DefaultProps: frame519Default2Data,
   frame519Default2Props: frame519Default3Data,
   frame519Default3Props: frame519Default4Data,
@@ -40396,10 +40980,11 @@ var x2Data = {
   frame519Default6Props: frame519Default7Data,
   frame519Default7Props: frame519Default8Data,
   frame519Default8Props: frame519Default9Data,
-  property1NehativeInsight22Props: property1NehativeInsight222Data,
+  property1NehativeInsight22Props: property1NehativeInsight223Data,
+  frame518Default6Props: property1NehativeInsight322Data,
   frame519ErrorDDSDefaultProps: frame519ErrorDDSDefaultData,
   frame519Default9Props: frame519Default10Data,
-  frame518Default6Props: frame518Default6Data,
+  frame518Default6Props2: frame518Default12Data,
   frame519DraftDefaultProps: frame519DraftDefault2Data,
   frame519DraftDefault2Props: frame519DraftDefault3Data
 };
@@ -40502,36 +41087,36 @@ var x5Data = {
   property11Props: property11Data,
   property112Props: property112Data
 };
-var group262Data = {
-  className: "group-26-1"
+var group263Data = {
+  className: "group-26-2"
 };
 var header3Data = {
-  group26Props: group262Data
+  group26Props: group263Data
 };
-var frame139Default2Data = {
-  className: "frame-139-default-1"
+var frame139Default32Data = {
+  className: "frame-139-default-2"
 };
-var frame139tags3Data = {
+var frame139tags24Data = {
   children: "Inactive 15",
-  className: "frame-139tags-1"
+  className: "frame-139tags-2"
 };
 var frame280Variant62Data = {
-  className: "frame-280-variant6-1"
+  className: "frame-280-variant6-2"
 };
 var frame280Variant43Data = {
   children: "Ready 12",
-  className: "frame-280-variant4-2"
+  className: "frame-280-variant4-4"
 };
 var frame280Variant44Data = {
   children: "Vanti Model 12",
-  className: "frame-280-variant4-3"
+  className: "frame-280-variant4-5"
 };
 var frame280Variant32Data = {
-  className: "frame-280-variant3-1"
+  className: "frame-280-variant3-2"
 };
-var frame139tags4Data = {
+var frame139tags25Data = {
   children: "Draft 68",
-  className: "frame-280-variant5-1"
+  className: "frame-280-variant5-2"
 };
 var frame519Default11Data = {
   className: "frame-519-default-1"
@@ -40560,92 +41145,92 @@ var frame519Default18Data = {
 var frame519Default19Data = {
   className: "frame-519-variant7-6"
 };
-var frame518Default7Data = {
-  children: "21K",
-  className: "frame-518-default-1"
-};
-var frame518Default8Data = {
-  children: "21K",
-  className: "frame-518-variant2"
-};
-var frame518Default9Data = {
-  children: "21K",
-  className: "frame-518-variant3"
-};
-var frame518Default10Data = {
-  children: "21K",
-  className: "frame-518-variant4"
-};
-var frame518Default11Data = {
-  children: "21K",
-  className: "frame-518-variant5"
-};
-var frame518Default12Data = {
-  children: "21K",
-  className: "frame-518-variant6-1"
-};
 var frame518Default13Data = {
   children: "21K",
-  className: "frame-518-variant7-4"
+  className: "frame-518-default-2"
 };
 var frame518Default14Data = {
   children: "21K",
-  className: "frame-518-variant7-5"
+  className: "frame-518-variant2"
 };
 var frame518Default15Data = {
   children: "21K",
-  className: "frame-518-variant7-6"
+  className: "frame-518-variant3"
 };
-var property1NehativeInsight2Data = {
+var frame518Default16Data = {
+  children: "21K",
+  className: "frame-518-variant4"
+};
+var frame518Default17Data = {
+  children: "21K",
+  className: "frame-518-variant5"
+};
+var frame518Default18Data = {
+  children: "21K",
+  className: "frame-518-variant6-2"
+};
+var frame518Default19Data = {
+  children: "21K",
+  className: "frame-518-variant7-8"
+};
+var frame518Default20Data = {
+  children: "21K",
+  className: "frame-518-variant7-9"
+};
+var frame518Default21Data = {
+  children: "21K",
+  className: "frame-518-variant7-10"
+};
+var property1NehativeInsight4Data = {
   children: "Error",
   className: ""
 };
 var frame519ErrorDDSDefault2Data = {
   className: "frame-519-error-dds-default-1",
-  property1NehativeInsightProps: property1NehativeInsight2Data
+  property1NehativeInsightProps: property1NehativeInsight4Data
 };
-var property1NehativeInsight3Data = {
+var property1NehativeInsight5Data = {
   children: "Error",
   className: ""
 };
 var frame519ErrorDDSDefault3Data = {
   className: "frame-519-error-dds-default-2",
-  property1NehativeInsightProps: property1NehativeInsight3Data
+  property1NehativeInsightProps: property1NehativeInsight5Data
 };
-var property1NehativeInsight5Data = {
+var property1NehativeInsight9Data = {
   children: "Error",
-  className: "insights-8"
+  className: "insights-16"
 };
 var frame519ErrorDDSDefault4Data = {
   className: "frame-519-new-model-default",
-  property1NehativeInsightProps: property1NehativeInsight5Data
+  property1NehativeInsightProps: property1NehativeInsight9Data
 };
-var property1NehativeInsight6Data = {
+var property1NehativeInsight10Data = {
   children: "Error",
-  className: "insights-9"
+  className: "insights-17"
 };
 var frame519ErrorDDSDefault5Data = {
   className: "frame-519-error-dds-default-3",
-  property1NehativeInsightProps: property1NehativeInsight6Data
+  property1NehativeInsightProps: property1NehativeInsight10Data
 };
-var property1NehativeInsight223Data = {
-  className: "insights-2"
+var property1NehativeInsight224Data = {
+  className: "insights-13"
 };
 var frame519ReadyDefaultData = {
-  property1NehativeInsight22Props: property1NehativeInsight223Data
+  property1NehativeInsight22Props: property1NehativeInsight224Data
 };
 var property1NehativeInsight323Data = {
-  className: "insights-4"
+  className: "insights-5"
 };
 var property1NehativeInsight324Data = {
-  className: "insights-5"
+  className: "insights-6"
 };
 var frame519Default20Data = {
   className: "frame-519-variant7-7"
 };
-var frame518Default16Data = {
+var frame518Default22Data = {
   children: "21K",
-  className: "frame-518-variant7-7"
+  className: "frame-518-variant7-11"
 };
 var frame519DraftDefault5Data = {
   className: "frame-519-draft-default-4"
@@ -40692,13 +41277,13 @@ var x1Data = {
   spanText12: /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, "21 minutes ago", /*#__PURE__*/_react.default.createElement("br", null)),
   spanText13: "12:45 | 17 jun 21",
   header3Props: header3Data,
-  frame139DefaultProps: frame139Default2Data,
-  frame139tagsProps: frame139tags3Data,
+  frame139Default3Props: frame139Default32Data,
+  frame139tags2Props: frame139tags24Data,
   frame280Variant6Props: frame280Variant62Data,
   frame280Variant4Props: frame280Variant43Data,
   frame280Variant42Props: frame280Variant44Data,
   frame280Variant3Props: frame280Variant32Data,
-  frame139tags2Props: frame139tags4Data,
+  frame139tags22Props: frame139tags25Data,
   frame519DefaultProps: frame519Default11Data,
   frame519Default2Props: frame519Default12Data,
   frame519Default3Props: frame519Default13Data,
@@ -40708,15 +41293,15 @@ var x1Data = {
   frame519Default7Props: frame519Default17Data,
   frame519Default8Props: frame519Default18Data,
   frame519Default9Props: frame519Default19Data,
-  frame518DefaultProps: frame518Default7Data,
-  frame518Default2Props: frame518Default8Data,
-  frame518Default3Props: frame518Default9Data,
-  frame518Default4Props: frame518Default10Data,
-  frame518Default5Props: frame518Default11Data,
-  frame518Default6Props: frame518Default12Data,
-  frame518Default7Props: frame518Default13Data,
-  frame518Default8Props: frame518Default14Data,
-  frame518Default9Props: frame518Default15Data,
+  frame518DefaultProps: frame518Default13Data,
+  frame518Default2Props: frame518Default14Data,
+  frame518Default3Props: frame518Default15Data,
+  frame518Default4Props: frame518Default16Data,
+  frame518Default5Props: frame518Default17Data,
+  frame518Default6Props: frame518Default18Data,
+  frame518Default7Props: frame518Default19Data,
+  frame518Default8Props: frame518Default20Data,
+  frame518Default9Props: frame518Default21Data,
   frame519ErrorDDSDefaultProps: frame519ErrorDDSDefault2Data,
   frame519ErrorDDSDefault2Props: frame519ErrorDDSDefault3Data,
   frame519ErrorDDSDefault3Props: frame519ErrorDDSDefault4Data,
@@ -40725,14 +41310,14 @@ var x1Data = {
   property1NehativeInsight32Props: property1NehativeInsight323Data,
   property1NehativeInsight322Props: property1NehativeInsight324Data,
   frame519Default10Props: frame519Default20Data,
-  frame518Default10Props: frame518Default16Data,
+  frame518Default10Props: frame518Default22Data,
   frame519DraftDefaultProps: frame519DraftDefault5Data,
   frame519DraftDefault2Props: frame519DraftDefault6Data,
   frame61Props: frame61Data,
   frame612Props: frame612Data
 };
 var header22Data = {
-  className: "header-3"
+  className: "header-4"
 };
 var group322Data = {
   className: "group-32-1"
@@ -40827,9 +41412,9 @@ var cluster22Data = {
   className: "cluster-3",
   property1DefaultProps: property1Default4Data
 };
-var header42Data = {
+var header43Data = {
   ellipse12: "/img/group-13-4@2x.svg",
-  className: "header-1"
+  className: "header-2"
 };
 var x6Data = {
   spanText: "Clusters ",
@@ -40903,9 +41488,9 @@ var x6Data = {
   property1DefaultProps: property1Default2Data,
   cluster2Props: cluster2Data,
   cluster22Props: cluster22Data,
-  header4Props: header42Data
+  header4Props: header43Data
 };
-},{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./components/X2":"components/X2/index.jsx","./components/X5":"components/X5/index.jsx","./components/X1":"components/X1/index.jsx","./components/X7":"components/X7/index.jsx","./components/X6":"components/X6/index.jsx"}],"index.js":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","react-router-dom":"node_modules/react-router-dom/esm/react-router-dom.js","./components/TestOl":"components/TestOl/index.jsx","./components/X2":"components/X2/index.jsx","./components/X5":"components/X5/index.jsx","./components/X1":"components/X1/index.jsx","./components/X7":"components/X7/index.jsx","./components/X6":"components/X6/index.jsx"}],"index.js":[function(require,module,exports) {
 "use strict";
 
 var _react = _interopRequireDefault(require("react"));
@@ -40949,7 +41534,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55660" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62842" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

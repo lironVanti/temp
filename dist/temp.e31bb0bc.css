@@ -1,6 +1,6 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:400");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500");
 
 .screen a {
   display: contents;
@@ -56,9 +56,19 @@
   --font-family-poppins: "Poppins", Helvetica;
   --font-family-poppins-bold: "Poppins-Bold", Helvetica;
   --font-family-poppins-light: "Poppins-Light", Helvetica;
-  --font-family-poppins-medium: "Poppins-Medium", Helvetica;
   --font-family-poppins-semibold: "Poppins-SemiBold", Helvetica;
 }
+
+.test-ol {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 1190px;
+  position: relative;
+  width: 1920px;
+}
+
 
 .x2 {
   align-items: flex-start;

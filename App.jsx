@@ -9,30 +9,9 @@ import X7 from "./components/X7";
 import X6 from "./components/X6";
 
 function App() {
-  return (
-    <Router>
-      <Switch>
-        <Route path="/test-ol">
-          <TestOl {...testOlData} />
-        </Route>
-        <Route path="/2">
-          <X2 {...x2Data} />
-        </Route>
-        <Route path="/5">
-          <X5 {...x5Data} />
-        </Route>
-        <Route path="/:path(|1)">
-          <X1 {...x1Data} />
-        </Route>
-        <Route path="/7">
-          <X7 {...x7Data} />
-        </Route>
-        <Route path="/6">
-          <X6 {...x6Data} />
-        </Route>
-      </Switch>
-    </Router>
-  );
+    return (
+        <img src="/img/test-11.png" height="100%" width="100%"></img>
+    );
 }
 
 export default App;
