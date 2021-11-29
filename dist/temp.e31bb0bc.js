@@ -40790,44 +40790,103 @@ function App() {
       currentImage = _useState2[0],
       setCurrentImage = _useState2[1];
 
+  function FullPageClick(_ref) {
+    var imgSrc = _ref.imgSrc,
+        imageNum = _ref.imageNum;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "100%",
+          width: "100%"
+        },
+        onClick: function onClick() {
+          return setCurrentImage(imageNum + 1);
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%"
+      }));
+    }
+
+    return null;
+  }
+
+  function TopPageClick(_ref2) {
+    var imgSrc = _ref2.imgSrc,
+        imageNum = _ref2.imageNum,
+        noClick = _ref2.noClick;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "30%",
+          width: "100%",
+          cursor: "grab !important"
+        },
+        onClick: function onClick() {
+          return !noClick && setCurrentImage(imageNum + 1);
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%"
+      }));
+    }
+
+    return null;
+  }
+
   return /*#__PURE__*/_react.default.createElement(_reactRouterDom.BrowserRouter, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Switch, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
     path: "/:path(|1)"
-  }, currentImage === 1 && /*#__PURE__*/_react.default.createElement("img", {
-    src: "/img/a1.png",
-    height: "100%",
-    width: "100%",
-    onClick: function onClick() {
-      return setCurrentImage(2);
-    }
-  }), currentImage === 2 && /*#__PURE__*/_react.default.createElement("div", {
-    style: {
-      height: "100%",
-      width: "100%"
-    }
-  }, /*#__PURE__*/_react.default.createElement("div", {
-    style: {
-      position: "absolute",
-      height: "30%",
-      width: "100%"
-    },
-    onClick: function onClick() {
-      return setCurrentImage(3);
-    }
-  }), /*#__PURE__*/_react.default.createElement("img", {
-    src: "/img/a2.png",
-    height: "100%",
-    width: "100%"
-  })), currentImage === 3 && /*#__PURE__*/_react.default.createElement("img", {
-    src: "/img/a3.png",
-    height: "100%",
-    width: "100%",
-    onClick: function onClick() {
-      return setCurrentImage(4);
-    }
-  }), currentImage === 4 && /*#__PURE__*/_react.default.createElement("img", {
-    src: "/img/a4.png",
-    height: "100%",
-    width: "100%"
+  }, /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 1,
+    imgSrc: "/img/1b.png"
+  }), /*#__PURE__*/_react.default.createElement(TopPageClick, {
+    imageNum: 2,
+    imgSrc: "/img/2b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 3,
+    imgSrc: "/img/3b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 4,
+    imgSrc: "/img/4b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 5,
+    imgSrc: "/img/5b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 6,
+    imgSrc: "/img/6b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 7,
+    imgSrc: "/img/7b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 8,
+    imgSrc: "/img/8b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 9,
+    imgSrc: "/img/9b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 10,
+    noClick: true,
+    imgSrc: "/img/10b.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imageNum: 11,
+    noClick: true,
+    imgSrc: "/img/10b.png"
   }))));
 }
 
@@ -41589,7 +41648,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56701" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50791" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
