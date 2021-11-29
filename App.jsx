@@ -1,5 +1,5 @@
 
-import React from "react";
+import React, { useState } from "react";
 import { Switch, BrowserRouter as Router, Route } from "react-router-dom";
 import TestOl from "./components/TestOl";
 import X2 from "./components/X2";
@@ -9,8 +9,26 @@ import X7 from "./components/X7";
 import X6 from "./components/X6";
 
 function App() {
+    const [currentImage, setCurrentImage] = useState(1);
     return (
-        <img src="/img/test-11.png" height="100%" width="100%"></img>
+        <Router>
+      <Switch>
+        <Route path="/:path(|1)">
+        {currentImage ===1 && <img src="/img/a1.png" height="100%" width="100%" onClick={() => setCurrentImage(2)}/>}
+        {
+            currentImage ===2 && 
+                <div style={{height: "100%", width: "100%"}}>
+                    {/* , backgroundColor: "red" */}
+                    <div style={{position:"absolute", height:"30%", width: "100%"}}  onClick={() => setCurrentImage(3)}></div>
+                    <img src="/img/a2.png" height="100%" width="100%"/>
+                </div>
+        }
+        {currentImage ===3 && <img src="/img/a3.png" height="100%" width="100%"   onClick={() => setCurrentImage(4)}/>}
+        {currentImage ===4 && <img src="/img/a4.png" height="100%" width="100%"/>}
+        </Route>
+        
+      </Switch>
+    </Router>
     );
 }
 
