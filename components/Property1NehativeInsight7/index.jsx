@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { PoppinsNormalGulfBlue17px, ValignTextMiddle } from "../../styledMixins";
 
 
-function Property1NehativeInsight42() {
+function Property1NehativeInsight7() {
   return (
     <Insights>
       <Attention>In Analysis</Attention>
@@ -49,4 +49,4 @@ const Attention1 = styled.div`
   letter-spacing: 0;
 `;
 
-export default Property1NehativeInsight42;
+export default Property1NehativeInsight7;

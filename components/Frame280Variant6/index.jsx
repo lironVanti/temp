@@ -7,8 +7,8 @@ function Frame280Variant6(props) {
   const { className } = props;
 
   return (
-    <Frame280Variant61 className={`frame-280-variant6 ${className || ""}`}>
-      <Rectangle204 className="rectangle-204-2"></Rectangle204>
+    <Frame280Variant61 className={`frame-280-variant6-1 ${className || ""}`}>
+      <Rectangle204 className="rectangle-204-4"></Rectangle204>
       <Error4 className="error-4">Error 4</Error4>
     </Frame280Variant61>
   );
@@ -23,7 +23,7 @@ const Frame280Variant61 = styled.div`
   align-items: center;
   min-width: 85px;
 
-  &.frame-280-variant6.frame-280-variant6-1 {
+  &.frame-280-variant6-1.frame-280-variant6-2 {
     margin-top: 20px;
     margin-left: 34px;
   }

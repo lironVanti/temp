@@ -60,6 +60,14 @@ export const PoppinsNormalOxfordBlue14px = css`
   font-style: normal;
 `;
 
+export const PoppinsNormalOxfordBlue17px = css`
+  color: var(--oxford-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+`;
+
 export const PoppinsNormalGulfBlue17px = css`
   color: var(--gulf-blue);
   font-family: var(--font-family-poppins);
@@ -76,14 +84,6 @@ export const PoppinsBoldOxfordBlue30px = css`
   font-style: normal;
 `;
 
-export const PoppinsNormalOxfordBlue17px = css`
-  color: var(--oxford-blue);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-m);
-  font-weight: 400;
-  font-style: normal;
-`;
-
 export const PoppinsSemiBoldOxfordBlue14px = css`
   color: var(--oxford-blue-2);
   font-family: var(--font-family-poppins-semibold);
@@ -96,6 +96,14 @@ export const PoppinsNormalShuttleGray24px = css`
   color: var(--shuttle-gray);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+`;
+
+export const PoppinsNormalWhite16px = css`
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 16px;
   font-weight: 400;
   font-style: normal;
 `;
@@ -118,7 +126,7 @@ export const PoppinsNormalPeriwinkle17px = css`
 
 export const PoppinsMediumCharade18px = css`
   color: var(--charade);
-  font-family: var(--font-family-poppins-medium);
+  font-family: var(--font-family-poppins);
   font-size: var(--font-size-l);
   font-weight: 500;
   font-style: normal;
@@ -140,14 +148,6 @@ export const PoppinsNormalWhite13px = css`
   font-style: normal;
 `;
 
-export const PoppinsNormalWhite16px = css`
-  color: var(--white);
-  font-family: var(--font-family-poppins);
-  font-size: 16px;
-  font-weight: 400;
-  font-style: normal;
-`;
-
 export const PoppinsNormalSasquatchSocks18px = css`
   color: var(--sasquatch-socks);
   font-family: var(--font-family-poppins);
@@ -160,6 +160,14 @@ export const PoppinsNormalCharade30px = css`
   color: var(--charade);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+`;
+
+export const PoppinsNormalPeriwinkle13px = css`
+  color: var(--periwinkle);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
   font-weight: 400;
   font-style: normal;
 `;
@@ -181,7 +189,7 @@ export const PoppinsSemiBoldWhite24px = css`
 
 export const PoppinsMediumCharade17px = css`
   color: var(--charade);
-  font-family: var(--font-family-poppins-medium);
+  font-family: var(--font-family-poppins);
   font-size: var(--font-size-m);
   font-weight: 500;
   font-style: normal;
@@ -189,7 +197,7 @@ export const PoppinsMediumCharade17px = css`
 
 export const PoppinsMediumShuttleGray17px = css`
   color: var(--shuttle-gray);
-  font-family: var(--font-family-poppins-medium);
+  font-family: var(--font-family-poppins);
   font-size: var(--font-size-m);
   font-weight: 500;
   font-style: normal;
@@ -224,14 +232,6 @@ export const PoppinsBoldOxfordBlue36px = css`
   font-family: var(--font-family-poppins-bold);
   font-size: 36px;
   font-weight: 700;
-  font-style: normal;
-`;
-
-export const PoppinsNormalPeriwinkle13px = css`
-  color: var(--periwinkle);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-xs);
-  font-weight: 400;
   font-style: normal;
 `;
 
@@ -295,6 +295,14 @@ export const PoppinsNormalOxfordBlue15px = css`
   font-family: var(--font-family-poppins);
   font-size: 15px;
   font-weight: 400;
+  font-style: normal;
+`;
+
+export const PoppinsMediumGulfBlue17px = css`
+  color: var(--gulf-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
   font-style: normal;
 `;
 

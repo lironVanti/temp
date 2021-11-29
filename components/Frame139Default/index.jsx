@@ -1,15 +1,15 @@
 import React from "react";
 import styled from "styled-components";
-import { PoppinsNormalCharade17px } from "../../styledMixins";
+import { PoppinsNormalOxfordBlue17px } from "../../styledMixins";
 
 
 function Frame139Default(props) {
-  const { className } = props;
+  const { children } = props;
 
   return (
-    <Frame139Default1 className={`frame-139-default ${className || ""}`}>
-      <Rectangle204 className="rectangle-204"></Rectangle204>
-      <Live26 className="live-26">Live&nbsp;&nbsp;26</Live26>
+    <Frame139Default1>
+      <Rectangle204></Rectangle204>
+      <Live26>{children}</Live26>
     </Frame139Default1>
   );
 }
@@ -21,10 +21,6 @@ const Frame139Default1 = styled.div`
   display: flex;
   align-items: center;
   min-width: 93px;
-
-  &.frame-139-default.frame-139-default-1 {
-    margin-right: 65px;
-  }
 `;
 
 const Rectangle204 = styled.div`
@@ -34,7 +30,7 @@ const Rectangle204 = styled.div`
 `;
 
 const Live26 = styled.div`
-  ${PoppinsNormalCharade17px}
+  ${PoppinsNormalOxfordBlue17px}
   min-height: 26px;
   margin-left: 11px;
   min-width: 62px;

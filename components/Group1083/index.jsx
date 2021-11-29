@@ -10,7 +10,7 @@ function Group1083(props) {
     <Group10831 className={`group-1083 ${className || ""}`}>
       <OverlapGroup11 className="overlap-group11">
         <Vector31 className="vector-31" src="/img/vector-31@2x.svg" />
-        <OverlapGroup className="overlap-group-9">
+        <OverlapGroup className="overlap-group-11">
           <Group className="group" src="/img/group@2x.svg" />
           <Scan className="scan">Predict</Scan>
         </OverlapGroup>
@@ -156,7 +156,7 @@ const ButtonsMain = styled.img`
   height: 35px;
 `;
 
-const OverlapGroup121 = styled.div`
+const OverlapGroup111 = styled.div`
   .group-1083.group-1083-1 & {
     background-image: url(/img/buttons-main-4@2x.svg);
   }

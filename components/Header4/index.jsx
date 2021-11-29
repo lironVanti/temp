@@ -9,7 +9,7 @@ function Header4(props) {
   return (
     <Header className={`header ${className || ""}`}>
       <OverlapGroup6 className="overlap-group6">
-        <OverlapGroup className="overlap-group-4">
+        <OverlapGroup className="overlap-group-2">
           <Fill1 className="fill-1" src="/img/fill-1@2x.svg" />
           <Group13 className="group-13" src={ellipse12} />
         </OverlapGroup>
@@ -21,18 +21,20 @@ function Header4(props) {
 
 const Header = styled.div`
   height: 70px;
-  margin-top: 1870px;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   min-width: 1920px;
 
   &.header.header-1 {
+    margin-top: 1870px;
+  }
+
+  &.header.header-2 {
     position: fixed;
     top: 0;
     left: 0;
     z-index: 3;
-    margin-top: unset;
   }
 `;
 
@@ -74,7 +76,7 @@ const Group13 = styled.img`
 `;
 
 const OverlapGroup8 = styled.div`
-  .header.header-1 & {
+  .header.header-2 & {
     background-image: url(/img/rectangle-4@1x.svg);
   }
 `;

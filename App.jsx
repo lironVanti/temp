@@ -1,6 +1,7 @@
 
 import React from "react";
 import { Switch, BrowserRouter as Router, Route } from "react-router-dom";
+import TestOl from "./components/TestOl";
 import X2 from "./components/X2";
 import X5 from "./components/X5";
 import X1 from "./components/X1";
@@ -11,6 +12,9 @@ function App() {
   return (
     <Router>
       <Switch>
+        <Route path="/test-ol">
+          <TestOl {...testOlData} />
+        </Route>
         <Route path="/2">
           <X2 {...x2Data} />
         </Route>
@@ -36,22 +40,16 @@ const header4Data = {
     ellipse12: "/img/group-13@2x.svg",
 };
 
+const frame139DefaultData = {
+    children: "Live  26",
+};
+
 const frame139tagsData = {
     children: "Inactive 15",
 };
 
-const frame280Variant4Data = {
-    children: "Ready 12",
-};
-
-const frame280Variant42Data = {
-    children: "Vanti Model 12",
-    className: "frame-280-variant4-1",
-};
-
 const frame139tags2Data = {
     children: "Draft 68",
-    className: "frame-280-variant5",
 };
 
 const frame518DefaultData = {
@@ -72,6 +70,7 @@ const frame518Variant4Data = {
 
 const frame518Variant22Data = {
     children: "41K",
+    className: "frame-518-variant5-1",
 };
 
 const frame518Default2Data = {
@@ -92,6 +91,110 @@ const frame518Default4Data = {
 const frame518Default5Data = {
     children: "1K",
     className: "frame-518-variant7-2",
+};
+
+const frame518Default6Data = {
+    children: "9K",
+    className: "frame-518-variant7-3",
+};
+
+const property1NehativeInsight22Data = {
+    className: "insights-8",
+};
+
+const property1NehativeInsight23Data = {
+    className: "insights-9",
+};
+
+const property1NehativeInsight3Data = {
+    spanText: "I",
+    spanText2: "n Analysis",
+};
+
+const testOlData = {
+    state5: "Label",
+    header4Props: header4Data,
+    frame139DefaultProps: frame139DefaultData,
+    frame139tagsProps: frame139tagsData,
+    frame139tags2Props: frame139tags2Data,
+    frame518DefaultProps: frame518DefaultData,
+    frame518Variant2Props: frame518Variant2Data,
+    frame518Variant3Props: frame518Variant3Data,
+    frame518Variant4Props: frame518Variant4Data,
+    frame518Variant22Props: frame518Variant22Data,
+    frame518Default2Props: frame518Default2Data,
+    frame518Default3Props: frame518Default3Data,
+    frame518Default4Props: frame518Default4Data,
+    frame518Default5Props: frame518Default5Data,
+    frame518Default6Props: frame518Default6Data,
+    property1NehativeInsight2Props: property1NehativeInsight22Data,
+    property1NehativeInsight22Props: property1NehativeInsight23Data,
+    property1NehativeInsight3Props: property1NehativeInsight3Data,
+};
+
+const header42Data = {
+    ellipse12: "/img/group-13@2x.svg",
+    className: "header-1",
+};
+
+const frame139tags22Data = {
+    children: "Inactive 15",
+    className: "frame-139tags-1",
+};
+
+const frame280Variant4Data = {
+    children: "Ready 12",
+};
+
+const frame280Variant42Data = {
+    children: "Vanti Model 12",
+    className: "frame-280-variant4-3",
+};
+
+const frame139tags23Data = {
+    children: "Draft 68",
+};
+
+const frame518Default7Data = {
+    children: "1K",
+};
+
+const frame518Variant23Data = {
+    children: "10K",
+    className: "frame-518-variant2-2",
+};
+
+const frame518Variant32Data = {
+    children: "11K",
+};
+
+const frame518Variant42Data = {
+    children: "22K",
+};
+
+const frame518Variant24Data = {
+    children: "41K",
+    className: "frame-518-variant5-2",
+};
+
+const frame518Default8Data = {
+    children: "2K",
+    className: "frame-518-variant6-1",
+};
+
+const frame518Default9Data = {
+    children: "4K",
+    className: "frame-518-variant7-4",
+};
+
+const frame518Default10Data = {
+    children: "43K",
+    className: "frame-518-variant7-5",
+};
+
+const frame518Default11Data = {
+    children: "1K",
+    className: "frame-518-variant7-6",
 };
 
 const frame519Default2Data = {
@@ -126,8 +229,12 @@ const frame519Default9Data = {
     className: "frame-519-variant7-2",
 };
 
-const property1NehativeInsight222Data = {
-    className: "insights-1",
+const property1NehativeInsight223Data = {
+    className: "insights-12",
+};
+
+const property1NehativeInsight322Data = {
+    className: "insights-4",
 };
 
 const property1NehativeInsightData = {
@@ -143,9 +250,9 @@ const frame519Default10Data = {
     className: "frame-519-variant7-3",
 };
 
-const frame518Default6Data = {
+const frame518Default12Data = {
     children: "9K",
-    className: "frame-518-variant7-3",
+    className: "frame-518-variant7-7",
 };
 
 const frame519DraftDefault2Data = {
@@ -157,20 +264,20 @@ const frame519DraftDefault3Data = {
 };
 
 const x2Data = {
-    header4Props: header4Data,
-    frame139tagsProps: frame139tagsData,
+    header4Props: header42Data,
+    frame139tagsProps: frame139tags22Data,
     frame280Variant4Props: frame280Variant4Data,
     frame280Variant42Props: frame280Variant42Data,
-    frame139tags2Props: frame139tags2Data,
-    frame518DefaultProps: frame518DefaultData,
-    frame518Variant2Props: frame518Variant2Data,
-    frame518Variant3Props: frame518Variant3Data,
-    frame518Variant4Props: frame518Variant4Data,
-    frame518Variant22Props: frame518Variant22Data,
-    frame518Default2Props: frame518Default2Data,
-    frame518Default3Props: frame518Default3Data,
-    frame518Default4Props: frame518Default4Data,
-    frame518Default5Props: frame518Default5Data,
+    frame139tags2Props: frame139tags23Data,
+    frame518DefaultProps: frame518Default7Data,
+    frame518Variant2Props: frame518Variant23Data,
+    frame518Variant3Props: frame518Variant32Data,
+    frame518Variant4Props: frame518Variant42Data,
+    frame518Variant22Props: frame518Variant24Data,
+    frame518Default2Props: frame518Default8Data,
+    frame518Default3Props: frame518Default9Data,
+    frame518Default4Props: frame518Default10Data,
+    frame518Default5Props: frame518Default11Data,
     frame519DefaultProps: frame519Default2Data,
     frame519Default2Props: frame519Default3Data,
     frame519Default3Props: frame519Default4Data,
@@ -179,10 +286,11 @@ const x2Data = {
     frame519Default6Props: frame519Default7Data,
     frame519Default7Props: frame519Default8Data,
     frame519Default8Props: frame519Default9Data,
-    property1NehativeInsight22Props: property1NehativeInsight222Data,
+    property1NehativeInsight22Props: property1NehativeInsight223Data,
+    frame518Default6Props: property1NehativeInsight322Data,
     frame519ErrorDDSDefaultProps: frame519ErrorDDSDefaultData,
     frame519Default9Props: frame519Default10Data,
-    frame518Default6Props: frame518Default6Data,
+    frame518Default6Props2: frame518Default12Data,
     frame519DraftDefaultProps: frame519DraftDefault2Data,
     frame519DraftDefault2Props: frame519DraftDefault3Data,
 };
@@ -299,44 +407,44 @@ const x5Data = {
     property112Props: property112Data,
 };
 
-const group262Data = {
-    className: "group-26-1",
+const group263Data = {
+    className: "group-26-2",
 };
 
 const header3Data = {
-    group26Props: group262Data,
+    group26Props: group263Data,
 };
 
-const frame139Default2Data = {
-    className: "frame-139-default-1",
+const frame139Default32Data = {
+    className: "frame-139-default-2",
 };
 
-const frame139tags3Data = {
+const frame139tags24Data = {
     children: "Inactive 15",
-    className: "frame-139tags-1",
+    className: "frame-139tags-2",
 };
 
 const frame280Variant62Data = {
-    className: "frame-280-variant6-1",
+    className: "frame-280-variant6-2",
 };
 
 const frame280Variant43Data = {
     children: "Ready 12",
-    className: "frame-280-variant4-2",
+    className: "frame-280-variant4-4",
 };
 
 const frame280Variant44Data = {
     children: "Vanti Model 12",
-    className: "frame-280-variant4-3",
+    className: "frame-280-variant4-5",
 };
 
 const frame280Variant32Data = {
-    className: "frame-280-variant3-1",
+    className: "frame-280-variant3-2",
 };
 
-const frame139tags4Data = {
+const frame139tags25Data = {
     children: "Draft 68",
-    className: "frame-280-variant5-1",
+    className: "frame-280-variant5-2",
 };
 
 const frame519Default11Data = {
@@ -375,114 +483,114 @@ const frame519Default19Data = {
     className: "frame-519-variant7-6",
 };
 
-const frame518Default7Data = {
-    children: "21K",
-    className: "frame-518-default-1",
-};
-
-const frame518Default8Data = {
-    children: "21K",
-    className: "frame-518-variant2",
-};
-
-const frame518Default9Data = {
-    children: "21K",
-    className: "frame-518-variant3",
-};
-
-const frame518Default10Data = {
-    children: "21K",
-    className: "frame-518-variant4",
-};
-
-const frame518Default11Data = {
-    children: "21K",
-    className: "frame-518-variant5",
-};
-
-const frame518Default12Data = {
-    children: "21K",
-    className: "frame-518-variant6-1",
-};
-
 const frame518Default13Data = {
     children: "21K",
-    className: "frame-518-variant7-4",
+    className: "frame-518-default-2",
 };
 
 const frame518Default14Data = {
     children: "21K",
-    className: "frame-518-variant7-5",
+    className: "frame-518-variant2",
 };
 
 const frame518Default15Data = {
     children: "21K",
-    className: "frame-518-variant7-6",
+    className: "frame-518-variant3",
 };
 
-const property1NehativeInsight2Data = {
+const frame518Default16Data = {
+    children: "21K",
+    className: "frame-518-variant4",
+};
+
+const frame518Default17Data = {
+    children: "21K",
+    className: "frame-518-variant5",
+};
+
+const frame518Default18Data = {
+    children: "21K",
+    className: "frame-518-variant6-2",
+};
+
+const frame518Default19Data = {
+    children: "21K",
+    className: "frame-518-variant7-8",
+};
+
+const frame518Default20Data = {
+    children: "21K",
+    className: "frame-518-variant7-9",
+};
+
+const frame518Default21Data = {
+    children: "21K",
+    className: "frame-518-variant7-10",
+};
+
+const property1NehativeInsight4Data = {
     children: "Error",
     className: "",
 };
 
 const frame519ErrorDDSDefault2Data = {
     className: "frame-519-error-dds-default-1",
-    property1NehativeInsightProps: property1NehativeInsight2Data,
+    property1NehativeInsightProps: property1NehativeInsight4Data,
 };
 
-const property1NehativeInsight3Data = {
+const property1NehativeInsight5Data = {
     children: "Error",
     className: "",
 };
 
 const frame519ErrorDDSDefault3Data = {
     className: "frame-519-error-dds-default-2",
-    property1NehativeInsightProps: property1NehativeInsight3Data,
+    property1NehativeInsightProps: property1NehativeInsight5Data,
 };
 
-const property1NehativeInsight5Data = {
+const property1NehativeInsight9Data = {
     children: "Error",
-    className: "insights-8",
+    className: "insights-16",
 };
 
 const frame519ErrorDDSDefault4Data = {
     className: "frame-519-new-model-default",
-    property1NehativeInsightProps: property1NehativeInsight5Data,
+    property1NehativeInsightProps: property1NehativeInsight9Data,
 };
 
-const property1NehativeInsight6Data = {
+const property1NehativeInsight10Data = {
     children: "Error",
-    className: "insights-9",
+    className: "insights-17",
 };
 
 const frame519ErrorDDSDefault5Data = {
     className: "frame-519-error-dds-default-3",
-    property1NehativeInsightProps: property1NehativeInsight6Data,
+    property1NehativeInsightProps: property1NehativeInsight10Data,
 };
 
-const property1NehativeInsight223Data = {
-    className: "insights-2",
+const property1NehativeInsight224Data = {
+    className: "insights-13",
 };
 
 const frame519ReadyDefaultData = {
-    property1NehativeInsight22Props: property1NehativeInsight223Data,
+    property1NehativeInsight22Props: property1NehativeInsight224Data,
 };
 
 const property1NehativeInsight323Data = {
-    className: "insights-4",
+    className: "insights-5",
 };
 
 const property1NehativeInsight324Data = {
-    className: "insights-5",
+    className: "insights-6",
 };
 
 const frame519Default20Data = {
     className: "frame-519-variant7-7",
 };
 
-const frame518Default16Data = {
+const frame518Default22Data = {
     children: "21K",
-    className: "frame-518-variant7-7",
+    className: "frame-518-variant7-11",
 };
 
 const frame519DraftDefault5Data = {
@@ -534,13 +642,13 @@ const x1Data = {
     spanText12: <>21 minutes ago<br /></>,
     spanText13: "12:45 | 17 jun 21",
     header3Props: header3Data,
-    frame139DefaultProps: frame139Default2Data,
-    frame139tagsProps: frame139tags3Data,
+    frame139Default3Props: frame139Default32Data,
+    frame139tags2Props: frame139tags24Data,
     frame280Variant6Props: frame280Variant62Data,
     frame280Variant4Props: frame280Variant43Data,
     frame280Variant42Props: frame280Variant44Data,
     frame280Variant3Props: frame280Variant32Data,
-    frame139tags2Props: frame139tags4Data,
+    frame139tags22Props: frame139tags25Data,
     frame519DefaultProps: frame519Default11Data,
     frame519Default2Props: frame519Default12Data,
     frame519Default3Props: frame519Default13Data,
@@ -550,15 +658,15 @@ const x1Data = {
     frame519Default7Props: frame519Default17Data,
     frame519Default8Props: frame519Default18Data,
     frame519Default9Props: frame519Default19Data,
-    frame518DefaultProps: frame518Default7Data,
-    frame518Default2Props: frame518Default8Data,
-    frame518Default3Props: frame518Default9Data,
-    frame518Default4Props: frame518Default10Data,
-    frame518Default5Props: frame518Default11Data,
-    frame518Default6Props: frame518Default12Data,
-    frame518Default7Props: frame518Default13Data,
-    frame518Default8Props: frame518Default14Data,
-    frame518Default9Props: frame518Default15Data,
+    frame518DefaultProps: frame518Default13Data,
+    frame518Default2Props: frame518Default14Data,
+    frame518Default3Props: frame518Default15Data,
+    frame518Default4Props: frame518Default16Data,
+    frame518Default5Props: frame518Default17Data,
+    frame518Default6Props: frame518Default18Data,
+    frame518Default7Props: frame518Default19Data,
+    frame518Default8Props: frame518Default20Data,
+    frame518Default9Props: frame518Default21Data,
     frame519ErrorDDSDefaultProps: frame519ErrorDDSDefault2Data,
     frame519ErrorDDSDefault2Props: frame519ErrorDDSDefault3Data,
     frame519ErrorDDSDefault3Props: frame519ErrorDDSDefault4Data,
@@ -567,7 +675,7 @@ const x1Data = {
     property1NehativeInsight32Props: property1NehativeInsight323Data,
     property1NehativeInsight322Props: property1NehativeInsight324Data,
     frame519Default10Props: frame519Default20Data,
-    frame518Default10Props: frame518Default16Data,
+    frame518Default10Props: frame518Default22Data,
     frame519DraftDefaultProps: frame519DraftDefault5Data,
     frame519DraftDefault2Props: frame519DraftDefault6Data,
     frame61Props: frame61Data,
@@ -575,7 +683,7 @@ const x1Data = {
 };
 
 const header22Data = {
-    className: "header-3",
+    className: "header-4",
 };
 
 const group322Data = {
@@ -692,9 +800,9 @@ const cluster22Data = {
     property1DefaultProps: property1Default4Data,
 };
 
-const header42Data = {
+const header43Data = {
     ellipse12: "/img/group-13-4@2x.svg",
-    className: "header-1",
+    className: "header-2",
 };
 
 const x6Data = {
@@ -769,6 +877,6 @@ const x6Data = {
     property1DefaultProps: property1Default2Data,
     cluster2Props: cluster2Data,
     cluster22Props: cluster22Data,
-    header4Props: header42Data,
+    header4Props: header43Data,
 };
 

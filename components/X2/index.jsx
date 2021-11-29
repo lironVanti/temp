@@ -1,7 +1,7 @@
 import React from "react";
 import Header4 from "../Header4";
-import Frame139Default from "../Frame139Default";
-import Frame139tags from "../Frame139tags";
+import Frame139Default3 from "../Frame139Default3";
+import Frame139tags2 from "../Frame139tags2";
 import Frame280Variant6 from "../Frame280Variant6";
 import Frame280Variant4 from "../Frame280Variant4";
 import Frame280Variant3 from "../Frame280Variant3";
@@ -13,9 +13,10 @@ import Frame519Default from "../Frame519Default";
 import Property1NehativeInsight22 from "../Property1NehativeInsight22";
 import Property1NehativeInsight32 from "../Property1NehativeInsight32";
 import Frame519ErrorDDSDefault from "../Frame519ErrorDDSDefault";
+import Group1036 from "../Group1036";
 import Frame519DraftDefault from "../Frame519DraftDefault";
-import Property1NehativeInsight42 from "../Property1NehativeInsight42";
-import Property1NehativeInsight4 from "../Property1NehativeInsight4";
+import Property1NehativeInsight7 from "../Property1NehativeInsight7";
+import Property1NehativeInsight8 from "../Property1NehativeInsight8";
 import styled from "styled-components";
 import "./X2.css";
 
@@ -44,9 +45,10 @@ function X2(props) {
     frame519Default7Props,
     frame519Default8Props,
     property1NehativeInsight22Props,
+    frame518Default6Props,
     frame519ErrorDDSDefaultProps,
     frame519Default9Props,
-    frame518Default6Props,
+    frame518Default6Props2,
     frame519DraftDefaultProps,
     frame519DraftDefault2Props,
   } = props;
@@ -56,7 +58,7 @@ function X2(props) {
       <div className="x2 screen">
         <FlexCol>
           <Frame67 src="/img/frame-67@2x.svg" />
-          <Header4 ellipse12={header4Props.ellipse12} />
+          <Header4 ellipse12={header4Props.ellipse12} className={header4Props.className} />
           <OverlapGroup5>
             <Group958>
               <Group864 src="/img/group-864@2x.svg" />
@@ -75,8 +77,10 @@ function X2(props) {
                   <Group1043>
                     <OverlapGroup1>
                       <Rv src="/img/rv@2x.svg" />
-                      <Frame139Default />
-                      <Frame139tags>{frame139tagsProps.children}</Frame139tags>
+                      <Frame139Default3 />
+                      <Frame139tags2 className={frame139tagsProps.className}>
+                        {frame139tagsProps.children}
+                      </Frame139tags2>
                       <Vector50Stroke src="/img/vector-50--stroke-@2x.svg" />
                       <OverlapGroup11>
                         <X103 src="/img/103@2x.svg" />
@@ -87,9 +91,7 @@ function X2(props) {
                         {frame280Variant42Props.children}
                       </Frame280Variant4>
                       <Frame280Variant3 />
-                      <Frame139tags className={frame139tags2Props.className}>
-                        {frame139tags2Props.children}
-                      </Frame139tags>
+                      <Frame139tags2>{frame139tags2Props.children}</Frame139tags2>
                     </OverlapGroup1>
                   </Group1043>
                   <OverlapGroup2>
@@ -113,10 +115,14 @@ function X2(props) {
                         <State2 src="/img/state-3@2x.svg" />
                         <Group834>
                           <Frame518Default>{frame518DefaultProps.children}</Frame518Default>
-                          <Frame518Variant2>{frame518Variant2Props.children}</Frame518Variant2>
+                          <Frame518Variant2 className={frame518Variant2Props.className}>
+                            {frame518Variant2Props.children}
+                          </Frame518Variant2>
                           <Frame518Variant3>{frame518Variant3Props.children}</Frame518Variant3>
                           <Frame518Variant4>{frame518Variant4Props.children}</Frame518Variant4>
-                          <Frame518Variant2>{frame518Variant22Props.children}</Frame518Variant2>
+                          <Frame518Variant2 className={frame518Variant22Props.className}>
+                            {frame518Variant22Props.children}
+                          </Frame518Variant2>
                           <Frame518Default className={frame518Default2Props.className}>
                             {frame518Default2Props.children}
                           </Frame518Default>
@@ -149,7 +155,7 @@ function X2(props) {
                     <Group842 src="/img/group-842@2x.svg" />
                     <Property1NehativeInsight22 />
                     <Property1NehativeInsight22 className={property1NehativeInsight22Props.className} />
-                    <Property1NehativeInsight32 />
+                    <Property1NehativeInsight32 className={frame518Default6Props.className} />
                     <Frame519ErrorDDSDefault
                       property1NehativeInsightProps={frame519ErrorDDSDefaultProps.property1NehativeInsightProps}
                     />
@@ -158,8 +164,8 @@ function X2(props) {
                     <Rectangle342 src="/img/rectangle-342-1@2x.svg" />
                     <Rectangle344 src="/img/rectangle-342-1@2x.svg" />
                     <Frame519Default className={frame519Default9Props.className} />
-                    <Frame518Default className={frame518Default6Props.className}>
-                      {frame518Default6Props.children}
+                    <Frame518Default className={frame518Default6Props2.className}>
+                      {frame518Default6Props2.children}
                     </Frame518Default>
                   </OverlapGroup6>
                   <Group10481>
@@ -168,13 +174,7 @@ function X2(props) {
                     </OverlapGroup12>
                     <Stage src="/img/stage@2x.svg" />
                     <Group1039 src="/img/group-1039@2x.svg" />
-                    <Group1036>
-                      <OverlapGroup7>
-                        <Chevron src="/img/chevron-1@2x.svg" />
-                        <Group277 src="/img/group-277@2x.svg" />
-                      </OverlapGroup7>
-                      <Chevron1 src="/img/chevron@2x.svg" />
-                    </Group1036>
+                    <Group1036 />
                   </Group10481>
                 </OverlapGroup3>
               </Group1046>
@@ -189,12 +189,12 @@ function X2(props) {
             <State3 src="/img/state@2x.svg" />
             <Frame1010>
               <Rectangle3431 src="/img/rectangle-343-1@2x.svg" />
-              <Property1NehativeInsight42 />
+              <Property1NehativeInsight7 />
             </Frame1010>
           </OverlapGroup4>
         </FlexCol>
         <Frame78>
-          <Property1NehativeInsight4 />
+          <Property1NehativeInsight8 />
           <Frame77 src="/img/frame-77@2x.svg" />
         </Frame78>
         <Frame64 src="/img/frame-64@2x.svg" />
@@ -613,47 +613,6 @@ const Group1039 = styled.img`
   width: 34px;
   height: 34px;
   margin-left: 534px;
-`;
-
-const Group1036 = styled.div`
-  height: 16px;
-  margin-left: 26px;
-  margin-top: 3.3px;
-  display: flex;
-  align-items: flex-start;
-  min-width: 300px;
-`;
-
-const OverlapGroup7 = styled.div`
-  width: 288px;
-  height: 17px;
-  position: relative;
-  margin-left: -1px;
-  margin-top: -0.46px;
-`;
-
-const Chevron = styled.img`
-  position: absolute;
-  width: 11px;
-  height: 10px;
-  top: 3px;
-  left: 168px;
-`;
-
-const Group277 = styled.img`
-  position: absolute;
-  width: 288px;
-  height: 17px;
-  top: 0;
-  left: 0;
-`;
-
-const Chevron1 = styled.img`
-  width: 11px;
-  height: 10px;
-  align-self: center;
-  margin-left: 2px;
-  margin-bottom: 1.3px;
 `;
 
 const Rectangle194 = styled.img`

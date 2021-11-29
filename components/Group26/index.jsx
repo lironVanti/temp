@@ -10,7 +10,7 @@ function Group26(props) {
     <Group261 className={`group-26 ${className || ""}`}>
       <Ellipse12 className="ellipse-12" src="/img/ellipse-12@2x.png" />
       <Group30 className="group-30">
-        <FlexRow className="flex-row">
+        <FlexRow className="flex-row-1">
           <JohnSmith className="john-smith">Jen Conner</JohnSmith>
           <Triangle className="triangle" src="/img/triangle@2x.svg" />
         </FlexRow>
@@ -26,7 +26,7 @@ const Group261 = styled.div`
   align-items: center;
   min-width: 163px;
 
-  &.group-26.group-26-1 {
+  &.group-26.group-26-2 {
     margin-left: 650px;
   }
 `;

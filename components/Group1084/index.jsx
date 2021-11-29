@@ -11,7 +11,7 @@ function Group1084(props) {
       <Home className="home" src="/img/home@2x.svg" />
       <Chevron className="chevron-2" src="/img/chevron@2x.svg" />
       <SGAXI className="sgaxi">SG_AXI</SGAXI>
-      <OverlapGroup className="overlap-group-8">
+      <OverlapGroup className="overlap-group-10">
         <Text className="text-1">Live</Text>
         <Fill10 className="fill-10" src="/img/fill-10@2x.svg" />
       </OverlapGroup>

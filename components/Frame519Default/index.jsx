@@ -8,13 +8,13 @@ function Frame519Default(props) {
 
   return (
     <Frame519Default1 className={`frame-519-default ${className || ""}`}>
-      <State className="state-8">
+      <State className="state-13">
         <span>
-          <span className="span0 poppins-normal-shuttle-gray-17px">
+          <span className="span0-1 poppins-normal-shuttle-gray-17px">
             51 minutes ago
             <br />
           </span>
-          <span className="span1 poppins-normal-shuttle-gray-14px">12:45 | 17 jun 21</span>
+          <span className="span1-1 poppins-normal-shuttle-gray-14px">12:45 | 17 jun 21</span>
         </span>
       </State>
     </Frame519Default1>

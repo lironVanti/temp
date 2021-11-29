@@ -4,22 +4,34 @@ import { PoppinsNormalShuttleGray17px, ValignTextMiddle } from "../../styledMixi
 
 
 function Frame518Variant2(props) {
-  const { children } = props;
+  const { children, className } = props;
 
   return (
-    <Frame518Variant21>
-      <State>{children}</State>
+    <Frame518Variant21 className={`frame-518-variant2-1 ${className || ""}`}>
+      <State className="state-6">{children}</State>
     </Frame518Variant21>
   );
 }
 
 const Frame518Variant21 = styled.div`
   height: 46px;
-  margin-top: 33px;
+  margin-top: 35px;
   display: flex;
   padding: 0 10px;
   align-items: center;
   min-width: 47px;
+
+  &.frame-518-variant2-1.frame-518-variant5-1 {
+    margin-top: 33px;
+  }
+
+  &.frame-518-variant2-1.frame-518-variant2-2 {
+    margin-top: 33px;
+  }
+
+  &.frame-518-variant2-1.frame-518-variant5-2 {
+    margin-top: 33px;
+  }
 `;
 
 const State = styled.div`

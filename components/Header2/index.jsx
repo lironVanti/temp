@@ -7,16 +7,16 @@ function Header2(props) {
   const { className } = props;
 
   return (
-    <Header className={`header-2 ${className || ""}`}>
+    <Header className={`header-3 ${className || ""}`}>
       <OverlapGroup10 className="overlap-group10">
-        <OverlapGroup className="overlap-group-7">
+        <OverlapGroup className="overlap-group-9">
           <Fill1 className="fill-1-1" src="/img/fill-1@2x.svg" />
           <Group13 className="group-13-1" src="/img/group-13@2x.svg" />
         </OverlapGroup>
         <Group26 className="group-26-3">
           <Ellipse12 className="ellipse-12-1" src="/img/ellipse-12@2x.png" />
           <Group30 className="group-30-1">
-            <FlexRow className="flex-row-2">
+            <FlexRow className="flex-row-3">
               <JohnSmith className="john-smith-2">Jen Conner</JohnSmith>
               <Triangle className="triangle-1" src="/img/triangle@2x.svg" />
             </FlexRow>
@@ -39,7 +39,7 @@ const Header = styled.div`
   align-items: flex-start;
   min-width: 1920px;
 
-  &.header-2.header-3 {
+  &.header-3.header-4 {
     z-index: 6;
   }
 `;
@@ -134,7 +134,7 @@ const JohnSmith1 = styled.div`
 `;
 
 const OverlapGroup101 = styled.div`
-  .header-2.header-3 & {
+  .header-3.header-4 & {
     background-image: url(/img/rectangle-2@1x.svg);
   }
 `;

@@ -12,8 +12,8 @@ function Cluster2(props) {
       <Number className="number-23">{number}</Number>
       <Property1Default className={property1DefaultProps.className} />
       <Text47 className="text-47">
-        <span className="span0-21 poppins-normal-oxford-blue-14px">Product code </span>
-        <span className="span1-21 poppins-semi-bold-oxford-blue-14px">{spanText2}</span>
+        <span className="span0-22 poppins-normal-oxford-blue-14px">Product code </span>
+        <span className="span1-22 poppins-semi-bold-oxford-blue-14px">{spanText2}</span>
         <span className="span2-13 poppins-normal-oxford-blue-14px"> is responisble for </span>
         <span className="span3-9 poppins-semi-bold-oxford-blue-14px">{spanText4}</span>
         <span className="span4-7 poppins-normal-oxford-blue-14px">% of this class.</span>

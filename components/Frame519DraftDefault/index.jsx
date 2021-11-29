@@ -1,5 +1,5 @@
 import React from "react";
-import Property1NehativeInsight322 from "../Property1NehativeInsight322";
+import Property1NehativeInsight6 from "../Property1NehativeInsight6";
 import styled from "styled-components";
 
 
@@ -8,7 +8,7 @@ function Frame519DraftDefault(props) {
 
   return (
     <Frame519DraftDefault1 className={`frame-519-draft-default ${className || ""}`}>
-      <Property1NehativeInsight322 />
+      <Property1NehativeInsight6 />
     </Frame519DraftDefault1>
   );
 }

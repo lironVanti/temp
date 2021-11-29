@@ -8,7 +8,7 @@ function Frame518Default(props) {
 
   return (
     <Frame518Default1 className={`frame-518-default ${className || ""}`}>
-      <State className="state-4">{children}</State>
+      <State className="state-5">{children}</State>
     </Frame518Default1>
   );
 }
@@ -41,12 +41,38 @@ const Frame518Default1 = styled.div`
 
   &.frame-518-default.frame-518-variant7-3 {
     position: absolute;
+    top: 920px;
+    left: 757px;
+    min-width: 41px;
+  }
+
+  &.frame-518-default.frame-518-variant6-1 {
+    margin-top: 33px;
+    min-width: 40px;
+  }
+
+  &.frame-518-default.frame-518-variant7-4 {
+    margin-top: 33px;
+    min-width: 41px;
+  }
+
+  &.frame-518-default.frame-518-variant7-5 {
+    margin-top: 42px;
+    min-width: 51px;
+  }
+
+  &.frame-518-default.frame-518-variant7-6 {
+    margin-top: 31px;
+  }
+
+  &.frame-518-default.frame-518-variant7-7 {
+    position: absolute;
     top: 793px;
     left: 704px;
     min-width: 41px;
   }
 
-  &.frame-518-default.frame-518-default-1 {
+  &.frame-518-default.frame-518-default-2 {
     min-width: 46px;
   }
 
@@ -70,27 +96,27 @@ const Frame518Default1 = styled.div`
     min-width: 46px;
   }
 
-  &.frame-518-default.frame-518-variant6-1 {
+  &.frame-518-default.frame-518-variant6-2 {
     margin-top: 33px;
     min-width: 46px;
   }
 
-  &.frame-518-default.frame-518-variant7-4 {
+  &.frame-518-default.frame-518-variant7-8 {
     margin-top: 33px;
     min-width: 46px;
   }
 
-  &.frame-518-default.frame-518-variant7-5 {
+  &.frame-518-default.frame-518-variant7-9 {
     margin-top: 42px;
     min-width: 46px;
   }
 
-  &.frame-518-default.frame-518-variant7-6 {
+  &.frame-518-default.frame-518-variant7-10 {
     margin-top: 31px;
     min-width: 46px;
   }
 
-  &.frame-518-default.frame-518-variant7-7 {
+  &.frame-518-default.frame-518-variant7-11 {
     position: absolute;
     top: 799px;
     left: 749px;
@@ -151,8 +177,8 @@ const State5 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-default-1  & {
-    min-width: 26px;
+           .frame-518-default.frame-518-variant6-1  & {
+    min-width: 20px;
   }
 `;
 
@@ -161,8 +187,8 @@ const State6 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant2  & {
-    min-width: 26px;
+           .frame-518-default.frame-518-variant7-4  & {
+    min-width: 21px;
   }
 `;
 
@@ -171,8 +197,8 @@ const State7 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant3  & {
-    min-width: 26px;
+           .frame-518-default.frame-518-variant7-5  & {
+    min-width: 31px;
   }
 `;
 
@@ -181,8 +207,8 @@ const State8 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant4  & {
-    min-width: 26px;
+           .frame-518-default.frame-518-variant7-7  & {
+    min-width: 21px;
   }
 `;
 
@@ -191,7 +217,7 @@ const State9 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant5  & {
+           .frame-518-default.frame-518-default-2  & {
     min-width: 26px;
   }
 `;
@@ -201,7 +227,7 @@ const State10 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant6-1  & {
+           .frame-518-default.frame-518-variant2  & {
     min-width: 26px;
   }
 `;
@@ -211,7 +237,7 @@ const State11 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant7-4  & {
+           .frame-518-default.frame-518-variant3  & {
     min-width: 26px;
   }
 `;
@@ -221,7 +247,7 @@ const State12 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant7-5  & {
+           .frame-518-default.frame-518-variant4  & {
     min-width: 26px;
   }
 `;
@@ -231,7 +257,7 @@ const State13 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant7-6  & {
+           .frame-518-default.frame-518-variant5  & {
     min-width: 26px;
   }
 `;
@@ -241,7 +267,47 @@ const State14 = styled.div`
   ${PoppinsNormalShuttleGray17px}
             
             
-           .frame-518-default.frame-518-variant7-7  & {
+           .frame-518-default.frame-518-variant6-2  & {
+    min-width: 26px;
+  }
+`;
+
+const State15 = styled.div`
+  ${ValignTextMiddle}
+  ${PoppinsNormalShuttleGray17px}
+            
+            
+           .frame-518-default.frame-518-variant7-8  & {
+    min-width: 26px;
+  }
+`;
+
+const State16 = styled.div`
+  ${ValignTextMiddle}
+  ${PoppinsNormalShuttleGray17px}
+            
+            
+           .frame-518-default.frame-518-variant7-9  & {
+    min-width: 26px;
+  }
+`;
+
+const State17 = styled.div`
+  ${ValignTextMiddle}
+  ${PoppinsNormalShuttleGray17px}
+            
+            
+           .frame-518-default.frame-518-variant7-10  & {
+    min-width: 26px;
+  }
+`;
+
+const State18 = styled.div`
+  ${ValignTextMiddle}
+  ${PoppinsNormalShuttleGray17px}
+            
+            
+           .frame-518-default.frame-518-variant7-11  & {
     min-width: 26px;
   }
 `;

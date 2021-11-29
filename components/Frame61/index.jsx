@@ -8,10 +8,10 @@ function Frame61(props) {
 
   return (
     <Frame611 className={`frame-61-1 ${className || ""}`}>
-      <State className="state-17">
+      <State className="state-22">
         <span>
-          <span className="span0-15 poppins-normal-charade-17px">{spanText}</span>
-          <span className="span1-15 poppins-normal-charade-14px">(david r. )</span>
+          <span className="span0-16 poppins-normal-charade-17px">{spanText}</span>
+          <span className="span1-16 poppins-normal-charade-14px">(david r. )</span>
         </span>
       </State>
     </Frame611>

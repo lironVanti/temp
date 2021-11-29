@@ -7,8 +7,8 @@ function Property1NehativeInsight(props) {
   const { children, className } = props;
 
   return (
-    <Insights className={`insights-6 ${className || ""}`}>
-      <Attention className="attention-1">{children}</Attention>
+    <Insights className={`insights-14 ${className || ""}`}>
+      <Attention className="attention-3">{children}</Attention>
     </Insights>
   );
 }
@@ -21,11 +21,11 @@ const Insights = styled.div`
   min-width: 102px;
   border-radius: 29px;
 
-  &.insights-6.insights-8 {
+  &.insights-14.insights-16 {
     border-radius: 16px;
   }
 
-  &.insights-6.insights-9 {
+  &.insights-14.insights-17 {
     border-radius: 41px;
   }
 `;

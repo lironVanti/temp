@@ -1,7 +1,7 @@
 import React from "react";
 import Header3 from "../Header3";
-import Frame139Default from "../Frame139Default";
-import Frame139tags from "../Frame139tags";
+import Frame139Default3 from "../Frame139Default3";
+import Frame139tags2 from "../Frame139tags2";
 import Frame280Variant6 from "../Frame280Variant6";
 import Frame280Variant4 from "../Frame280Variant4";
 import Frame280Variant3 from "../Frame280Variant3";
@@ -11,8 +11,8 @@ import Frame519ErrorDDSDefault from "../Frame519ErrorDDSDefault";
 import Frame519ReadyDefault from "../Frame519ReadyDefault";
 import Property1NehativeInsight32 from "../Property1NehativeInsight32";
 import Frame519DraftDefault from "../Frame519DraftDefault";
-import Property1NehativeInsight42 from "../Property1NehativeInsight42";
-import Property1NehativeInsight4 from "../Property1NehativeInsight4";
+import Property1NehativeInsight7 from "../Property1NehativeInsight7";
+import Property1NehativeInsight8 from "../Property1NehativeInsight8";
 import Frame61 from "../Frame61";
 import styled from "styled-components";
 import {
@@ -23,6 +23,7 @@ import {
   PoppinsNormalBilobaFlower17px,
   Border1pxMystic,
   PoppinsNormalGulfBlue17px,
+  PoppinsMediumGulfBlue17px,
   ValignTextBottom,
   PoppinsSemiBoldGulfBlue17px,
   PoppinsBoldOxfordBlue50px,
@@ -63,13 +64,13 @@ function X1(props) {
     spanText12,
     spanText13,
     header3Props,
-    frame139DefaultProps,
-    frame139tagsProps,
+    frame139Default3Props,
+    frame139tags2Props,
     frame280Variant6Props,
     frame280Variant4Props,
     frame280Variant42Props,
     frame280Variant3Props,
-    frame139tags2Props,
+    frame139tags22Props,
     frame519DefaultProps,
     frame519Default2Props,
     frame519Default3Props,
@@ -122,8 +123,10 @@ function X1(props) {
                       <Ellipse28 src="/img/ellipse-28@2x.svg" />
                       <Number>{number}</Number>
                     </OverlapGroup>
-                    <Frame139Default className={frame139DefaultProps.className} />
-                    <Frame139tags className={frame139tagsProps.className}>{frame139tagsProps.children}</Frame139tags>
+                    <Frame139Default3 className={frame139Default3Props.className} />
+                    <Frame139tags2 className={frame139tags2Props.className}>
+                      {frame139tags2Props.children}
+                    </Frame139tags2>
                     <Vector50 src="/img/vector-50@2x.svg" />
                     <OverlapGroup3>
                       <OverlapGroup1>
@@ -143,7 +146,9 @@ function X1(props) {
                       {frame280Variant42Props.children}
                     </Frame280Variant4>
                     <Frame280Variant3 className={frame280Variant3Props.className} />
-                    <Frame139tags className={frame139tags2Props.className}>{frame139tags2Props.children}</Frame139tags>
+                    <Frame139tags2 className={frame139tags22Props.className}>
+                      {frame139tags22Props.children}
+                    </Frame139tags2>
                   </OverlapGroup2>
                   <OverlapGroup9>
                     <State>{state}</State>
@@ -295,7 +300,7 @@ function X1(props) {
                         <Chevron src="/img/chevron-2@2x.svg" />
                         <State4>
                           <span className="poppins-semi-bold-gulf-blue-17px">{spanText8}</span>
-                          <Span113>{spanText9}</Span113>
+                          <Span114>{spanText9}</Span114>
                           <span className="poppins-semi-bold-gulf-blue-17px">{spanText10}</span>
                           <Span36>{spanText11}</Span36>
                         </State4>
@@ -316,14 +321,14 @@ function X1(props) {
             <State5>{state3}</State5>
             <Frame1010>
               <Rectangle3431></Rectangle3431>
-              <Property1NehativeInsight42 />
+              <Property1NehativeInsight7 />
             </Frame1010>
           </OverlapGroup13>
         </FlexCol>
         <OverlapGroup141>
           <Error></Error>
           <Frame78>
-            <Property1NehativeInsight4 />
+            <Property1NehativeInsight8 />
             <Frame77>
               <Group161 src="/img/group-161@2x.svg" />
               <Action>{action}</Action>
@@ -931,13 +936,10 @@ const Group1037 = styled.img`
 
 const Stage = styled.div`
   ${ValignTextMiddle}
-  width: 204px;
+  ${PoppinsMediumGulfBlue17px}
+            width: 204px;
   height: 26px;
   margin-left: 12px;
-  font-family: var(--font-family-poppins-medium);
-  font-weight: 500;
-  color: var(--gulf-blue);
-  font-size: var(--font-size-m);
   letter-spacing: 0;
 `;
 
@@ -987,7 +989,7 @@ const State4 = styled.div`
   letter-spacing: 0;
 `;
 
-const Span113 = styled.span`
+const Span114 = styled.span`
   ${PoppinsSemiBoldGulfBlue17px}
   text-decoration: underline;
 `;

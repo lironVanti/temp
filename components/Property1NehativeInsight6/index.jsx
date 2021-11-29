@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { PoppinsNormalPeriwinkle17px, ValignTextMiddle } from "../../styledMixins";
 
 
-function Property1NehativeInsight322() {
+function Property1NehativeInsight6() {
   return (
     <Insights>
       <Attention>Draft</Attention>
@@ -49,4 +49,4 @@ const Attention1 = styled.div`
   letter-spacing: 0;
 `;
 
-export default Property1NehativeInsight322;
+export default Property1NehativeInsight6;

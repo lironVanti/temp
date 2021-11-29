@@ -30,4 +30,21 @@ const State = styled.div`
   letter-spacing: 0;
 `;
 
+const Frame518Variant42 = styled.div`
+  height: 46px;
+  margin-top: 33px;
+  display: flex;
+  padding: 0 10px;
+  align-items: center;
+  min-width: 50px;
+`;
+
+const State1 = styled.div`
+  ${ValignTextMiddle}
+  ${PoppinsNormalShuttleGray17px}
+            height: 26px;
+  min-width: 30px;
+  letter-spacing: 0;
+`;
+
 export default Frame518Variant4;
