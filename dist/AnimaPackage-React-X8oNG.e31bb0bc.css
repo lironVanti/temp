@@ -1,0 +1,118 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,300,500,600");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root { 
+  --biloba-flower: #b1a5ff;
+  --black: #000000;
+  --black-haze: #f6f7f7;
+  --cadet-blue: #adb3c0;
+  --canary: #3c1eff;
+  --caribbean-green-pearl: #52de97;
+  --charade: #212935;
+  --concord: #7d7d7d;
+  --gulf-blue: #13115b;
+  --mist-gray: #c4c4c4;
+  --mystic: #e7e7ef;
+  --ocean-green-pearl: #45c693;
+  --oxford-blue: #394253;
+  --oxford-blue-2: #394253cc;
+  --periwinkle: #c6d4ed;
+  --sasquatch-socks: #ff3c78;
+  --sasquatch-socks-2: #ff3c7880;
+  --shuttle-gray: #616875;
+  --white: #ffffff;
+  --zircon: #f7f9fe;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 17px;
+  --font-size-s: 14px;
+  --font-size-xl: 24px;
+  --font-size-xs: 13px;
+  --font-size-xxs: 12px;
+  --font-size-xxxs: 10px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
+
+.x5 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+
+.x1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+
+.x7 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+
+.x2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+
+.x6 {
+  align-items: flex-start;
+  background-color: var(--zircon);
+  display: flex;
+  height: 1080px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+
+
+/*# sourceMappingURL=/AnimaPackage-React-X8oNG.e31bb0bc.css.map */
