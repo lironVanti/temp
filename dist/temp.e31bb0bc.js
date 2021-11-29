@@ -40819,10 +40819,36 @@ function App() {
     return null;
   }
 
-  function TopPageClick(_ref2) {
+  function FullPageNoClick(_ref2) {
     var imgSrc = _ref2.imgSrc,
-        imageNum = _ref2.imageNum,
-        noClick = _ref2.noClick;
+        imageNum = _ref2.imageNum;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "100%",
+          width: "100%"
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%"
+      }));
+    }
+
+    return null;
+  }
+
+  function TopPageClick(_ref3) {
+    var imgSrc = _ref3.imgSrc,
+        imageNum = _ref3.imageNum,
+        noClick = _ref3.noClick;
 
     if (currentImage === imageNum) {
       return /*#__PURE__*/_react.default.createElement("div", {
@@ -40850,43 +40876,216 @@ function App() {
     return null;
   }
 
+  function RightPageClick(_ref4) {
+    var imgSrc = _ref4.imgSrc,
+        imageNum = _ref4.imageNum,
+        noClick = _ref4.noClick;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "100%",
+          width: "66%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%",
+        onClick: function onClick() {
+          return !noClick && setCurrentImage(imageNum + 1);
+        }
+      }));
+    }
+
+    return null;
+  }
+
+  function LeftPageClick(_ref5) {
+    var imgSrc = _ref5.imgSrc,
+        imageNum = _ref5.imageNum,
+        noClick = _ref5.noClick;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "100%",
+          marginLeft: "40%",
+          width: "66%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%",
+        onClick: function onClick() {
+          return !noClick && setCurrentImage(imageNum + 1);
+        }
+      }));
+    }
+
+    return null;
+  }
+
+  function CornerRightTopPageClick(_ref6) {
+    var imgSrc = _ref6.imgSrc,
+        imageNum = _ref6.imageNum,
+        noClick = _ref6.noClick;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "100%",
+          width: "66%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "66%",
+          marginTop: "30%",
+          width: "100%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%",
+        onClick: function onClick() {
+          return !noClick && setCurrentImage(imageNum + 1);
+        }
+      }));
+    }
+
+    return null;
+  }
+
+  function CornerLeftTopPageClick(_ref7) {
+    var imgSrc = _ref7.imgSrc,
+        imageNum = _ref7.imageNum,
+        noClick = _ref7.noClick;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "100%",
+          marginLeft: "30%",
+          width: "66%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "66%",
+          marginTop: "30%",
+          width: "100%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%",
+        onClick: function onClick() {
+          return !noClick && setCurrentImage(imageNum + 1);
+        }
+      }));
+    }
+
+    return null;
+  }
+
+  function CornerRightTBottomPageClick(_ref8) {
+    var imgSrc = _ref8.imgSrc,
+        imageNum = _ref8.imageNum,
+        noClick = _ref8.noClick;
+
+    if (currentImage === imageNum) {
+      return /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          height: "100%",
+          width: "100%"
+        }
+      }, /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "100%",
+          width: "66%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("div", {
+        style: {
+          position: "absolute",
+          height: "66%",
+          width: "100%",
+          cursor: "grab !important"
+        }
+      }), /*#__PURE__*/_react.default.createElement("img", {
+        src: imgSrc,
+        height: "100%",
+        width: "100%",
+        onClick: function onClick() {
+          return !noClick && setCurrentImage(imageNum + 1);
+        }
+      }));
+    }
+
+    return null;
+  }
+
   return /*#__PURE__*/_react.default.createElement(_reactRouterDom.BrowserRouter, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Switch, null, /*#__PURE__*/_react.default.createElement(_reactRouterDom.Route, {
     path: "/:path(|1)"
   }, /*#__PURE__*/_react.default.createElement(FullPageClick, {
     imageNum: 1,
-    imgSrc: "/img/1b.png"
+    imgSrc: "/img/c1.png"
   }), /*#__PURE__*/_react.default.createElement(TopPageClick, {
     imageNum: 2,
-    imgSrc: "/img/2b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imgSrc: "/img/c2.png"
+  }), /*#__PURE__*/_react.default.createElement(RightPageClick, {
     imageNum: 3,
-    imgSrc: "/img/3b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imgSrc: "/img/c3.png"
+  }), /*#__PURE__*/_react.default.createElement(CornerRightTopPageClick, {
     imageNum: 4,
-    imgSrc: "/img/4b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imgSrc: "/img/c4.png"
+  }), /*#__PURE__*/_react.default.createElement(LeftPageClick, {
     imageNum: 5,
-    imgSrc: "/img/5b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imgSrc: "/img/c5.png"
+  }), /*#__PURE__*/_react.default.createElement(CornerRightTopPageClick, {
     imageNum: 6,
-    imgSrc: "/img/6b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imgSrc: "/img/c6.png"
+  }), /*#__PURE__*/_react.default.createElement(RightPageClick, {
     imageNum: 7,
-    imgSrc: "/img/7b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imgSrc: "/img/c7.png"
+  }), /*#__PURE__*/_react.default.createElement(CornerLeftTopPageClick, {
     imageNum: 8,
-    imgSrc: "/img/8b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
+    imgSrc: "/img/c8.png"
+  }), /*#__PURE__*/_react.default.createElement(FullPageNoClick, {
     imageNum: 9,
-    imgSrc: "/img/9b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
-    imageNum: 10,
     noClick: true,
-    imgSrc: "/img/10b.png"
-  }), /*#__PURE__*/_react.default.createElement(FullPageClick, {
-    imageNum: 11,
-    noClick: true,
-    imgSrc: "/img/10b.png"
+    imgSrc: "/img/c9.png"
   }))));
 }
 
@@ -41648,7 +41847,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50791" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58055" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

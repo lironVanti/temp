@@ -22,6 +22,19 @@ function App() {
         }
         return null;
     }
+
+    function FullPageNoClick({imgSrc, imageNum}) {
+        if (currentImage === imageNum) {
+            return (
+                    <div style={{height: "100%", width: "100%"}}>
+                <div style={{position:"absolute", height:"100%", width: "100%"}}></div>
+                <img src={imgSrc} height="100%" width="100%"/>
+                </div>
+            )
+        }
+        return null;
+    }
+
     function TopPageClick({imgSrc, imageNum, noClick}) {
         if (currentImage === imageNum) {
             return (
@@ -33,22 +46,87 @@ function App() {
         } 
         return null;
     }
+
+    function RightPageClick({imgSrc, imageNum, noClick}) {
+        if (currentImage === imageNum) {
+            return (
+                    <div style={{height: "100%", width: "100%"}}>
+                <div style={{position:"absolute", height:"100%", width: "66%", cursor: "grab !important"}}></div>
+                <img src={imgSrc} height="100%" width="100%"   onClick={() => !noClick && setCurrentImage(imageNum+1)}/>
+                </div>
+            )
+        } 
+        return null;
+    }
+
+    function LeftPageClick({imgSrc, imageNum, noClick}) {
+        if (currentImage === imageNum) {
+            return (
+                    <div style={{height: "100%", width: "100%"}}>
+                <div style={{position:"absolute", height:"100%", marginLeft: "40%", width: "66%", cursor: "grab !important"}}></div>
+                <img src={imgSrc} height="100%" width="100%"   onClick={() => !noClick && setCurrentImage(imageNum+1)}/>
+                </div>
+            )
+        } 
+        return null;
+    }
+
+    function CornerRightTopPageClick({imgSrc, imageNum, noClick}) {
+        if (currentImage === imageNum) {
+            return (
+                    <div style={{height: "100%", width: "100%"}}>
+                <div style={{position:"absolute", height:"100%", width: "66%", cursor: "grab !important"}}></div>
+                <div style={{position:"absolute", height:"66%", marginTop: "30%", width: "100%", cursor: "grab !important"}}></div>
+                <img src={imgSrc} height="100%" width="100%"   onClick={() => !noClick && setCurrentImage(imageNum+1)}/>
+                </div>
+            )
+        } 
+        return null;
+    }
+
+    function CornerLeftTopPageClick({imgSrc, imageNum, noClick}) {
+        if (currentImage === imageNum) {
+            return (
+                    <div style={{height: "100%", width: "100%"}}>
+                <div style={{position:"absolute", height:"100%", marginLeft: "30%", width: "66%", cursor: "grab !important"}}></div>
+                <div style={{position:"absolute", height:"66%", marginTop: "30%", width: "100%", cursor: "grab !important"}}></div>
+                <img src={imgSrc} height="100%" width="100%"   onClick={() => !noClick && setCurrentImage(imageNum+1)}/>
+                </div>
+            )
+        } 
+        return null;
+    }
+
+
+    function CornerRightTBottomPageClick({imgSrc, imageNum, noClick}) {
+        if (currentImage === imageNum) {
+            return (
+                    <div style={{height: "100%", width: "100%"}}>
+                <div style={{position:"absolute", height:"100%", width: "66%", cursor: "grab !important"}}></div>
+                <div style={{position:"absolute", height:"66%", width: "100%", cursor: "grab !important"}}></div>
+                <img src={imgSrc} height="100%" width="100%"   onClick={() => !noClick && setCurrentImage(imageNum+1)}/>
+                </div>
+            )
+        } 
+        return null;
+    }
+
     return (
         <Router>
       <Switch>
         <Route path="/:path(|1)">
-        <FullPageClick imageNum={1} imgSrc="/img/1b.png" />
-        <TopPageClick imageNum={2} imgSrc="/img/2b.png" />
-        <FullPageClick imageNum={3} imgSrc="/img/3b.png" />
-        <FullPageClick imageNum={4} imgSrc="/img/4b.png" />
-        <FullPageClick imageNum={5} imgSrc="/img/5b.png" />
-        <FullPageClick imageNum={6} imgSrc="/img/6b.png" />
-        <FullPageClick imageNum={7} imgSrc="/img/7b.png" />
-        <FullPageClick imageNum={8} imgSrc="/img/8b.png" />
-        <FullPageClick imageNum={9} imgSrc="/img/9b.png" />
-        <FullPageClick imageNum={10} noClick={true} imgSrc="/img/10b.png" />
+        <FullPageClick imageNum={1} imgSrc="/img/c1.png" />
+        <TopPageClick imageNum={2} imgSrc="/img/c2.png" />
+        <RightPageClick imageNum={3} imgSrc="/img/c3.png" />
+        <CornerRightTopPageClick imageNum={4} imgSrc="/img/c4.png" />
+        <LeftPageClick imageNum={5} imgSrc="/img/c5.png" />
+        <CornerRightTopPageClick imageNum={6} imgSrc="/img/c6.png" />
+        <RightPageClick imageNum={7} imgSrc="/img/c7.png" />
+        <CornerLeftTopPageClick imageNum={8} imgSrc="/img/c8.png" />
+        <FullPageNoClick imageNum={9} noClick={true} imgSrc="/img/c9.png" />
+        {/* <FullPageClick imageNum={10} noClick={true} imgSrc="/img/10b.png" /> */}
         {/* Ignore the last one: */}
-        <FullPageClick imageNum={11} noClick={true} imgSrc="/img/10b.png" />
+        {/* <FullPageClick imageNum={11} noClick={true} imgSrc="/img/10b.png" /> */}
         </Route>
         
       </Switch>
