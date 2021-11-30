@@ -40794,7 +40794,7 @@ function App() {
     var imgSrc = _ref.imgSrc,
         imageNum = _ref.imageNum;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -40823,7 +40823,7 @@ function App() {
     var imgSrc = _ref2.imgSrc,
         imageNum = _ref2.imageNum;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -40850,7 +40850,7 @@ function App() {
         imageNum = _ref3.imageNum,
         noClick = _ref3.noClick;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -40881,7 +40881,7 @@ function App() {
         imageNum = _ref4.imageNum,
         noClick = _ref4.noClick;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -40912,7 +40912,7 @@ function App() {
         imageNum = _ref5.imageNum,
         noClick = _ref5.noClick;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -40944,7 +40944,7 @@ function App() {
         imageNum = _ref6.imageNum,
         noClick = _ref6.noClick;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -40983,7 +40983,7 @@ function App() {
         imageNum = _ref7.imageNum,
         noClick = _ref7.noClick;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -41023,7 +41023,7 @@ function App() {
         imageNum = _ref8.imageNum,
         noClick = _ref8.noClick;
 
-    if (currentImage === imageNum) {
+    if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
           height: "100%",
@@ -41847,7 +41847,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58055" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58919" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

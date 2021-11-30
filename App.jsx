@@ -12,7 +12,7 @@ function App() {
     const [currentImage, setCurrentImage] = useState(1);
 
     function FullPageClick({imgSrc, imageNum}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"100%", width: "100%"}}  onClick={() => setCurrentImage(imageNum+1)}></div>
@@ -24,7 +24,7 @@ function App() {
     }
 
     function FullPageNoClick({imgSrc, imageNum}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"100%", width: "100%"}}></div>
@@ -36,7 +36,7 @@ function App() {
     }
 
     function TopPageClick({imgSrc, imageNum, noClick}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"30%", width: "100%", cursor: "grab !important"}}  onClick={() => !noClick && setCurrentImage(imageNum+1)}></div>
@@ -48,7 +48,7 @@ function App() {
     }
 
     function RightPageClick({imgSrc, imageNum, noClick}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"100%", width: "66%", cursor: "grab !important"}}></div>
@@ -60,7 +60,7 @@ function App() {
     }
 
     function LeftPageClick({imgSrc, imageNum, noClick}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"100%", marginLeft: "40%", width: "66%", cursor: "grab !important"}}></div>
@@ -72,7 +72,7 @@ function App() {
     }
 
     function CornerRightTopPageClick({imgSrc, imageNum, noClick}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"100%", width: "66%", cursor: "grab !important"}}></div>
@@ -85,7 +85,7 @@ function App() {
     }
 
     function CornerLeftTopPageClick({imgSrc, imageNum, noClick}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"100%", marginLeft: "30%", width: "66%", cursor: "grab !important"}}></div>
@@ -99,7 +99,7 @@ function App() {
 
 
     function CornerRightTBottomPageClick({imgSrc, imageNum, noClick}) {
-        if (currentImage === imageNum) {
+        if (imageNum >= currentImage ) {
             return (
                     <div style={{height: "100%", width: "100%"}}>
                 <div style={{position:"absolute", height:"100%", width: "66%", cursor: "grab !important"}}></div>
