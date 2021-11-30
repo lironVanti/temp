@@ -40797,11 +40797,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "100%",
           width: "100%"
@@ -40826,11 +40828,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "100%",
           width: "100%"
@@ -40853,11 +40857,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "30%",
           width: "100%",
@@ -40884,11 +40890,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "100%",
           width: "66%",
@@ -40915,11 +40923,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "100%",
           marginLeft: "40%",
@@ -40947,11 +40957,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "100%",
           width: "66%",
@@ -40959,6 +40971,7 @@ function App() {
         }
       }), /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "66%",
           marginTop: "30%",
@@ -40986,11 +40999,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "100%",
           marginLeft: "30%",
@@ -40999,6 +41014,7 @@ function App() {
         }
       }), /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "66%",
           marginTop: "30%",
@@ -41026,11 +41042,13 @@ function App() {
     if (imageNum >= currentImage) {
       return /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           height: "100%",
           width: "100%"
         }
       }, /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "100%",
           width: "66%",
@@ -41038,6 +41056,7 @@ function App() {
         }
       }), /*#__PURE__*/_react.default.createElement("div", {
         style: {
+          display: imageNum === currentImage ? "show" : "none",
           position: "absolute",
           height: "66%",
           width: "100%",
