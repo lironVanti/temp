@@ -1,0 +1,16 @@
+/* screen - 18 */
+
+.x18 {
+  align-items: flex-start;
+  display: flex;
+  height: 1080px;
+  justify-content: center;
+  min-width: 1920px;
+  overflow-x: hidden;
+}
+
+.x18 .x9 {
+  height: 1371px;
+  margin-top: -101.5px;
+  width: 2012px;
+}
