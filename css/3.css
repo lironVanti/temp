@@ -387,14 +387,14 @@
   min-width: 455px;
 }
 
-.x3 .text-11 {
+.x3 .text-91 {
   align-self: flex-end;
   letter-spacing: 0;
   min-height: 36px;
   min-width: 270px;
 }
 
-.x3 .text-12 {
+.x3 .text-92 {
   color: transparent;
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xl);
@@ -410,7 +410,7 @@
   text-decoration: underline;
 }
 
-.x3 .text-13 {
+.x3 .text-93 {
   letter-spacing: 0;
   margin-left: 7px;
   margin-top: 6px;
@@ -435,7 +435,7 @@
   width: 279px;
 }
 
-.x3 .text-14 {
+.x3 .text-94 {
   letter-spacing: 0;
   margin-right: 38.5px;
   min-height: 72px;
@@ -450,7 +450,7 @@
   width: 122px;
 }
 
-.x3 .text-15 {
+.x3 .text-95 {
   letter-spacing: 0;
   margin-top: 24px;
   min-height: 42px;
@@ -458,7 +458,7 @@
   text-align: center;
 }
 
-.x3 .text-16 {
+.x3 .text-96 {
   align-self: center;
   letter-spacing: 0;
   margin-left: 2.0px;
@@ -576,7 +576,7 @@
   width: 18px;
 }
 
-.x3 .text-17 {
+.x3 .text-97 {
   letter-spacing: 0;
   margin-right: 1.0px;
   margin-top: 36px;
@@ -585,7 +585,7 @@
   text-align: center;
 }
 
-.x3 .text-18 {
+.x3 .text-98 {
   letter-spacing: 0;
   margin-top: 33px;
   min-height: 18px;
@@ -611,7 +611,7 @@
   width: 148px;
 }
 
-.x3 .text-19 {
+.x3 .text-99 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -627,7 +627,7 @@
   width: 115px;
 }
 
-.x3 .text-20 {
+.x3 .text-100 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -671,7 +671,7 @@
   width: 200px;
 }
 
-.x3 .text-21 {
+.x3 .text-101 {
   letter-spacing: 0;
   margin-top: 71px;
   min-height: 15px;

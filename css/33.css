@@ -183,10 +183,6 @@
 }
 
 .x33 .good-one {
-  color: var(--charade);
-  font-family: var(--font-family-poppins);
-  font-size: 30px;
-  font-weight: 600;
   height: 45px;
   letter-spacing: 0;
   margin-left: 8px;
@@ -396,7 +392,7 @@
   width: 19px;
 }
 
-.x33 .text-256 {
+.x33 .text-336 {
   letter-spacing: 0;
   margin-left: 10px;
   min-height: 27px;
@@ -411,7 +407,7 @@
   width: 2px;
 }
 
-.x33 .text-257 {
+.x33 .text-337 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 40px;
@@ -458,14 +454,14 @@
   min-height: 26px;
 }
 
-.x33 .text-254 {
+.x33 .text-334 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 36px;
   width: 335px;
 }
 
-.x33 .text-25 {
+.x33 .text-33 {
   letter-spacing: 0;
   margin-top: 3px;
   min-height: 36px;
@@ -512,14 +508,14 @@
   min-width: 157px;
 }
 
-.x33 .text-252 {
+.x33 .text-332 {
   letter-spacing: 0;
   margin-top: 10px;
   min-height: 36px;
   width: 307px;
 }
 
-.x33 .text-258 {
+.x33 .text-338 {
   left: 70px;
   letter-spacing: 0;
   position: absolute;
@@ -527,7 +523,7 @@
   width: 161px;
 }
 
-.x33 .text-259 {
+.x33 .text-339 {
   left: 254px;
   letter-spacing: 0;
   position: absolute;
@@ -667,7 +663,7 @@
   padding: 2px 12px;
 }
 
-.x33 .text-3 {
+.x33 .text-2 {
   letter-spacing: 0;
   min-height: 26px;
   min-width: 79px;
@@ -934,7 +930,7 @@
   text-align: center;
 }
 
-.x33 .text-2 {
+.x33 .text-3 {
   height: 52px;
   left: 1px;
   letter-spacing: 0;
@@ -957,7 +953,7 @@
   width: 445px;
 }
 
-.x33 .text-250 {
+.x33 .text-330 {
   height: 78px;
   left: 1px;
   letter-spacing: 0;
