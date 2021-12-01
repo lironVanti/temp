@@ -15,7 +15,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 6;
@@ -23,7 +23,7 @@
 
 .x20 .group-container {
   align-items: flex-start;
-  background-image: url(../img/rectangle-11@1x.svg);
+  background-image: url(../img/rectangle-19@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -160,12 +160,12 @@
   width: 490px;
 }
 
-.x20 .group-1099 {
+.x20 .group-1084 {
   align-items: center;
   display: flex;
   height: 45px;
   left: 50px;
-  min-width: 222px;
+  min-width: 147px;
   position: fixed;
   top: 83px;
   z-index: 7;
@@ -182,16 +182,16 @@
   width: 20px;
 }
 
-.x20 .sdmcs {
+.x20 .place {
   height: 45px;
   letter-spacing: 0;
   margin-left: 8px;
-  min-width: 133px;
+  min-width: 55px;
 }
 
 .x20 .overlap-group-2 {
   height: 27px;
-  margin-left: 6px;
+  margin-left: 7px;
   margin-top: 4px;
   position: relative;
   width: 23px;
@@ -271,7 +271,7 @@
 
 .x20 .group-981 {
   align-items: center;
-  background-image: url(../img/rectangle-193@2x.svg);
+  background-image: url(../img/rectangle-193-4@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 35px;
@@ -323,7 +323,7 @@
 
 .x20 .overlap-group9 {
   align-items: flex-start;
-  background-image: url(../img/buttons-main-11@2x.svg);
+  background-image: url(../img/buttons-main-22@2x.svg);
   background-size: 100% 100%;
   display: flex;
   min-width: 200px;
@@ -363,7 +363,7 @@
   width: 21px;
 }
 
-.x20 .text-311 {
+.x20 .text-221 {
   align-self: flex-end;
   height: 47px;
   letter-spacing: 0;
@@ -445,7 +445,7 @@
   width: 19px;
 }
 
-.x20 .text-319 {
+.x20 .text-229 {
   letter-spacing: 0;
   margin-left: 10px;
   min-height: 27px;
@@ -460,7 +460,7 @@
   width: 2px;
 }
 
-.x20 .text-320 {
+.x20 .text-230 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 40px;
@@ -507,14 +507,14 @@
   min-height: 26px;
 }
 
-.x20 .text-317 {
+.x20 .text-227 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 36px;
   width: 335px;
 }
 
-.x20 .text-31 {
+.x20 .text-22 {
   letter-spacing: 0;
   margin-top: 3px;
   min-height: 36px;
@@ -561,14 +561,14 @@
   min-width: 157px;
 }
 
-.x20 .text-315 {
+.x20 .text-225 {
   letter-spacing: 0;
   margin-top: 10px;
   min-height: 36px;
   width: 307px;
 }
 
-.x20 .text-321 {
+.x20 .text-231 {
   left: 70px;
   letter-spacing: 0;
   position: absolute;
@@ -576,7 +576,7 @@
   width: 161px;
 }
 
-.x20 .text-322 {
+.x20 .text-232 {
   left: 254px;
   letter-spacing: 0;
   position: absolute;
@@ -922,17 +922,6 @@
 }
 
 .x20 .ellipse-102 {
-  background-color: var(--caribbean-green-pearl);
-  border: 7px solid #52de9780;
-  border-radius: 13.5px;
-  height: 27px;
-  left: 781px;
-  position: absolute;
-  top: 144px;
-  width: 27px;
-}
-
-.x20 .ellipse-102-1 {
   background-color: var(--sasquatch-socks);
   border-radius: 13.5px;
   height: 27px;
@@ -1013,7 +1002,7 @@
   text-align: center;
 }
 
-.x20 .text-31-1 {
+.x20 .text-22-1 {
   height: 52px;
   left: 1px;
   letter-spacing: 0;
@@ -1036,7 +1025,7 @@
   width: 445px;
 }
 
-.x20 .text-313 {
+.x20 .text-223 {
   height: 78px;
   left: 1px;
   letter-spacing: 0;

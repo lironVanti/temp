@@ -497,7 +497,7 @@
   width: 50px;
 }
 
-.x22 .frame-518-default {
+.x22 .frame-518-default-1 {
   align-items: flex-start;
   display: flex;
   height: 48px;
@@ -511,7 +511,7 @@
   letter-spacing: 0;
 }
 
-.x22 .frame-518-variant2 {
+.x22 .frame-518-variant2-1 {
   align-items: flex-start;
   display: flex;
   height: 48px;
@@ -521,7 +521,7 @@
   padding: 10px 0;
 }
 
-.x22 .frame-518-variant3 {
+.x22 .frame-518-variant3-1 {
   align-items: flex-start;
   display: flex;
   height: 48px;
@@ -672,7 +672,7 @@
   width: 50px;
 }
 
-.x22 .frame-518-default-1 {
+.x22 .frame-518-default {
   align-items: flex-start;
   display: flex;
   height: 48px;
@@ -680,7 +680,7 @@
   padding: 10px;
 }
 
-.x22 .frame-518-variant2-1 {
+.x22 .frame-518-variant2 {
   align-items: flex-start;
   display: flex;
   height: 48px;
@@ -689,7 +689,7 @@
   padding: 10px;
 }
 
-.x22 .frame-518-variant3-1 {
+.x22 .frame-518-variant3 {
   align-items: flex-start;
   display: flex;
   height: 48px;
@@ -704,6 +704,68 @@
   height: 48px;
   margin-top: 35px;
   min-width: 50px;
+  padding: 10px;
+}
+
+.x22 .frame-518-default-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  min-width: 119px;
+  padding: 10px;
+}
+
+.x22 .frame-518-variant2-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 142px;
+  padding: 10px;
+}
+
+.x22 .frame-518-variant3-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 114px;
+  padding: 10px;
+}
+
+.x22 .frame-518-variant4-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 149px;
+  padding: 10px;
+}
+
+.x22 .frame-518-variant4-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 147px;
+  padding: 10px;
+}
+
+.x22 .frame-518-variant4-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 119px;
+  padding: 10px;
+}
+
+.x22 .frame-518-variant4-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 144px;
   padding: 10px;
 }
 
@@ -1001,7 +1063,7 @@
   width: 280px;
 }
 
-.x22 .text-16 {
+.x22 .text-5 {
   height: 15px;
   letter-spacing: 0;
   line-height: 21.7px;
@@ -1025,7 +1087,7 @@
   width: 232px;
 }
 
-.x22 .text-15 {
+.x22 .text-4 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -1044,7 +1106,7 @@
   width: 231px;
 }
 
-.x22 .text-17 {
+.x22 .text-6 {
   height: 24px;
   left: 182px;
   letter-spacing: 0;
@@ -1059,7 +1121,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: absolute;
   top: 0;
 }

@@ -16,7 +16,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 7;
@@ -24,7 +24,7 @@
 
 .x15 .group-container {
   align-items: flex-start;
-  background-image: url(../img/rectangle-5@1x.svg);
+  background-image: url(../img/rectangle-14@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -161,12 +161,12 @@
   width: 490px;
 }
 
-.x15 .group-1099 {
+.x15 .group-1084 {
   align-items: center;
   display: flex;
   height: 45px;
   left: 50px;
-  min-width: 222px;
+  min-width: 147px;
   position: fixed;
   top: 83px;
   z-index: 8;
@@ -183,22 +183,22 @@
   width: 20px;
 }
 
-.x15 .sdmcs {
+.x15 .place {
   height: 45px;
   letter-spacing: 0;
   margin-left: 8px;
-  min-width: 133px;
+  min-width: 55px;
 }
 
 .x15 .overlap-group-1 {
   height: 27px;
-  margin-left: 6px;
+  margin-left: 7px;
   margin-top: 4px;
   position: relative;
   width: 23px;
 }
 
-.x15 .text-1 {
+.x15 .text-2 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -272,7 +272,7 @@
 
 .x15 .group-981 {
   align-items: center;
-  background-image: url(../img/rectangle-193@2x.svg);
+  background-image: url(../img/rectangle-193-4@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 35px;
@@ -324,7 +324,7 @@
 
 .x15 .overlap-group12 {
   align-items: flex-start;
-  background-image: url(../img/buttons-main-4@2x.svg);
+  background-image: url(../img/buttons-main-14@2x.svg);
   background-size: 100% 100%;
   display: flex;
   min-width: 200px;
@@ -427,7 +427,7 @@
   text-align: center;
 }
 
-.x15 .text-245 {
+.x15 .text-159 {
   height: 47px;
   left: 104px;
   letter-spacing: 0;
@@ -497,41 +497,41 @@
   width: 57px;
 }
 
-.x15 .text-2 {
+.x15 .text-1 {
   letter-spacing: 0;
   min-height: 28px;
   width: 55px;
 }
 
-.x15 .text-2-1 {
+.x15 .text-17 {
   letter-spacing: 0;
   margin-top: 12px;
   min-height: 28px;
   width: 55px;
 }
 
-.x15 .text-2-2 {
+.x15 .text-1-1 {
   letter-spacing: 0;
   margin-top: 18px;
   min-height: 30px;
   width: 49px;
 }
 
-.x15 .text-2-3 {
+.x15 .text-1-2 {
   letter-spacing: 0;
   margin-top: 17px;
   min-height: 30px;
   width: 49px;
 }
 
-.x15 .text-2-4 {
+.x15 .text-1-3 {
   letter-spacing: 0;
   margin-top: 18px;
   min-height: 28px;
   width: 57px;
 }
 
-.x15 .text-26 {
+.x15 .text-1-4 {
   letter-spacing: 0;
   margin-top: 18px;
   min-height: 30px;
@@ -727,7 +727,7 @@
   width: 446px;
 }
 
-.x15 .text-261 {
+.x15 .text-175 {
   color: transparent;
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xl);
@@ -753,7 +753,7 @@
   width: 443px;
 }
 
-.x15 .text-254 {
+.x15 .text-168 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -761,7 +761,7 @@
   width: 443px;
 }
 
-.x15 .text-262 {
+.x15 .text-176 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -849,7 +849,7 @@
   width: 446px;
 }
 
-.x15 .text-270 {
+.x15 .text-184 {
   color: transparent;
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xl);
@@ -859,7 +859,7 @@
   width: 307px;
 }
 
-.x15 .text-263 {
+.x15 .text-177 {
   letter-spacing: 0;
   margin-left: 3px;
   margin-top: 14px;
@@ -867,7 +867,7 @@
   width: 443px;
 }
 
-.x15 .text-271 {
+.x15 .text-185 {
   letter-spacing: 0;
   margin-left: 3px;
   margin-top: 25px;
@@ -958,7 +958,7 @@
   width: 19px;
 }
 
-.x15 .text-250 {
+.x15 .text-164 {
   letter-spacing: 0;
   margin-left: 10px;
   min-height: 27px;
@@ -973,7 +973,7 @@
   width: 2px;
 }
 
-.x15 .text-251 {
+.x15 .text-165 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 40px;
@@ -1020,14 +1020,14 @@
   min-height: 26px;
 }
 
-.x15 .text-248 {
+.x15 .text-162 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 36px;
   width: 335px;
 }
 
-.x15 .text-24 {
+.x15 .text-16 {
   letter-spacing: 0;
   margin-top: 3px;
   min-height: 36px;
@@ -1074,14 +1074,14 @@
   min-width: 157px;
 }
 
-.x15 .text-246 {
+.x15 .text-160 {
   letter-spacing: 0;
   margin-top: 10px;
   min-height: 36px;
   width: 307px;
 }
 
-.x15 .text-252 {
+.x15 .text-166 {
   left: 70px;
   letter-spacing: 0;
   position: absolute;
@@ -1089,7 +1089,7 @@
   width: 161px;
 }
 
-.x15 .text-253 {
+.x15 .text-167 {
   left: 254px;
   letter-spacing: 0;
   position: absolute;
@@ -1524,7 +1524,7 @@
   text-align: center;
 }
 
-.x15 .text-24-1 {
+.x15 .text-15 {
   height: 52px;
   left: 1px;
   letter-spacing: 0;
@@ -1547,7 +1547,7 @@
   width: 445px;
 }
 
-.x15 .text-243 {
+.x15 .text-157 {
   height: 78px;
   left: 1px;
   letter-spacing: 0;

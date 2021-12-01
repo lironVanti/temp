@@ -15,7 +15,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 5;
@@ -151,7 +151,7 @@
   width: 219px;
 }
 
-.x28 .text {
+.x28 .text-1 {
   height: 56px;
   left: 0;
   letter-spacing: 0;
@@ -197,7 +197,7 @@
   width: 23px;
 }
 
-.x28 .text-1 {
+.x28 .text-3 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -392,7 +392,7 @@
   width: 19px;
 }
 
-.x28 .text-47 {
+.x28 .text-32 {
   letter-spacing: 0;
   margin-left: 10px;
   min-height: 27px;
@@ -407,7 +407,7 @@
   width: 2px;
 }
 
-.x28 .text-48 {
+.x28 .text-33 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 40px;
@@ -454,14 +454,14 @@
   min-height: 26px;
 }
 
-.x28 .text-45 {
+.x28 .text-30 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 36px;
   width: 335px;
 }
 
-.x28 .text-4 {
+.x28 .text {
   letter-spacing: 0;
   margin-top: 3px;
   min-height: 36px;
@@ -508,14 +508,14 @@
   min-width: 157px;
 }
 
-.x28 .text-43 {
+.x28 .text-28 {
   letter-spacing: 0;
   margin-top: 10px;
   min-height: 36px;
   width: 307px;
 }
 
-.x28 .text-49 {
+.x28 .text-34 {
   left: 70px;
   letter-spacing: 0;
   position: absolute;
@@ -523,7 +523,7 @@
   width: 161px;
 }
 
-.x28 .text-50 {
+.x28 .text-35 {
   left: 254px;
   letter-spacing: 0;
   position: absolute;
@@ -665,7 +665,7 @@
   padding: 2px 12px;
 }
 
-.x28 .text-2 {
+.x28 .text-4 {
   letter-spacing: 0;
   min-height: 26px;
   min-width: 79px;
@@ -706,7 +706,7 @@
   padding: 2px 12px;
 }
 
-.x28 .text-3 {
+.x28 .text-5 {
   letter-spacing: 0;
   min-height: 26px;
   min-width: 78px;
@@ -861,7 +861,7 @@
   text-align: center;
 }
 
-.x28 .text-4-1 {
+.x28 .text-2 {
   height: 52px;
   left: 1px;
   letter-spacing: 0;
@@ -884,7 +884,7 @@
   width: 445px;
 }
 
-.x28 .text-41 {
+.x28 .text-26 {
   height: 78px;
   left: 1px;
   letter-spacing: 0;

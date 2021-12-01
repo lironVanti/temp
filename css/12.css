@@ -15,13 +15,13 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 100vw;
+  width: 100vw;
   z-index: 1;
 }
 
 .x12 .group-container {
   align-items: flex-start;
-  background-image: url(../img/rectangle-8@1x.svg);
+  background-image: url(../img/rectangle-16@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -192,7 +192,7 @@
   width: 165px;
 }
 
-.x12 .text-279 {
+.x12 .text-201 {
   height: 47px;
   left: 104px;
   letter-spacing: 0;
@@ -228,7 +228,7 @@
   width: 280px;
 }
 
-.x12 .overlap-group5 {
+.x12 .overlap-group4 {
   align-items: center;
   background-color: var(--white);
   border-radius: 8px;
@@ -363,7 +363,7 @@
   width: 209px;
 }
 
-.x12 .overlap-group7 {
+.x12 .overlap-group6 {
   height: 156px;
   margin-right: 0.97px;
   margin-top: 18px;
@@ -499,7 +499,7 @@
   width: 90px;
 }
 
-.x12 .overlap-group6 {
+.x12 .overlap-group5 {
   align-items: flex-end;
   background-color: var(--white);
   border-radius: 8px;
@@ -511,7 +511,7 @@
   width: 280px;
 }
 
-.x12 .text-281 {
+.x12 .text-203 {
   height: 15px;
   letter-spacing: 0;
   line-height: 21.7px;
@@ -520,14 +520,14 @@
   width: 231px;
 }
 
-.x12 .overlap-group9 {
+.x12 .overlap-group8 {
   height: 86px;
   margin-top: 17px;
   position: relative;
   width: 232px;
 }
 
-.x12 .overlap-group8 {
+.x12 .overlap-group7 {
   height: 86px;
   left: 0;
   position: absolute;
@@ -535,7 +535,7 @@
   width: 232px;
 }
 
-.x12 .text-280 {
+.x12 .text-202 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -554,7 +554,7 @@
   width: 231px;
 }
 
-.x12 .text-282 {
+.x12 .text-204 {
   height: 24px;
   left: 182px;
   letter-spacing: 0;
@@ -563,7 +563,7 @@
   width: 38px;
 }
 
-.x12 .overlap-group4 {
+.x12 .overlap-group3-1 {
   height: 1048px;
   margin-left: 7px;
   position: relative;
@@ -594,7 +594,7 @@
   width: 1301px;
 }
 
-.x12 .overlap-group-3 {
+.x12 .overlap-group1-1 {
   height: 865px;
   left: 0;
   position: absolute;
@@ -635,38 +635,43 @@
   width: 269px;
 }
 
-.x12 .group-844 {
-  align-items: center;
+.x12 .group-2700 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 268px;
+  min-width: 687px;
+}
+
+.x12 .flex-col {
+  align-items: flex-end;
   display: flex;
   flex-direction: column;
-  margin-left: 392px;
-  min-height: 372px;
-  width: 257px;
+  min-height: 788px;
+  width: 255px;
 }
 
 .x12 .state-5 {
   letter-spacing: 0;
-  margin-right: 2px;
-  min-height: 41px;
+  min-height: 26px;
   text-align: center;
   width: 255px;
 }
 
-.x12 .group-834 {
+.x12 .frame-1026 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-right: 1px;
-  margin-top: 31px;
-  min-height: 300px;
-  width: 50px;
+  margin-right: 19px;
+  margin-top: 46px;
+  min-height: 716px;
+  width: 149px;
 }
 
 .x12 .frame-518-default {
   align-items: flex-start;
   display: flex;
   height: 48px;
-  min-width: 36px;
+  min-width: 119px;
   padding: 10px;
 }
 
@@ -679,8 +684,8 @@
   align-items: flex-start;
   display: flex;
   height: 48px;
-  margin-top: 37px;
-  min-width: 47px;
+  margin-top: 35px;
+  min-width: 142px;
   padding: 10px;
 }
 
@@ -689,7 +694,25 @@
   display: flex;
   height: 48px;
   margin-top: 35px;
-  min-width: 42px;
+  min-width: 114px;
+  padding: 10px;
+}
+
+.x12 .frame-518-variant4-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 149px;
+  padding: 10px;
+}
+
+.x12 .frame-518-variant4-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 147px;
   padding: 10px;
 }
 
@@ -698,23 +721,31 @@
   display: flex;
   height: 48px;
   margin-top: 35px;
-  min-width: 50px;
+  min-width: 119px;
   padding: 10px;
 }
 
-.x12 .group-843 {
-  align-items: center;
+.x12 .frame-518-variant4-3 {
+  align-items: flex-start;
   display: flex;
-  flex-direction: column;
-  margin-left: 94px;
-  min-height: 808px;
-  width: 212px;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 144px;
+  padding: 10px;
+}
+
+.x12 .overlap-group-3 {
+  height: 808px;
+  position: relative;
+  width: 432px;
 }
 
 .x12 .state-6 {
+  left: 220px;
   letter-spacing: 0;
-  min-height: 26px;
+  position: absolute;
   text-align: center;
+  top: 0;
   width: 212px;
 }
 
@@ -722,9 +753,10 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 6.77px;
-  margin-top: 36px;
+  left: 255px;
   min-height: 746px;
+  position: absolute;
+  top: 62px;
   width: 149px;
 }
 
@@ -804,6 +836,70 @@
   padding: 10px;
 }
 
+.x12 .group-844 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 372px;
+  position: absolute;
+  top: 0;
+  width: 257px;
+}
+
+.x12 .state-7 {
+  letter-spacing: 0;
+  margin-right: 2px;
+  min-height: 41px;
+  text-align: center;
+  width: 255px;
+}
+
+.x12 .group-834 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1px;
+  margin-top: 31px;
+  min-height: 300px;
+  width: 50px;
+}
+
+.x12 .frame-518-default-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  min-width: 36px;
+  padding: 10px;
+}
+
+.x12 .frame-518-variant2-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 37px;
+  min-width: 47px;
+  padding: 10px;
+}
+
+.x12 .frame-518-variant3-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 42px;
+  padding: 10px;
+}
+
+.x12 .frame-518-variant4-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 50px;
+  padding: 10px;
+}
+
 .x12 .insights {
   border-radius: 48px;
   height: 32px;
@@ -813,15 +909,15 @@
   width: 102px;
 }
 
-.x12 .group-1123 {
+.x12 .group-1124 {
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 452px;
+  left: 410px;
   min-height: 781px;
   position: absolute;
   top: 183px;
-  width: 140px;
+  width: 144px;
 }
 
 .x12 .group-1122 {
@@ -829,24 +925,32 @@
   display: flex;
   flex-direction: column;
   margin-left: 2px;
-  min-height: 364px;
-  width: 142px;
+  min-height: 291px;
+  width: 146px;
 }
 
-.x12 .state-7 {
+.x12 .state-8 {
   letter-spacing: 0;
-  margin-right: 2px;
+  margin-left: 0;
   min-height: 34px;
   text-align: center;
   width: 140px;
 }
 
-.x12 .overlap-group2-1 {
-  height: 47px;
-  margin-right: 3px;
+.x12 .group-2704 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1px;
   margin-top: 32px;
+  min-height: 62px;
+  width: 143px;
+}
+
+.x12 .overlap-group-4 {
+  height: 47px;
   position: relative;
-  width: 111px;
+  width: 143px;
 }
 
 .x12 .rectangle-395 {
@@ -856,7 +960,23 @@
   left: 0;
   position: absolute;
   top: 7px;
-  width: 110px;
+  width: 143px;
+}
+
+.x12 .group-2707 {
+  align-items: center;
+  display: flex;
+  height: 47px;
+  left: 12px;
+  min-width: 120px;
+  position: absolute;
+  top: 0;
+}
+
+.x12 .group-2706 {
+  height: 17px;
+  margin-bottom: 0.5px;
+  width: 20px;
 }
 
 .x12 .frame-519-error-dds-default {
@@ -864,10 +984,7 @@
   display: flex;
   height: 47px;
   justify-content: center;
-  left: 11px;
   min-width: 100px;
-  position: absolute;
-  top: 0;
 }
 
 .x12 .insights-1 {
@@ -876,41 +993,32 @@
   display: flex;
   height: 32px;
   min-width: 102px;
-  padding: 5px 34px;
+  padding: 5px 2.5px;
 }
 
-.x12 .attention-1 {
+.x12 .attention {
   height: 21px;
   letter-spacing: 0;
-  min-width: 32px;
+  min-width: 95px;
   text-align: center;
-}
-
-.x12 .group-1117 {
-  height: 17px;
-  left: 19px;
-  position: absolute;
-  top: 15px;
-  width: 20px;
 }
 
 .x12 .attention-2 {
   height: 15px;
   letter-spacing: 0;
-  margin-right: 3px;
   min-width: 111px;
   text-align: center;
 }
 
-.x12 .overlap-group-4 {
+.x12 .overlap-group2-1 {
   align-items: flex-start;
   border-radius: 22px;
   display: flex;
   height: 34px;
-  margin-right: 4px;
+  margin-right: 1px;
   margin-top: 32px;
-  min-width: 110px;
-  padding: 0 8px;
+  min-width: 115px;
+  padding: 0 10px;
 }
 
 .x12 .insights-2 {
@@ -919,31 +1027,32 @@
   display: flex;
   height: 32px;
   min-width: 93px;
-  padding: 5px 23px;
+  padding: 5px 0;
 }
 
 .x12 .attention-3 {
   height: 21px;
   letter-spacing: 0;
-  min-width: 45px;
+  margin-left: -2px;
+  min-width: 95px;
   text-align: center;
 }
 
-.x12 .overlap-group3-1 {
-  height: 53px;
-  margin-right: 1px;
-  margin-top: 44px;
+.x12 .overlap-group1-2 {
+  height: 90px;
+  margin-left: 1px;
+  margin-top: 7px;
   position: relative;
-  width: 129px;
+  width: 147px;
 }
 
 .x12 .rectangle-394 {
   border-radius: 22px;
   height: 34px;
-  left: 8px;
+  left: 15px;
   position: absolute;
-  top: 0;
-  width: 110px;
+  top: 37px;
+  width: 115px;
 }
 
 .x12 .group-1114 {
@@ -951,10 +1060,18 @@
   display: flex;
   flex-direction: column;
   left: 0;
-  min-height: 49px;
+  min-height: 90px;
   position: absolute;
-  top: 4px;
-  width: 129px;
+  top: 0;
+  width: 147px;
+}
+
+.x12 .improvement-possibil {
+  height: 11px;
+  letter-spacing: 0;
+  line-height: 11px;
+  min-width: 95px;
+  white-space: nowrap;
 }
 
 .x12 .insights-3 {
@@ -963,52 +1080,36 @@
   display: flex;
   height: 28px;
   margin-right: 3px;
-  margin-top: -1px;
+  margin-top: 29px;
   min-width: 102px;
-  padding: 3px 8.5px;
+  padding: 3px 2.5px;
 }
 
-.x12 .attention-4 {
-  height: 21px;
-  letter-spacing: 0;
-  min-width: 83px;
-  text-align: center;
-}
-
-.x12 .improvement-possibil {
+.x12 .improvement-possibil-1 {
   height: 11px;
   letter-spacing: 0;
   line-height: 11px;
-  margin-right: 2px;
-  margin-top: 11px;
-  min-width: 127px;
-  white-space: nowrap;
-}
-
-.x12 .overlap-group1-1 {
-  align-items: flex-start;
-  border-radius: 22px;
-  display: flex;
-  height: 34px;
   margin-right: 4px;
-  margin-top: 39px;
-  min-width: 110px;
-  padding: 1px 3px;
+  margin-top: 11px;
+  min-width: 143px;
+  white-space: nowrap;
 }
 
 .x12 .insights-4 {
   align-items: flex-start;
   border-radius: 42px;
   display: flex;
-  height: 28px;
-  min-width: 102px;
-  padding: 3px 13px;
+  height: 33px;
+  margin-left: 3px;
+  margin-top: 365px;
+  min-width: 57px;
+  padding: 3px 6.5px;
 }
 
-.x12 .attention-5 {
-  height: 21px;
+.x12 .attention-1 {
+  height: 26px;
   letter-spacing: 0;
-  min-width: 74px;
+  min-width: 42px;
   text-align: center;
 }
 
@@ -1017,25 +1118,7 @@
   border-radius: 42px;
   display: flex;
   height: 33px;
-  margin-left: 1px;
-  margin-top: 292px;
-  min-width: 57px;
-  padding: 3px 6.5px;
-}
-
-.x12 .attention {
-  height: 26px;
-  letter-spacing: 0;
-  min-width: 42px;
-  text-align: center;
-}
-
-.x12 .insights-6 {
-  align-items: flex-start;
-  border-radius: 42px;
-  display: flex;
-  height: 33px;
-  margin-left: 1px;
+  margin-left: 3px;
   margin-top: 60px;
   min-width: 57px;
   padding: 3px 6.5px;

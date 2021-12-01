@@ -118,7 +118,7 @@
   width: 111px;
 }
 
-.x25 .text-5 {
+.x25 .text-3 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -185,7 +185,7 @@
   width: 417px;
 }
 
-.x25 .text-5-1 {
+.x25 .text {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -245,7 +245,7 @@
   width: 186px;
 }
 
-.x25 .text-5-2 {
+.x25 .text-1 {
   left: 50px;
   letter-spacing: 0;
   position: absolute;
@@ -631,7 +631,7 @@
   width: 1151px;
 }
 
-.x25 .text-57 {
+.x25 .text-42 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -672,7 +672,7 @@
   width: 11px;
 }
 
-.x25 .text-58 {
+.x25 .text-43 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -723,7 +723,7 @@
   min-width: 10px;
 }
 
-.x25 .text-59 {
+.x25 .text-44 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -771,7 +771,7 @@
   min-width: 10px;
 }
 
-.x25 .text-60 {
+.x25 .text-45 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -806,7 +806,7 @@
   min-width: 10px;
 }
 
-.x25 .text-61 {
+.x25 .text-46 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -912,7 +912,7 @@
   width: 2px;
 }
 
-.x25 .text-64 {
+.x25 .text-49 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -959,7 +959,7 @@
   width: 86px;
 }
 
-.x25 .text-62 {
+.x25 .text-47 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -984,7 +984,7 @@
   width: 90px;
 }
 
-.x25 .text-63 {
+.x25 .text-48 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;
@@ -1017,7 +1017,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 3;

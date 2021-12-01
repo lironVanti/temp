@@ -3,7 +3,6 @@
 .x3 {
   align-items: center;
   background-color: var(--white);
-  cursor: pointer;
   display: flex;
   flex-direction: column;
   min-height: 1080px;
@@ -15,13 +14,13 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 100vw;
+  width: 100vw;
   z-index: 1;
 }
 
 .x3 .group-container {
   align-items: flex-start;
-  background-image: url(../img/rectangle-3@1x.svg);
+  background-image: url(../img/rectangle-21@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -132,44 +131,28 @@
   width: 10px;
 }
 
-.x3 .rectangle-339 {
-  background-color: var(--mist-gray);
-  height: 7px;
-  left: 485px;
+.x3 .group-2725 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  left: 502px;
+  min-width: 916px;
   position: fixed;
-  top: 90px;
-  width: 85px;
+  top: 89px;
   z-index: 7;
 }
 
-.x3 .rectangle-342 {
+.x3 .rectangle-339 {
   background-color: var(--mist-gray);
-  height: 7px;
-  left: 586px;
-  position: fixed;
-  top: 90px;
-  width: 85px;
-  z-index: 9;
+  height: 9px;
+  width: 220px;
 }
 
-.x3 .rectangle-343 {
+.x3 .rectangle-34 {
   background-color: var(--mist-gray);
-  height: 7px;
-  left: 687px;
-  position: fixed;
-  top: 90px;
-  width: 85px;
-  z-index: 10;
-}
-
-.x3 .rectangle-344 {
-  background-color: var(--mist-gray);
-  height: 7px;
-  left: 787px;
-  position: fixed;
-  top: 90px;
-  width: 85px;
-  z-index: 11;
+  height: 9px;
+  margin-left: 12px;
+  width: 220px;
 }
 
 .x3 .close-large {
@@ -181,41 +164,44 @@
   z-index: 6;
 }
 
-.x3 .create-station {
-  left: 488px;
-  letter-spacing: 0;
+.x3 .frame-1034 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 485px;
+  min-width: 939px;
   position: fixed;
-  text-align: center;
   top: 101px;
   z-index: 8;
 }
 
-.x3 .model-name {
-  left: 593px;
+.x3 .create-station {
   letter-spacing: 0;
-  position: fixed;
+  min-height: 15px;
   text-align: center;
-  top: 101px;
-  z-index: 12;
+  width: 106px;
+}
+
+.x3 .model-name {
+  letter-spacing: 0;
+  margin-left: 143px;
+  min-height: 15px;
+  width: 87px;
 }
 
 .x3 .upload-file {
-  left: 703px;
   letter-spacing: 0;
-  position: fixed;
-  text-align: center;
-  top: 101px;
-  z-index: 13;
+  margin-left: 143px;
+  min-height: 15px;
+  width: 62px;
 }
 
 .x3 .kpi {
-  left: 799px;
   letter-spacing: 0;
-  position: fixed;
+  margin-left: 143px;
+  min-height: 18px;
   text-align: center;
-  top: 101px;
   width: 62px;
-  z-index: 14;
 }
 
 .x3 .name-your-model {
@@ -230,7 +216,7 @@
   z-index: 5;
 }
 
-.x3 .tion {
+.x3 .x-name {
   letter-spacing: 0;
   margin-left: 38px;
   margin-top: 6px;
@@ -387,14 +373,14 @@
   min-width: 455px;
 }
 
-.x3 .text-91 {
+.x3 .text-236 {
   align-self: flex-end;
   letter-spacing: 0;
   min-height: 36px;
   min-width: 270px;
 }
 
-.x3 .text-92 {
+.x3 .text-237 {
   color: transparent;
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xl);
@@ -410,7 +396,7 @@
   text-decoration: underline;
 }
 
-.x3 .text-93 {
+.x3 .text-238 {
   letter-spacing: 0;
   margin-left: 7px;
   margin-top: 6px;
@@ -435,7 +421,7 @@
   width: 279px;
 }
 
-.x3 .text-94 {
+.x3 .text-239 {
   letter-spacing: 0;
   margin-right: 38.5px;
   min-height: 72px;
@@ -450,7 +436,7 @@
   width: 122px;
 }
 
-.x3 .text-95 {
+.x3 .text-240 {
   letter-spacing: 0;
   margin-top: 24px;
   min-height: 42px;
@@ -458,7 +444,7 @@
   text-align: center;
 }
 
-.x3 .text-96 {
+.x3 .text-241 {
   align-self: center;
   letter-spacing: 0;
   margin-left: 2px;
@@ -576,7 +562,7 @@
   width: 18px;
 }
 
-.x3 .text-97 {
+.x3 .text-242 {
   letter-spacing: 0;
   margin-right: 1px;
   margin-top: 36px;
@@ -585,7 +571,7 @@
   text-align: center;
 }
 
-.x3 .text-98 {
+.x3 .text-243 {
   letter-spacing: 0;
   margin-top: 33px;
   min-height: 18px;
@@ -611,7 +597,7 @@
   width: 148px;
 }
 
-.x3 .text-99 {
+.x3 .text-244 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -627,7 +613,7 @@
   width: 115px;
 }
 
-.x3 .text-100 {
+.x3 .text-245 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -671,7 +657,7 @@
   width: 200px;
 }
 
-.x3 .text-101 {
+.x3 .text-246 {
   letter-spacing: 0;
   margin-top: 71px;
   min-height: 15px;

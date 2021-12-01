@@ -71,7 +71,7 @@
 
 .x17 .overlap-group5 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-78-1@2x.svg);
+  background-image: url(../img/rectangle-78-5@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 35px;
@@ -119,7 +119,7 @@
   width: 111px;
 }
 
-.x17 .text-19 {
+.x17 .text-1 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -133,7 +133,7 @@
   top: 0;
 }
 
-.x17 .overlap-group3 {
+.x17 .overlap-group2 {
   height: 50px;
   margin-left: 1px;
   margin-top: 10px;
@@ -179,14 +179,14 @@
   margin-top: 2px;
 }
 
-.x17 .overlap-group2 {
+.x17 .overlap-group3 {
   height: 194px;
   margin-top: 17px;
   position: relative;
   width: 417px;
 }
 
-.x17 .text-19-1 {
+.x17 .text-12 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -246,7 +246,7 @@
   width: 186px;
 }
 
-.x17 .text-19-2 {
+.x17 .text-12-1 {
   left: 50px;
   letter-spacing: 0;
   position: absolute;
@@ -359,7 +359,7 @@
   width: 551px;
 }
 
-.x17 .overlap-group6 {
+.x17 .overlap-group7 {
   height: 42px;
   position: relative;
   width: 215px;
@@ -408,13 +408,13 @@
   width: 105px;
 }
 
-.x17 .overlap-group8 {
+.x17 .overlap-group9 {
   height: 49px;
   position: relative;
   width: 105px;
 }
 
-.x17 .overlap-group7 {
+.x17 .overlap-group6 {
   height: 50px;
   margin-top: 10px;
   position: relative;
@@ -427,7 +427,7 @@
   min-height: 20px;
 }
 
-.x17 .overlap-group9 {
+.x17 .overlap-group8 {
   align-self: flex-end;
   height: 194px;
   margin-left: 18px;
@@ -508,7 +508,7 @@
   top: 307px;
 }
 
-.x17 .overlap-group13 {
+.x17 .overlap-group14 {
   align-items: flex-start;
   background-color: var(--white);
   border-radius: 10px;
@@ -639,7 +639,7 @@
   width: 1151px;
 }
 
-.x17 .text-197 {
+.x17 .text-125 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -680,7 +680,7 @@
   width: 11px;
 }
 
-.x17 .text-198 {
+.x17 .text-126 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -731,7 +731,7 @@
   min-width: 10px;
 }
 
-.x17 .text-199 {
+.x17 .text-127 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -779,7 +779,7 @@
   min-width: 10px;
 }
 
-.x17 .text-200 {
+.x17 .text-128 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -814,7 +814,7 @@
   min-width: 10px;
 }
 
-.x17 .text-201 {
+.x17 .text-129 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -920,7 +920,7 @@
   width: 2px;
 }
 
-.x17 .text-204 {
+.x17 .text-132 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -967,7 +967,7 @@
   width: 86px;
 }
 
-.x17 .text-202 {
+.x17 .text-130 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -992,7 +992,7 @@
   width: 90px;
 }
 
-.x17 .text-203 {
+.x17 .text-131 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;
@@ -1025,7 +1025,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 3;
@@ -1033,7 +1033,7 @@
 
 .x17 .group-container-1 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-1@1x.svg);
+  background-image: url(../img/rectangle-12@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -1151,11 +1151,11 @@
   width: 20px;
 }
 
-.x17 .sdmcs {
+.x17 .place {
   letter-spacing: 0;
   margin-left: 8px;
   min-height: 45px;
-  min-width: 128px;
+  min-width: 52px;
 }
 
 .x17 .models-review {

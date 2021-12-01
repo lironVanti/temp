@@ -15,7 +15,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 5;
@@ -152,7 +152,7 @@
   width: 219px;
 }
 
-.x23 .text-1 {
+.x23 .text-2 {
   height: 56px;
   left: 0;
   letter-spacing: 0;
@@ -198,7 +198,7 @@
   width: 23px;
 }
 
-.x23 .text-2 {
+.x23 .text-3 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -227,7 +227,7 @@
   z-index: 7;
 }
 
-.x23 .overlap-group8 {
+.x23 .overlap-group9 {
   height: 37px;
   margin-top: -1px;
   position: relative;
@@ -322,7 +322,7 @@
   width: 2px;
 }
 
-.x23 .overlap-group9 {
+.x23 .overlap-group8 {
   align-items: flex-start;
   background-image: url(../img/buttons-main-3@2x.svg);
   background-size: 100% 100%;
@@ -393,7 +393,7 @@
   width: 19px;
 }
 
-.x23 .text-36 {
+.x23 .text-21 {
   letter-spacing: 0;
   margin-left: 10px;
   min-height: 27px;
@@ -408,7 +408,7 @@
   width: 2px;
 }
 
-.x23 .text-37 {
+.x23 .text-22 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 40px;
@@ -455,14 +455,14 @@
   min-height: 26px;
 }
 
-.x23 .text-34 {
+.x23 .text-19 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 36px;
   width: 335px;
 }
 
-.x23 .text-3 {
+.x23 .text {
   letter-spacing: 0;
   margin-top: 3px;
   min-height: 36px;
@@ -509,14 +509,14 @@
   min-width: 157px;
 }
 
-.x23 .text-32 {
+.x23 .text-17 {
   letter-spacing: 0;
   margin-top: 10px;
   min-height: 36px;
   width: 307px;
 }
 
-.x23 .text-38 {
+.x23 .text-23 {
   left: 70px;
   letter-spacing: 0;
   position: absolute;
@@ -524,7 +524,7 @@
   width: 161px;
 }
 
-.x23 .text-39 {
+.x23 .text-24 {
   left: 254px;
   letter-spacing: 0;
   position: absolute;
@@ -931,7 +931,7 @@
   text-align: center;
 }
 
-.x23 .text {
+.x23 .text-1 {
   height: 52px;
   left: 1px;
   letter-spacing: 0;
@@ -954,7 +954,7 @@
   width: 445px;
 }
 
-.x23 .text-30 {
+.x23 .text-15 {
   height: 78px;
   left: 1px;
   letter-spacing: 0;

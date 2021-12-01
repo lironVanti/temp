@@ -118,7 +118,7 @@
   width: 111px;
 }
 
-.x35 .text-15 {
+.x35 .text-25 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -185,7 +185,7 @@
   width: 417px;
 }
 
-.x35 .text-15-1 {
+.x35 .text-2 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -245,7 +245,7 @@
   width: 186px;
 }
 
-.x35 .text-1 {
+.x35 .text-2-1 {
   left: 50px;
   letter-spacing: 0;
   position: absolute;
@@ -630,7 +630,7 @@
   width: 1151px;
 }
 
-.x35 .text-161 {
+.x35 .text-262 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -671,7 +671,7 @@
   width: 11px;
 }
 
-.x35 .text-162 {
+.x35 .text-263 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -722,7 +722,7 @@
   min-width: 10px;
 }
 
-.x35 .text-163 {
+.x35 .text-264 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -770,7 +770,7 @@
   min-width: 10px;
 }
 
-.x35 .text-164 {
+.x35 .text-265 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -805,7 +805,7 @@
   min-width: 10px;
 }
 
-.x35 .text-165 {
+.x35 .text-266 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -911,7 +911,7 @@
   width: 2px;
 }
 
-.x35 .text-168 {
+.x35 .text-269 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -958,7 +958,7 @@
   width: 86px;
 }
 
-.x35 .text-166 {
+.x35 .text-267 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -983,7 +983,7 @@
   width: 90px;
 }
 
-.x35 .text-167 {
+.x35 .text-268 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;
@@ -1016,7 +1016,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 3;

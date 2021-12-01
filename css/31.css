@@ -794,7 +794,7 @@
   width: 280px;
 }
 
-.x31 .text-327 {
+.x31 .text-326 {
   height: 15px;
   letter-spacing: 0;
   line-height: 21.7px;
@@ -818,7 +818,7 @@
   width: 232px;
 }
 
-.x31 .text-326 {
+.x31 .text-325 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -837,7 +837,7 @@
   width: 231px;
 }
 
-.x31 .text-328 {
+.x31 .text-327 {
   height: 24px;
   left: 182px;
   letter-spacing: 0;
@@ -852,7 +852,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: absolute;
   top: 0;
 }

@@ -118,7 +118,7 @@
   width: 111px;
 }
 
-.x26 .text-6 {
+.x26 .text-8 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -185,7 +185,7 @@
   width: 417px;
 }
 
-.x26 .text-6-1 {
+.x26 .text-8-1 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -245,7 +245,7 @@
   width: 186px;
 }
 
-.x26 .text {
+.x26 .text-8-2 {
   left: 50px;
   letter-spacing: 0;
   position: absolute;
@@ -499,7 +499,7 @@
   width: 36px;
 }
 
-.x26 .overlap-group15 {
+.x26 .overlap-group14 {
   background-color: var(--white);
   border-radius: 10px;
   height: 916px;
@@ -586,7 +586,7 @@
   width: 1151px;
 }
 
-.x26 .text-71 {
+.x26 .text-87 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -627,7 +627,7 @@
   width: 11px;
 }
 
-.x26 .text-72 {
+.x26 .text-88 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -678,7 +678,7 @@
   min-width: 10px;
 }
 
-.x26 .text-73 {
+.x26 .text-89 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -726,7 +726,7 @@
   min-width: 10px;
 }
 
-.x26 .text-74 {
+.x26 .text-90 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -761,7 +761,7 @@
   min-width: 10px;
 }
 
-.x26 .text-75 {
+.x26 .text-91 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -867,7 +867,7 @@
   width: 2px;
 }
 
-.x26 .text-78 {
+.x26 .text-94 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -914,7 +914,7 @@
   width: 86px;
 }
 
-.x26 .text-76 {
+.x26 .text-92 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -939,7 +939,7 @@
   width: 90px;
 }
 
-.x26 .text-77 {
+.x26 .text-93 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;
@@ -1003,7 +1003,7 @@
   width: 640px;
 }
 
-.x26 .text-79 {
+.x26 .text-95 {
   align-self: center;
   letter-spacing: 0;
   line-height: 32.4px;
@@ -1027,7 +1027,7 @@
   width: 14px;
 }
 
-.x26 .text-80 {
+.x26 .text-96 {
   letter-spacing: 0;
   line-height: 21.8px;
   margin-left: 7px;
@@ -1092,7 +1092,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 3;
@@ -1100,7 +1100,7 @@
 
 .x26 .group-container-3 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-7@1x.svg);
+  background-image: url(../img/rectangle-9@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;

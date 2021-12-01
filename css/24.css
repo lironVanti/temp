@@ -31,12 +31,12 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 100vw;
+  width: 100vw;
 }
 
 .x24 .group-container {
   align-items: flex-start;
-  background-image: url(../img/rectangle-2@1x.svg);
+  background-image: url(../img/rectangle-8@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -386,7 +386,7 @@
   width: 1151px;
 }
 
-.x24 .text-18 {
+.x24 .text-73 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -427,7 +427,7 @@
   width: 11px;
 }
 
-.x24 .text-19 {
+.x24 .text-74 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -478,7 +478,7 @@
   min-width: 10px;
 }
 
-.x24 .text-20 {
+.x24 .text-75 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -526,7 +526,7 @@
   min-width: 10px;
 }
 
-.x24 .text-21 {
+.x24 .text-76 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -561,7 +561,7 @@
   min-width: 10px;
 }
 
-.x24 .text-22 {
+.x24 .text-77 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -667,7 +667,7 @@
   width: 2px;
 }
 
-.x24 .text-25 {
+.x24 .text-80 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -714,7 +714,7 @@
   width: 86px;
 }
 
-.x24 .text-23 {
+.x24 .text-78 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -739,7 +739,7 @@
   width: 90px;
 }
 
-.x24 .text-24 {
+.x24 .text-79 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;

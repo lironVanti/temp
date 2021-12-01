@@ -79,7 +79,7 @@
 
 .x19 .overlap-group-1 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-78-4@2x.svg);
+  background-image: url(../img/rectangle-78-6@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 35px;
@@ -142,7 +142,7 @@
   width: 122px;
 }
 
-.x19 .overlap-group2 {
+.x19 .overlap-group4 {
   height: 49px;
   margin-left: 1px;
   margin-top: 6px;
@@ -150,7 +150,7 @@
   width: 111px;
 }
 
-.x19 .text-283 {
+.x19 .text-209 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -164,7 +164,7 @@
   top: 0;
 }
 
-.x19 .overlap-group4 {
+.x19 .overlap-group3 {
   height: 50px;
   margin-left: 1px;
   margin-top: 10px;
@@ -186,7 +186,7 @@
   min-height: 20px;
 }
 
-.x19 .overlap-group3 {
+.x19 .overlap-group2 {
   align-self: flex-end;
   height: 194px;
   margin-left: 2px;
@@ -194,7 +194,7 @@
   width: 417px;
 }
 
-.x19 .text-284 {
+.x19 .text-210 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -402,7 +402,7 @@
   width: 1151px;
 }
 
-.x19 .text-286 {
+.x19 .text-212 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -443,7 +443,7 @@
   width: 11px;
 }
 
-.x19 .text-287 {
+.x19 .text-213 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -494,7 +494,7 @@
   min-width: 10px;
 }
 
-.x19 .text-288 {
+.x19 .text-214 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -542,7 +542,7 @@
   min-width: 10px;
 }
 
-.x19 .text-289 {
+.x19 .text-215 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -577,7 +577,7 @@
   min-width: 10px;
 }
 
-.x19 .text-290 {
+.x19 .text-216 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -683,7 +683,7 @@
   width: 2px;
 }
 
-.x19 .text-293 {
+.x19 .text-219 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -730,7 +730,7 @@
   width: 86px;
 }
 
-.x19 .text-291 {
+.x19 .text-217 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -755,7 +755,7 @@
   width: 90px;
 }
 
-.x19 .text-292 {
+.x19 .text-218 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;
@@ -918,7 +918,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 3;
@@ -926,7 +926,7 @@
 
 .x19 .group-container-1 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-9@1x.svg);
+  background-image: url(../img/rectangle-18@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -1044,11 +1044,11 @@
   width: 20px;
 }
 
-.x19 .sdmcs {
+.x19 .place {
   letter-spacing: 0;
   margin-left: 8px;
   min-height: 45px;
-  min-width: 128px;
+  min-width: 52px;
 }
 
 .x19 .models-review {

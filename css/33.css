@@ -15,7 +15,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 100vw;
+  width: 100vw;
   position: fixed;
   top: 0;
   z-index: 5;
@@ -392,7 +392,7 @@
   width: 19px;
 }
 
-.x33 .text-336 {
+.x33 .text-335 {
   letter-spacing: 0;
   margin-left: 10px;
   min-height: 27px;
@@ -407,7 +407,7 @@
   width: 2px;
 }
 
-.x33 .text-337 {
+.x33 .text-336 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 40px;
@@ -454,7 +454,7 @@
   min-height: 26px;
 }
 
-.x33 .text-334 {
+.x33 .text-333 {
   letter-spacing: 0;
   margin-top: 9px;
   min-height: 36px;
@@ -508,14 +508,14 @@
   min-width: 157px;
 }
 
-.x33 .text-332 {
+.x33 .text-331 {
   letter-spacing: 0;
   margin-top: 10px;
   min-height: 36px;
   width: 307px;
 }
 
-.x33 .text-338 {
+.x33 .text-337 {
   left: 70px;
   letter-spacing: 0;
   position: absolute;
@@ -523,7 +523,7 @@
   width: 161px;
 }
 
-.x33 .text-339 {
+.x33 .text-338 {
   left: 254px;
   letter-spacing: 0;
   position: absolute;
@@ -953,7 +953,7 @@
   width: 445px;
 }
 
-.x33 .text-330 {
+.x33 .text-329 {
   height: 78px;
   left: 1px;
   letter-spacing: 0;

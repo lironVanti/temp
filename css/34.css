@@ -31,7 +31,7 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 100vw;
+  width: 100vw;
 }
 
 .x34 .group-container {
@@ -385,7 +385,7 @@
   width: 1151px;
 }
 
-.x34 .text-219 {
+.x34 .text-298 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -426,7 +426,7 @@
   width: 11px;
 }
 
-.x34 .text-220 {
+.x34 .text-299 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -477,7 +477,7 @@
   min-width: 10px;
 }
 
-.x34 .text-221 {
+.x34 .text-300 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -525,7 +525,7 @@
   min-width: 10px;
 }
 
-.x34 .text-222 {
+.x34 .text-301 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -560,7 +560,7 @@
   min-width: 10px;
 }
 
-.x34 .text-223 {
+.x34 .text-302 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -666,7 +666,7 @@
   width: 2px;
 }
 
-.x34 .text-226 {
+.x34 .text-305 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -713,7 +713,7 @@
   width: 86px;
 }
 
-.x34 .text-224 {
+.x34 .text-303 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -738,7 +738,7 @@
   width: 90px;
 }
 
-.x34 .text-225 {
+.x34 .text-304 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;

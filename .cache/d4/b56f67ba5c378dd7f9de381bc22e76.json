@@ -1,1 +1,38 @@
-{"id":"components/X2/X2.css","dependencies":[{"name":"_css_loader","parent":"/Users/lironsabo/dev/work/temp/components/X2/X2.css","resolved":"/Users/lironsabo/dev/work/temp/node_modules/parcel-bundler/src/builtins/css-loader.js"},{"name":"/Users/lironsabo/dev/work/temp/package.json","includedInParent":true,"mtime":1638209379886}],"generated":{"css":".x2 {\n  align-items: flex-start;\n  background-color: var(--white);\n  display: flex;\n  height: 1080px;\n  overflow: hidden;\n  width: 1920px;\n}\n\n","js":"var reloadCSS = require('_css_loader');\n\nmodule.hot.dispose(reloadCSS);\nmodule.hot.accept(reloadCSS);"},"sourceMaps":{"css":{"mappings":[{"source":"components/X2/X2.css","original":{"line":1,"column":0},"generated":{"line":1,"column":0}},{"source":"components/X2/X2.css","original":{"line":2,"column":0},"generated":{"line":2,"column":0}},{"source":"components/X2/X2.css","original":{"line":3,"column":0},"generated":{"line":3,"column":0}},{"source":"components/X2/X2.css","original":{"line":4,"column":0},"generated":{"line":4,"column":0}},{"source":"components/X2/X2.css","original":{"line":5,"column":0},"generated":{"line":5,"column":0}},{"source":"components/X2/X2.css","original":{"line":6,"column":0},"generated":{"line":6,"column":0}},{"source":"components/X2/X2.css","original":{"line":7,"column":0},"generated":{"line":7,"column":0}},{"source":"components/X2/X2.css","original":{"line":8,"column":0},"generated":{"line":8,"column":0}},{"source":"components/X2/X2.css","original":{"line":9,"column":0},"generated":{"line":9,"column":0}},{"source":"components/X2/X2.css","original":{"line":10,"column":0},"generated":{"line":10,"column":0}}],"sources":{"components/X2/X2.css":".x2 {\n  align-items: flex-start;\n  background-color: var(--white);\n  display: flex;\n  height: 1080px;\n  overflow: hidden;\n  width: 1920px;\n}\n\n"},"lineCount":10}},"error":null,"hash":"f5b145649d2eb3dab22bd75379d01e81","cacheData":{"env":{}}}
+{
+  "id": "components/X2/X2.css",
+  "dependencies": [
+    {
+      "name": "_css_loader",
+      "parent": "/Users/lironsabo/dev/work/temp/components/X2/X2.css",
+      "resolved": "/Users/lironsabo/dev/work/temp/node_modules/parcel-bundler/src/builtins/css-loader.js"
+    },
+    { "name": "/Users/lironsabo/dev/work/temp/package.json", "includedInParent": true, "mtime": 1638209379886 }
+  ],
+  "generated": {
+    "css": ".x2 {\n  align-items: flex-start;\n  background-color: var(--white);\n  display: flex;\n  height: 1080px;\n  overflow: hidden;\n  width: 100vw;\n}\n\n",
+    "js": "var reloadCSS = require('_css_loader');\n\nmodule.hot.dispose(reloadCSS);\nmodule.hot.accept(reloadCSS);"
+  },
+  "sourceMaps": {
+    "css": {
+      "mappings": [
+        { "source": "components/X2/X2.css", "original": { "line": 1, "column": 0 }, "generated": { "line": 1, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 2, "column": 0 }, "generated": { "line": 2, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 3, "column": 0 }, "generated": { "line": 3, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 4, "column": 0 }, "generated": { "line": 4, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 5, "column": 0 }, "generated": { "line": 5, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 6, "column": 0 }, "generated": { "line": 6, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 7, "column": 0 }, "generated": { "line": 7, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 8, "column": 0 }, "generated": { "line": 8, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 9, "column": 0 }, "generated": { "line": 9, "column": 0 } },
+        { "source": "components/X2/X2.css", "original": { "line": 10, "column": 0 }, "generated": { "line": 10, "column": 0 } }
+      ],
+      "sources": {
+        "components/X2/X2.css": ".x2 {\n  align-items: flex-start;\n  background-color: var(--white);\n  display: flex;\n  height: 1080px;\n  overflow: hidden;\n  width: 100vw;\n}\n\n"
+      },
+      "lineCount": 10
+    }
+  },
+  "error": null,
+  "hash": "f5b145649d2eb3dab22bd75379d01e81",
+  "cacheData": { "env": {} }
+}

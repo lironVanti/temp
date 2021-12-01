@@ -3,7 +3,6 @@
 .x4 {
   align-items: center;
   background-color: var(--white);
-  cursor: pointer;
   display: flex;
   flex-direction: column;
   min-height: 1080px;
@@ -15,13 +14,13 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 100vw;
+  width: 100vw;
   z-index: 1;
 }
 
 .x4 .group-container {
   align-items: flex-start;
-  background-image: url(../img/rectangle-5@1x.svg);
+  background-image: url(../img/rectangle-22@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -132,44 +131,28 @@
   width: 10px;
 }
 
+.x4 .group-2725 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  left: 502px;
+  min-width: 916px;
+  position: fixed;
+  top: 89px;
+  z-index: 9;
+}
+
 .x4 .rectangle-339 {
   background-color: var(--caribbean-green-pearl);
-  height: 7px;
-  left: 485px;
-  position: fixed;
-  top: 90px;
-  width: 85px;
-  z-index: 8;
+  height: 9px;
+  width: 220px;
 }
 
-.x4 .rectangle-342 {
+.x4 .rectangle-34 {
   background-color: var(--mist-gray);
-  height: 7px;
-  left: 586px;
-  position: fixed;
-  top: 90px;
-  width: 85px;
-  z-index: 10;
-}
-
-.x4 .rectangle-343 {
-  background-color: var(--mist-gray);
-  height: 7px;
-  left: 687px;
-  position: fixed;
-  top: 90px;
-  width: 85px;
-  z-index: 11;
-}
-
-.x4 .rectangle-344 {
-  background-color: var(--mist-gray);
-  height: 7px;
-  left: 787px;
-  position: fixed;
-  top: 90px;
-  width: 85px;
-  z-index: 12;
+  height: 9px;
+  margin-left: 12px;
+  width: 220px;
 }
 
 .x4 .close-large {
@@ -181,41 +164,44 @@
   z-index: 2;
 }
 
-.x4 .create-station {
-  left: 488px;
-  letter-spacing: 0;
+.x4 .frame-1034 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 485px;
+  min-width: 939px;
   position: fixed;
-  text-align: center;
   top: 101px;
-  z-index: 9;
+  z-index: 10;
+}
+
+.x4 .create-station {
+  letter-spacing: 0;
+  min-height: 15px;
+  text-align: center;
+  width: 106px;
 }
 
 .x4 .model-name {
-  left: 593px;
   letter-spacing: 0;
-  position: fixed;
-  text-align: center;
-  top: 101px;
-  z-index: 13;
+  margin-left: 143px;
+  min-height: 15px;
+  width: 87px;
 }
 
 .x4 .upload-file {
-  left: 703px;
   letter-spacing: 0;
-  position: fixed;
-  text-align: center;
-  top: 101px;
-  z-index: 14;
+  margin-left: 143px;
+  min-height: 15px;
+  width: 62px;
 }
 
 .x4 .kpi {
-  left: 799px;
   letter-spacing: 0;
-  position: fixed;
+  margin-left: 143px;
+  min-height: 18px;
   text-align: center;
-  top: 101px;
   width: 62px;
-  z-index: 15;
 }
 
 .x4 .name-your-model {
@@ -359,7 +345,7 @@
   width: 2px;
 }
 
-.x4 .text-105 {
+.x4 .text-247 {
   letter-spacing: 0;
   margin-left: 38px;
   margin-top: 6px;
@@ -496,14 +482,14 @@
   text-decoration: underline;
 }
 
-.x4 .text-107 {
+.x4 .text-249 {
   left: 522px;
   letter-spacing: 0;
   line-height: 19.3px;
   position: fixed;
   top: 634px;
   white-space: nowrap;
-  z-index: 16;
+  z-index: 8;
 }
 
 .x4 .group-65 {
@@ -534,7 +520,7 @@
   width: 200px;
 }
 
-.x4 .text-106 {
+.x4 .text-248 {
   letter-spacing: 0;
   margin-top: 71px;
   min-height: 15px;

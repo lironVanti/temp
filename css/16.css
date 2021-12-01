@@ -15,12 +15,12 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 100vw;
+  width: 100vw;
 }
 
 .x16 .group-container {
   align-items: flex-start;
-  background-image: url(../img/rectangle-2@1x.svg);
+  background-image: url(../img/rectangle-11@1x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 78px;
@@ -105,7 +105,7 @@
   text-align: right;
 }
 
-.x16 .overlap-group8 {
+.x16 .overlap-group7 {
   background-color: var(--black-haze);
   height: 70px;
   position: relative;
@@ -143,11 +143,11 @@
   width: 20px;
 }
 
-.x16 .sdmcs {
+.x16 .place {
   letter-spacing: 0;
   margin-left: 8px;
   min-height: 45px;
-  min-width: 128px;
+  min-width: 52px;
 }
 
 .x16 .models-review {
@@ -174,7 +174,7 @@
   width: 6px;
 }
 
-.x16 .overlap-group7 {
+.x16 .overlap-group9 {
   height: 1010px;
   margin-left: 16px;
   position: relative;
@@ -194,7 +194,7 @@
 
 .x16 .overlap-group-1 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-78-2@2x.svg);
+  background-image: url(../img/rectangle-78-4@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 35px;
@@ -255,7 +255,7 @@
   width: 623px;
 }
 
-.x16 .overlap-group9 {
+.x16 .overlap-group8 {
   align-items: flex-start;
   background-color: var(--white);
   border-radius: 10px;
@@ -302,7 +302,7 @@
   text-align: center;
 }
 
-.x16 .text-218 {
+.x16 .text-118 {
   height: 47px;
   left: 104px;
   letter-spacing: 0;
@@ -404,7 +404,7 @@
   width: 1151px;
 }
 
-.x16 .text-211 {
+.x16 .text-111 {
   letter-spacing: 0;
   min-height: 26px;
   width: 297px;
@@ -445,7 +445,7 @@
   width: 11px;
 }
 
-.x16 .text-212 {
+.x16 .text-112 {
   align-self: flex-end;
   height: 42px;
   letter-spacing: 0;
@@ -496,7 +496,7 @@
   min-width: 10px;
 }
 
-.x16 .text-213 {
+.x16 .text-113 {
   letter-spacing: 0;
   margin-bottom: 5px;
   margin-left: 24px;
@@ -544,7 +544,7 @@
   min-width: 10px;
 }
 
-.x16 .text-214 {
+.x16 .text-114 {
   letter-spacing: 0;
   margin-bottom: 3px;
   margin-left: 21px;
@@ -595,7 +595,7 @@
   width: 86px;
 }
 
-.x16 .text-215 {
+.x16 .text-115 {
   height: 80px;
   left: 0;
   letter-spacing: 0;
@@ -620,7 +620,7 @@
   width: 90px;
 }
 
-.x16 .text-216 {
+.x16 .text-116 {
   height: 168px;
   letter-spacing: 0;
   margin-top: 10px;
@@ -689,7 +689,7 @@
   width: 2px;
 }
 
-.x16 .text-217 {
+.x16 .text-117 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
