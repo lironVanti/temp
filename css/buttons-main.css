@@ -1,0 +1,25 @@
+/* screen - buttons-main */
+
+.buttons-main {
+  align-items: flex-start;
+  background-color: var(--caribbean-green-pearl);
+  display: flex;
+  height: 35px;
+  min-width: 200px;
+  padding: 0 46px;
+}
+
+.buttons-main .group-1012 {
+  height: 17px;
+  margin-top: 9px;
+  width: 17px;
+}
+
+.buttons-main .new-station {
+  letter-spacing: 0;
+  margin-left: 8px;
+  margin-top: 7px;
+  min-height: 21px;
+  min-width: 83px;
+  text-align: center;
+}
