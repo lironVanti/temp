@@ -6,7 +6,7 @@
   display: flex;
   height: 1080px;
   overflow: hidden;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x17 .flex-row {
@@ -77,7 +77,7 @@
   height: 35px;
   margin-left: 14px;
   min-width: 200px;
-  padding: 5.0px 17px;
+  padding: 5px 17px;
 }
 
 .x17 .train-new-model {
@@ -174,7 +174,7 @@
 
 .x17 .live {
   height: 14px;
-  letter-spacing: 0.50px;
+  letter-spacing: 0.5px;
   margin-left: 10px;
   margin-top: 2px;
 }
@@ -377,7 +377,7 @@
 .x17 .ready {
   height: 14px;
   left: 184px;
-  letter-spacing: 0.50px;
+  letter-spacing: 0.5px;
   position: absolute;
   top: 21px;
 }
@@ -527,7 +527,7 @@
   align-self: center;
   display: flex;
   height: 46px;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: 7px;
   min-width: 1154px;
 }
@@ -671,7 +671,7 @@
   display: flex;
   justify-content: center;
   margin-left: 1px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
@@ -727,13 +727,13 @@
   display: flex;
   justify-content: center;
   margin-left: 9px;
-  margin-top: 14.0px;
+  margin-top: 14px;
   min-width: 10px;
 }
 
 .x17 .text-199 {
   letter-spacing: 0;
-  margin-bottom: 5.0px;
+  margin-bottom: 5px;
   margin-left: 24px;
   min-height: 21px;
   width: 432px;
@@ -775,13 +775,13 @@
   display: flex;
   justify-content: center;
   margin-left: 4px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
 .x17 .text-200 {
   letter-spacing: 0;
-  margin-bottom: 3.0px;
+  margin-bottom: 3px;
   margin-left: 21px;
   min-height: 21px;
   width: 435px;
@@ -810,13 +810,13 @@
   display: flex;
   justify-content: center;
   margin-left: 3px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
 .x17 .text-201 {
   letter-spacing: 0;
-  margin-bottom: 3.0px;
+  margin-bottom: 3px;
   margin-left: 21px;
   min-height: 21px;
   width: 409px;
@@ -901,7 +901,7 @@
   min-width: 10px;
   position: absolute;
   top: 4px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
 }
 
 .x17 .overlap-group-3 {
@@ -909,14 +909,14 @@
   border-radius: 6px;
   display: flex;
   height: 12px;
-  margin-top: -1.0px;
+  margin-top: -1px;
   min-width: 12px;
-  padding: 1.2px 4.0px;
+  padding: 1.2px 4px;
 }
 
 .x17 .vector {
   height: 7px;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
   width: 2px;
 }
 
@@ -1015,7 +1015,7 @@
   left: 0;
   position: fixed;
   top: 70px;
-  width: 1920px;
+  width: 100vw;
   z-index: 2;
 }
 
@@ -1025,7 +1025,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 1920px;
+  min-width: 100vw;
   position: fixed;
   top: 0;
   z-index: 3;
@@ -1039,7 +1039,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 33px;
 }
 
@@ -1106,7 +1106,7 @@
 .x17 .triangle {
   height: 4px;
   margin-left: 4px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   width: 10px;
 }
 
@@ -1124,7 +1124,7 @@
   left: 0;
   position: fixed;
   top: 70px;
-  width: 1920px;
+  width: 100vw;
   z-index: 4;
 }
 

@@ -4,7 +4,7 @@
   background-color: var(--white);
   height: 1088px;
   position: relative;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x31 .rectangle-194 {
@@ -101,7 +101,7 @@
 
 .x31 .state-3 {
   letter-spacing: 0;
-  margin-right: 2.0px;
+  margin-right: 2px;
   min-height: 41px;
   text-align: center;
   width: 255px;
@@ -111,7 +111,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: 31px;
   min-height: 300px;
   width: 50px;
@@ -283,14 +283,14 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-left: 2.0px;
+  margin-left: 2px;
   min-height: 291px;
   width: 142px;
 }
 
 .x31 .state-5 {
   letter-spacing: 0;
-  margin-right: 2.0px;
+  margin-right: 2px;
   min-height: 34px;
   text-align: center;
   width: 140px;
@@ -301,7 +301,7 @@
   border-radius: 22px;
   display: flex;
   height: 34px;
-  margin-right: 4.0px;
+  margin-right: 4px;
   margin-top: 47px;
   min-width: 110px;
   padding: 2px 4px;
@@ -328,7 +328,7 @@
   border-radius: 22px;
   display: flex;
   height: 34px;
-  margin-right: 4.0px;
+  margin-right: 4px;
   margin-top: 48px;
   min-width: 110px;
   padding: 0 8px;
@@ -352,7 +352,7 @@
 
 .x31 .overlap-group-1 {
   height: 53px;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: 41px;
   position: relative;
   width: 129px;
@@ -383,7 +383,7 @@
   border-radius: 30px;
   display: flex;
   height: 28px;
-  margin-right: 3.0px;
+  margin-right: 3px;
   margin-top: -1px;
   min-width: 102px;
   padding: 3px 8.5px;
@@ -400,7 +400,7 @@
   height: 11px;
   letter-spacing: 0;
   line-height: 11px;
-  margin-right: 2.0px;
+  margin-right: 2px;
   margin-top: 11px;
   min-width: 127px;
   white-space: nowrap;
@@ -411,7 +411,7 @@
   border-radius: 42px;
   display: flex;
   height: 33px;
-  margin-left: 1.0px;
+  margin-left: 1px;
   margin-top: 365px;
   min-width: 57px;
   padding: 3px 6.5px;
@@ -429,7 +429,7 @@
   border-radius: 42px;
   display: flex;
   height: 33px;
-  margin-left: 1.0px;
+  margin-left: 1px;
   margin-top: 60px;
   min-width: 57px;
   padding: 3px 6.5px;
@@ -524,7 +524,7 @@
 
 .x31 .state-6 {
   letter-spacing: 0;
-  margin-right: 7.0px;
+  margin-right: 7px;
   min-height: 34px;
   width: 209px;
 }
@@ -591,7 +591,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 67.0px;
+  margin-right: 67px;
   margin-top: 16px;
   min-width: 91px;
 }
@@ -613,7 +613,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 39.0px;
+  margin-right: 39px;
   margin-top: 10px;
   min-width: 119px;
 }
@@ -640,7 +640,7 @@
 
 .x31 .state-7 {
   letter-spacing: 0;
-  margin-right: 7.0px;
+  margin-right: 7px;
   margin-top: 11px;
   min-height: 34px;
   width: 209px;
@@ -698,7 +698,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 52.0px;
+  margin-right: 52px;
   margin-top: 10px;
   min-width: 106px;
 }
@@ -720,7 +720,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 6.0px;
+  margin-right: 6px;
   margin-top: 10px;
   min-width: 152px;
 }
@@ -742,7 +742,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 9.0px;
+  margin-right: 9px;
   margin-top: 10px;
   min-width: 149px;
 }
@@ -764,7 +764,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 37.0px;
+  margin-right: 37px;
   margin-top: 10px;
   min-width: 121px;
 }
@@ -852,7 +852,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 1920px;
+  min-width: 100vw;
   position: absolute;
   top: 0;
 }
@@ -865,7 +865,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 33px;
 }
 
@@ -932,7 +932,7 @@
 .x31 .triangle {
   height: 4px;
   margin-left: 4px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   width: 10px;
 }
 

@@ -7,7 +7,7 @@
   flex-direction: column;
   height: 1080px;
   overflow: hidden;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x14 .header {
@@ -16,7 +16,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 1920px;
+  min-width: 100vw;
   position: fixed;
   top: 0;
   z-index: 6;
@@ -30,7 +30,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 33px;
 }
 
@@ -97,7 +97,7 @@
 .x14 .triangle {
   height: 4px;
   margin-left: 4px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   width: 10px;
 }
 
@@ -115,7 +115,7 @@
   left: 0;
   position: fixed;
   top: 70px;
-  width: 1920px;
+  width: 100vw;
   z-index: 4;
 }
 
@@ -141,7 +141,7 @@
   display: flex;
   height: 36px;
   left: 348px;
-  padding: 0 1.0px;
+  padding: 0 1px;
   position: absolute;
   top: 10px;
   width: 221px;
@@ -193,7 +193,7 @@
 .x14 .overlap-group-1 {
   height: 27px;
   margin-left: 6px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   position: relative;
   width: 23px;
 }
@@ -257,7 +257,7 @@
 
 .x14 .group {
   height: 19px;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   width: 19px;
 }
 
@@ -279,7 +279,7 @@
   justify-content: flex-end;
   left: 0;
   min-width: 36px;
-  padding: 4.2px 1.0px;
+  padding: 4.2px 1px;
   position: absolute;
   top: 1px;
 }
@@ -422,7 +422,7 @@
   height: 30px;
   letter-spacing: 0;
   margin-left: 104px;
-  margin-top: 2.0px;
+  margin-top: 2px;
   min-width: 49px;
   text-align: center;
 }
@@ -603,7 +603,7 @@
 .x14 .vector-52 {
   align-self: center;
   height: 51px;
-  margin-right: 43.0px;
+  margin-right: 43px;
   margin-top: 10px;
   width: 2px;
 }
@@ -735,7 +735,7 @@
 .x14 .group-1091 {
   align-items: flex-start;
   display: flex;
-  margin-right: 2.0px;
+  margin-right: 2px;
   margin-top: 34px;
   min-width: 1620px;
   z-index: 3;
@@ -873,7 +873,7 @@
 .x14 .dropdown-icon {
   align-self: center;
   height: 18px;
-  margin-bottom: 1.0px;
+  margin-bottom: 1px;
   margin-left: 77px;
   width: 18px;
 }

@@ -6,7 +6,7 @@
   display: flex;
   height: 1080px;
   overflow: hidden;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x19 .flex-row {
@@ -85,7 +85,7 @@
   height: 35px;
   margin-left: 14px;
   min-width: 200px;
-  padding: 5.0px 17px;
+  padding: 5px 17px;
 }
 
 .x19 .train-new-model {
@@ -434,7 +434,7 @@
   display: flex;
   justify-content: center;
   margin-left: 1px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
@@ -490,13 +490,13 @@
   display: flex;
   justify-content: center;
   margin-left: 9px;
-  margin-top: 14.0px;
+  margin-top: 14px;
   min-width: 10px;
 }
 
 .x19 .text-288 {
   letter-spacing: 0;
-  margin-bottom: 5.0px;
+  margin-bottom: 5px;
   margin-left: 24px;
   min-height: 21px;
   width: 432px;
@@ -538,13 +538,13 @@
   display: flex;
   justify-content: center;
   margin-left: 4px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
 .x19 .text-289 {
   letter-spacing: 0;
-  margin-bottom: 3.0px;
+  margin-bottom: 3px;
   margin-left: 21px;
   min-height: 21px;
   width: 435px;
@@ -573,13 +573,13 @@
   display: flex;
   justify-content: center;
   margin-left: 3px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
 .x19 .text-290 {
   letter-spacing: 0;
-  margin-bottom: 3.0px;
+  margin-bottom: 3px;
   margin-left: 21px;
   min-height: 21px;
   width: 409px;
@@ -664,7 +664,7 @@
   min-width: 10px;
   position: absolute;
   top: 4px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
 }
 
 .x19 .overlap-group-3 {
@@ -672,14 +672,14 @@
   border-radius: 6px;
   display: flex;
   height: 12px;
-  margin-top: -1.0px;
+  margin-top: -1px;
   min-width: 12px;
-  padding: 1.2px 4.0px;
+  padding: 1.2px 4px;
 }
 
 .x19 .vector {
   height: 7px;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
   width: 2px;
 }
 
@@ -779,7 +779,7 @@
   border-radius: 12px;
   display: flex;
   height: 24px;
-  margin-right: 2.0px;
+  margin-right: 2px;
   min-width: 48px;
   padding: 0 4px;
   transform: rotate(-180deg);
@@ -794,7 +794,7 @@
 
 .x19 .live {
   letter-spacing: 0;
-  margin-right: 3.0px;
+  margin-right: 3px;
   margin-top: 4px;
   min-height: 18px;
   min-width: 23px;
@@ -803,7 +803,7 @@
 .x19 .live-1 {
   height: 14px;
   left: 299px;
-  letter-spacing: 0.50px;
+  letter-spacing: 0.5px;
   position: absolute;
   top: 85px;
 }
@@ -908,7 +908,7 @@
   left: 0;
   position: fixed;
   top: 70px;
-  width: 1920px;
+  width: 100vw;
   z-index: 2;
 }
 
@@ -918,7 +918,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 1920px;
+  min-width: 100vw;
   position: fixed;
   top: 0;
   z-index: 3;
@@ -932,7 +932,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 33px;
 }
 
@@ -999,7 +999,7 @@
 .x19 .triangle {
   height: 4px;
   margin-left: 4px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   width: 10px;
 }
 
@@ -1017,7 +1017,7 @@
   left: 0;
   position: fixed;
   top: 70px;
-  width: 1920px;
+  width: 100vw;
   z-index: 4;
 }
 

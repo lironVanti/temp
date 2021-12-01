@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   height: 1080px;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x33 .header {
@@ -15,7 +15,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 1920px;
+  min-width: 100vw;
   position: fixed;
   top: 0;
   z-index: 5;
@@ -29,7 +29,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 33px;
 }
 
@@ -96,7 +96,7 @@
 .x33 .triangle {
   height: 4px;
   margin-left: 4px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   width: 10px;
 }
 
@@ -114,7 +114,7 @@
   left: 0;
   position: fixed;
   top: 70px;
-  width: 1920px;
+  width: 100vw;
   z-index: 3;
 }
 
@@ -140,7 +140,7 @@
   display: flex;
   height: 36px;
   left: 348px;
-  padding: 0 1.0px;
+  padding: 0 1px;
   position: absolute;
   top: 10px;
   width: 221px;
@@ -192,7 +192,7 @@
 .x33 .overlap-group-2 {
   height: 27px;
   margin-left: 5px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   position: relative;
   width: 23px;
 }
@@ -256,7 +256,7 @@
 
 .x33 .group {
   height: 19px;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   width: 19px;
 }
 
@@ -278,7 +278,7 @@
   justify-content: flex-end;
   left: 0;
   min-width: 36px;
-  padding: 4.2px 1.0px;
+  padding: 4.2px 1px;
   position: absolute;
   top: 1px;
 }
@@ -402,7 +402,7 @@
 .x33 .vector-52 {
   align-self: center;
   height: 51px;
-  margin-right: 43.0px;
+  margin-right: 43px;
   margin-top: 10px;
   width: 2px;
 }
@@ -534,7 +534,7 @@
 .x33 .group-2694 {
   align-items: flex-start;
   display: flex;
-  margin-right: 2.0px;
+  margin-right: 2px;
   margin-top: 72px;
   min-width: 1620px;
   z-index: 1;
@@ -672,7 +672,7 @@
 .x33 .dropdown-icon {
   align-self: center;
   height: 18px;
-  margin-bottom: 1.0px;
+  margin-bottom: 1px;
   margin-left: 77px;
   width: 18px;
 }

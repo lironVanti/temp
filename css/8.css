@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   min-height: 1080px;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x8 .header {
@@ -14,7 +14,7 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 1920px;
+  min-width: 100vw;
   z-index: 1;
 }
 
@@ -26,7 +26,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 36px;
 }
 
@@ -73,7 +73,7 @@
   border-radius: 4.5px;
   height: 9px;
   margin-left: 2px;
-  margin-top: 12.0px;
+  margin-top: 12px;
   width: 9px;
 }
 
@@ -92,7 +92,7 @@
 
 .x8 .overlap-group1 {
   height: 41px;
-  margin-bottom: 1.0px;
+  margin-bottom: 1px;
   margin-left: 8px;
   position: relative;
   width: 106px;
@@ -146,7 +146,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-top: 5.0px;
+  margin-top: 5px;
   min-height: 26px;
   width: 85px;
 }
@@ -171,14 +171,14 @@
   display: flex;
   flex-direction: column;
   margin-left: 16px;
-  margin-top: 5.0px;
+  margin-top: 5px;
   min-height: 26px;
   width: 85px;
 }
 
 .x8 .model-name {
   letter-spacing: 0;
-  margin-right: 7.0px;
+  margin-right: 7px;
   margin-top: 4px;
   min-height: 15px;
   min-width: 64px;
@@ -187,7 +187,7 @@
 
 .x8 .upload-file {
   letter-spacing: 0;
-  margin-left: 2.0px;
+  margin-left: 2px;
   margin-top: 4px;
   min-height: 15px;
   min-width: 55px;
@@ -206,7 +206,7 @@
 
 .x8 .kpi {
   letter-spacing: 0;
-  margin-left: 1.0px;
+  margin-left: 1px;
   margin-top: 4px;
   min-height: 18px;
   text-align: center;
@@ -218,7 +218,7 @@
   display: flex;
   flex-direction: column;
   margin-left: 15px;
-  margin-top: 5.0px;
+  margin-top: 5px;
   min-height: 26px;
   width: 178px;
 }
@@ -231,7 +231,7 @@
 
 .x8 .text-90 {
   letter-spacing: 0;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: 4px;
   min-height: 15px;
   min-width: 163px;
@@ -253,7 +253,7 @@
   left: 0;
   position: absolute;
   top: 0;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
   width: 24px;
 }
 
@@ -278,7 +278,7 @@
   font-size: 48px;
   font-weight: 700;
   letter-spacing: 0;
-  margin-left: 1.0px;
+  margin-left: 1px;
   margin-top: 31px;
   min-height: 72px;
   min-width: 331px;
@@ -288,7 +288,7 @@
 
 .x8 .text-87 {
   letter-spacing: 0;
-  margin-left: 1.0px;
+  margin-left: 1px;
   margin-top: 12px;
   min-height: 52px;
   min-width: 461px;
@@ -298,7 +298,7 @@
 
 .x8 .text-88 {
   letter-spacing: 0;
-  margin-left: 1.0px;
+  margin-left: 1px;
   margin-top: 252px;
   min-height: 42px;
   min-width: 329px;
@@ -313,7 +313,7 @@
   margin-top: 91px;
   min-height: 103px;
   padding: 0 683px;
-  width: 1920px;
+  width: 100vw;
   z-index: 6;
 }
 
@@ -330,7 +330,7 @@
   align-self: center;
   cursor: pointer;
   height: 34px;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: -44px;
   width: 250px;
 }

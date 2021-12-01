@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: column;
   min-height: 1080px;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x4 .header {
@@ -15,7 +15,7 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 1920px;
+  min-width: 100vw;
   z-index: 1;
 }
 
@@ -27,7 +27,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 36px;
 }
 
@@ -74,7 +74,7 @@
   border-radius: 4.5px;
   height: 9px;
   margin-left: 2px;
-  margin-top: 12.0px;
+  margin-top: 12px;
   width: 9px;
 }
 
@@ -93,7 +93,7 @@
 
 .x4 .overlap-group1 {
   height: 41px;
-  margin-bottom: 1.0px;
+  margin-bottom: 1px;
   margin-left: 8px;
   position: relative;
   width: 106px;
@@ -222,7 +222,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-right: 46.0px;
+  margin-right: 46px;
   margin-top: 37px;
   min-height: 122px;
   width: 980px;
@@ -266,15 +266,15 @@
   height: 24px;
   left: 919px;
   min-width: 24px;
-  padding: 6.0px 7.1px;
+  padding: 6px 7.1px;
   position: absolute;
   top: 29px;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
 }
 
 .x4 .path-3 {
   height: 12px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
   width: 8px;
 }
 
@@ -319,7 +319,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-right: 46.0px;
+  margin-right: 46px;
   margin-top: 39px;
   min-height: 122px;
   width: 980px;
@@ -349,7 +349,7 @@
   height: 20px;
   left: 160px;
   min-width: 20px;
-  padding: 2.0px 7.0px;
+  padding: 2px 7px;
   position: absolute;
   top: 10px;
 }
@@ -426,16 +426,16 @@
   height: 24px;
   left: 902px;
   min-width: 24px;
-  padding: 6.0px 7.1px;
+  padding: 6px 7.1px;
   position: absolute;
   top: 19px;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
 }
 
 .x4 .or {
   height: 70px;
   letter-spacing: 0;
-  margin-right: 47.0px;
+  margin-right: 47px;
   margin-top: 26px;
   text-align: right;
   width: 25px;
@@ -448,7 +448,7 @@
   display: flex;
   height: 93px;
   min-width: 942px;
-  padding: 29px 22.0px;
+  padding: 29px 22px;
   z-index: 5;
 }
 
@@ -513,7 +513,7 @@
   margin-top: 353px;
   min-height: 103px;
   padding: 0 683px;
-  width: 1920px;
+  width: 100vw;
   z-index: 7;
 }
 
@@ -529,7 +529,7 @@
 .x4 .buttons-main {
   align-self: center;
   height: 34px;
-  margin-left: 1.0px;
+  margin-left: 1px;
   margin-top: -44px;
   width: 200px;
 }
