@@ -4,9 +4,9 @@
 
 .clickable-model {
   width: 240px;
-  height: 33px;
+  height: 40px;
   position: absolute;
-  top: 430px;
+  top: 445px;
   right: 103px;
   z-index: 999;
   border-radius: 5px;
