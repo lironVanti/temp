@@ -1,0 +1,279 @@
+:root { 
+  --biloba-flower: #b1a5ff;
+  --black: #000000;
+  --cadet-blue: #adb3c0;
+  --canary: #3c1eff;
+  --caribbean-green-pearl: #52de97;
+  --charade: #212935;
+  --gray-nurse: #e9eaeb;
+  --grey: #394253;
+  --gulf-blue: #13115b;
+  --mist-gray: #c4c4c4;
+  --mystic: #e7e7ef;
+  --periwinkle: #c6d4ed;
+  --sasquatch-socks: #ff3c78;
+  --shuttle-gray: #616875;
+  --whisper: #f3f3fa;
+  --white: #ffffff;
+  --zircon: #f7f9fe;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 17px;
+  --font-size-s: 16px;
+  --font-size-xl: 30px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 12px;
+  --font-size-xxxs: 10px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-normal-shuttle-gray-17px {
+  color: var(--shuttle-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-charade-17px {
+  color: var(--charade);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-oxford-blue-17px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-normal-shuttle-gray-10px {
+  color: var(--shuttle-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-oxford-blue-17px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-shuttle-gray-14px {
+  color: var(--shuttle-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-charade-10px {
+  color: var(--charade);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-medium-oxford-blue-24px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-normal-oxford-blue-14px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-bold-oxford-blue-17px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-gulf-blue-14px {
+  color: var(--gulf-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-bold-oxford-blue-50px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-light-oxford-blue-17px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-periwinkle-12px {
+  color: var(--periwinkle);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-periwinkle-17px {
+  color: var(--periwinkle);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-bold-oxford-blue-30px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-light-oxford-blue-24px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-semi-bold-oxford-blue-10px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-bold-caribbean-green-pearl-14px {
+  color: var(--caribbean-green-pearl);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-periwinkle-13px {
+  color: var(--periwinkle);
+  font-family: var(--font-family-poppins);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-oxford-blue-10px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-light-oxford-blue-14px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-normal-shuttle-gray-12px {
+  color: var(--shuttle-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-white-17px {
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-gulf-blue-17px {
+  color: var(--gulf-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-extra-light-oxford-blue-14px {
+  color: var(--grey);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 200;
+}
+
+.border-1px-grey {
+  border: 1px solid var(--grey);
+}
+
+.border-1px-mystic {
+  border: 1px solid var(--mystic);
+}
+
+.border-1px-biloba-flower {
+  border: 1px solid var(--biloba-flower);
+}
+
+.border-1px-canary {
+  border: 1px solid var(--canary);
+}
+
+.border-1px-gulf-blue {
+  border: 1px solid var(--gulf-blue);
+}
