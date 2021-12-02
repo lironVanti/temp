@@ -138,7 +138,7 @@
 }
 
 .x24 .stage-header {
-  align-items: center;
+  align-items: baseline;
   display: flex;
   height: 45px;
   left: 183px;
@@ -178,7 +178,7 @@
   display: flex;
   margin-right: 4px;
   margin-top: 12px;
-  min-width: 1900px;
+  width: 100%;
 }
 
 .x24 .rectangle-52 {
@@ -224,6 +224,9 @@
   min-height: 23px;
   text-align: center;
   width: 166px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .x24 .overlap-group1 {
@@ -235,32 +238,32 @@
 
 .x24 .live-hover {
   height: 224px;
-  left: 2px;
+  left: -4px;
   position: absolute;
   top: 0;
-  width: 623px;
+  width: 550px;
 }
 
 .x24 .rectangle-69 {
-  height: 224px;
-  left: 0;
+  height: 197px;
+  left: 1px;
   position: absolute;
-  top: 1px;
+  top: 12px;
   width: 15px;
 }
 
 .x24 .live-hover-1 {
   height: 236px;
   margin-left: -4px;
-  margin-top: 265px;
-  width: 623px;
+  margin-top: 211px;
+  width: 550px;
 }
 
 .x24 .live-hover-2 {
   height: 236px;
   margin-left: -4px;
-  margin-top: 10px;
-  width: 623px;
+  margin-top: -13px;
+  width: 550px;
 }
 
 .x24 .live-hover-3 {
@@ -268,19 +271,21 @@
   height: 236px;
   left: 0;
   position: absolute;
-  top: 290px;
-  width: 623px;
+  top: 258px;
+  width: 550px;
 }
 
 .x24 .rectangle-69-1 {
   background-color: var(--white);
   border-radius: 10px;
   height: 916px;
-  width: 1249px;
+  width: 1200px;
+  position: absolute;
+  right: 12px;
 }
 
 .x24 .model-g {
-  left: 706px;
+  left: 625px;
   letter-spacing: 0;
   position: absolute;
   top: 197px;
@@ -290,7 +295,7 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 1810px;
+  left: 1715px;
   min-height: 46px;
   position: absolute;
   top: 197px;
@@ -328,7 +333,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 704px;
+  left: 625px;
   min-height: 766px;
   position: absolute;
   top: 264px;
@@ -396,7 +401,7 @@
   height: 1px;
   margin-left: 1.02px;
   margin-top: 24px;
-  width: 1150px;
+  width: 1135px;
 }
 
 .x24 .flex-row-2 {
@@ -449,9 +454,9 @@
 
 .x24 .div-1 {
   height: 1px;
-  margin-left: 1.02px;
+  margin-left: -16px;
   margin-top: 15px;
-  width: 1150px;
+  width: 1135px;
 }
 
 .x24 .flex-row-3 {
@@ -496,7 +501,7 @@
   height: 1px;
   margin-left: 1.02px;
   margin-top: 15px;
-  width: 1150px;
+  width: 1135px;
 }
 
 .x24 .cluster-2 {
@@ -570,18 +575,19 @@
 }
 
 .x24 .div-3 {
-  height: 1px;
-  left: 1px;
+  height: 2px;
+  left: 0px;
+  margin-left: 2px;
   position: absolute;
   top: 308px;
-  width: 1105px;
+  width: 1134px;
 }
 
 .x24 .div-4 {
-  height: 1px;
+  height: 2px;
   margin-left: 1px;
   margin-top: 6px;
-  width: 1105px;
+  width: 1135px;
 }
 
 .x24 .frame-876 {
