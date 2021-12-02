@@ -62,7 +62,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 68px;
+  left: 47px;
   min-height: 1010px;
   position: absolute;
   top: 0;
@@ -85,6 +85,10 @@
   min-height: 23px;
   text-align: center;
   width: 166px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3px;
 }
 
 .x25 .group-203 {
@@ -278,9 +282,14 @@
 }
 
 .x25 .overlap-group-1 {
-  height: 11px;
-  position: relative;
-  width: 11px;
+  align-items: flex-start;
+  background-image: url(../img/rectangle-78-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 39px;
+  margin-left: 16px;
+  min-width: 200px;
+  padding: 5px 17px;
 }
 
 .x25 .back-button {
@@ -1121,7 +1130,7 @@
 }
 
 .x25 .stage-header {
-  align-items: center;
+  align-items: baseline;
   display: flex;
   height: 45px;
   left: 183px;
@@ -1155,4 +1164,18 @@
   margin-left: 8px;
   min-height: 45px;
   min-width: 221px;
+}
+
+.x25 .all_models_aligned_image {
+  width: 550px;
+  margin-top: 21px;
+}
+
+.x25 .rectangle-69-1 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 916px;
+  width: 1200px;
+  position: absolute;
+  right: 112px;
 }
