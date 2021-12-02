@@ -3,11 +3,11 @@
 }
 
 .clickable-model {
-  width: 566px;
-  height: 205px;
+  width: 45px;
+  height: 22px;
   position: absolute;
-  top: 418px;
-  left: 36px;
+  top: 184px;
+  right: 58px;
   z-index: 999;
   border-radius: 15px;
   cursor: pointer;
