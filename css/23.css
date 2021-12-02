@@ -122,7 +122,8 @@
   align-items: flex-start;
   display: flex;
   height: 56px;
-  left: 675px;
+  left: 50%;
+  transform: translate(-50%);
   min-width: 569px;
   position: fixed;
   top: 78px;
@@ -179,21 +180,21 @@
 
 .x23 .chevron {
   height: 21px;
-  margin-left: 8px;
+  margin-left: 27.08px;
   width: 20px;
 }
 
 .x23 .eol {
   height: 45px;
   letter-spacing: 0;
-  margin-left: 8px;
+  margin-left: 6.28px;
   min-width: 54px;
 }
 
 .x23 .overlap-group-2 {
   height: 27px;
   margin-left: 8px;
-  margin-top: 4px;
+  margin-top: 8px;
   position: relative;
   width: 23px;
 }
@@ -220,7 +221,7 @@
   display: flex;
   height: 35px;
   justify-content: flex-end;
-  left: 1442px;
+  right: 50px;
   min-width: 449px;
   position: fixed;
   top: 88px;
@@ -302,7 +303,7 @@
   background-image: url(../img/rectangle-193-1@2x.svg);
   background-size: 100% 100%;
   display: flex;
-  height: 35px;
+  height: 36px;
   justify-content: flex-end;
   margin-left: 30px;
   min-width: 35px;
@@ -311,7 +312,6 @@
 
 .x23 .vector-32 {
   height: 9px;
-  margin-bottom: 3.69px;
   width: 16px;
 }
 
@@ -324,8 +324,6 @@
 
 .x23 .overlap-group8 {
   align-items: flex-start;
-  background-image: url(../img/buttons-main-3@2x.svg);
-  background-size: 100% 100%;
   display: flex;
   min-width: 200px;
 }
@@ -692,7 +690,6 @@
   min-height: 32px;
   position: absolute;
   top: 0;
-  width: 197px;
 }
 
 .x23 .dropdown-3 {
@@ -961,4 +958,8 @@
   position: absolute;
   top: 25px;
   width: 444px;
+}
+
+.x23 .data-connectors-button-page-header-right-side {
+  width: 200px !important;
 }
