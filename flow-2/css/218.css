@@ -5,12 +5,11 @@
   display: flex;
   height: 1080px;
   justify-content: center;
-  min-width: 1920px;
+  width: 100vw;
   overflow-x: hidden;
 }
 
-.x218 .x9 {
-  height: 1371px;
-  margin-top: -101.5px;
-  width: 2012px;
+.x218 .x9000 {
+  height: 1088px;
+  width: 100vw;
 }
