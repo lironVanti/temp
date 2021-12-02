@@ -15,7 +15,7 @@
   display: flex;
   height: 70px;
   justify-content: center;
-  min-width: 1920px;
+  width: 100vw;
 }
 
 .x216 .group-container {
@@ -26,7 +26,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 33px;
 }
 
@@ -93,7 +93,7 @@
 .x216 .triangle {
   height: 4px;
   margin-left: 4px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   width: 10px;
 }
 
@@ -160,7 +160,7 @@
 .x216 .flex-row-1 {
   align-items: flex-start;
   display: flex;
-  margin-right: 4.0px;
+  margin-right: 4px;
   margin-top: 12px;
   min-width: 1900px;
 }
@@ -170,7 +170,7 @@
   background-color: var(--cadet-blue);
   border-radius: 40px;
   height: 90px;
-  margin-bottom: 58.0px;
+  margin-bottom: 58px;
   width: 6px;
 }
 
@@ -200,7 +200,7 @@
   height: 35px;
   margin-left: 16px;
   min-width: 200px;
-  padding: 5.0px 17px;
+  padding: 5px 17px;
 }
 
 .x216 .train-new-model {
@@ -296,7 +296,7 @@
   align-self: center;
   height: 27px;
   letter-spacing: 0;
-  margin-bottom: 1.0px;
+  margin-bottom: 1px;
   margin-left: 897px;
   min-width: 150px;
   text-align: center;
@@ -315,7 +315,7 @@
   align-self: center;
   display: flex;
   height: 46px;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: 33px;
   min-width: 1154px;
 }
@@ -341,7 +341,7 @@
   border-radius: 12px;
   display: flex;
   height: 24px;
-  margin-right: 2.0px;
+  margin-right: 2px;
   min-width: 48px;
   padding: 0 4px;
   transform: rotate(-180deg);
@@ -356,7 +356,7 @@
 
 .x216 .live {
   letter-spacing: 0;
-  margin-right: 3.0px;
+  margin-right: 3px;
   margin-top: 4px;
   min-height: 18px;
   min-width: 23px;
@@ -436,7 +436,7 @@
   display: flex;
   justify-content: center;
   margin-left: 2px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
@@ -492,13 +492,13 @@
   display: flex;
   justify-content: center;
   margin-left: 9px;
-  margin-top: 14.0px;
+  margin-top: 14px;
   min-width: 10px;
 }
 
 .x216 .text-125 {
   letter-spacing: 0;
-  margin-bottom: 5.0px;
+  margin-bottom: 5px;
   margin-left: 24px;
   min-height: 21px;
   width: 432px;
@@ -540,13 +540,13 @@
   display: flex;
   justify-content: center;
   margin-left: 4px;
-  margin-top: 16.0px;
+  margin-top: 16px;
   min-width: 10px;
 }
 
 .x216 .text-126 {
   letter-spacing: 0;
-  margin-bottom: 3.0px;
+  margin-bottom: 3px;
   margin-left: 21px;
   min-height: 21px;
   width: 435px;
@@ -670,7 +670,7 @@
   min-width: 10px;
   position: absolute;
   top: 4px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
 }
 
 .x216 .overlap-group-3 {
@@ -678,14 +678,14 @@
   border-radius: 6px;
   display: flex;
   height: 12px;
-  margin-top: -1.0px;
+  margin-top: -1px;
   min-width: 12px;
-  padding: 1.2px 4.0px;
+  padding: 1.2px 4px;
 }
 
 .x216 .vector {
   height: 7px;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
   width: 2px;
 }
 

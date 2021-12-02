@@ -86,7 +86,7 @@
   border-radius: 48px;
   height: 32px;
   margin-left: 186px;
-  margin-top: 295.0px;
+  margin-top: 295px;
   width: 102px;
 }
 
@@ -105,14 +105,14 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-left: 2.0px;
+  margin-left: 2px;
   min-height: 291px;
   width: 145px;
 }
 
 .x211 .state-3 {
   letter-spacing: 0;
-  margin-left: 1.0px;
+  margin-left: 1px;
   min-height: 34px;
   text-align: center;
   width: 140px;
@@ -147,7 +147,7 @@
 
 .x211 .overlap-group {
   height: 90px;
-  margin-left: 2.0px;
+  margin-left: 2px;
   margin-top: 7px;
   position: relative;
   width: 147px;
@@ -186,7 +186,7 @@
   border-radius: 30px;
   display: flex;
   height: 28px;
-  margin-right: 3.0px;
+  margin-right: 3px;
   margin-top: 29px;
   min-width: 102px;
   padding: 3px 2.5px;
@@ -203,7 +203,7 @@
   height: 11px;
   letter-spacing: 0;
   line-height: 11px;
-  margin-right: 4.0px;
+  margin-right: 4px;
   margin-top: 11px;
   min-width: 143px;
   white-space: nowrap;
@@ -214,7 +214,7 @@
   border-radius: 42px;
   display: flex;
   height: 33px;
-  margin-left: 4.0px;
+  margin-left: 4px;
   margin-top: 365px;
   min-width: 57px;
   padding: 3px 6.5px;
@@ -232,7 +232,7 @@
   border-radius: 42px;
   display: flex;
   height: 33px;
-  margin-left: 4.0px;
+  margin-left: 4px;
   margin-top: 60px;
   min-width: 57px;
   padding: 3px 6.5px;
@@ -520,7 +520,7 @@
 
 .x211 .state-6 {
   letter-spacing: 0;
-  margin-right: 2.0px;
+  margin-right: 2px;
   min-height: 41px;
   text-align: center;
   width: 255px;
@@ -530,7 +530,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: 31px;
   min-height: 300px;
   width: 50px;
@@ -595,7 +595,7 @@
 
 .x211 .state-7 {
   letter-spacing: 0;
-  margin-right: 7.0px;
+  margin-right: 7px;
   min-height: 34px;
   width: 209px;
 }
@@ -662,7 +662,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 65.0px;
+  margin-right: 65px;
   margin-top: 16px;
   min-width: 93px;
 }
@@ -684,7 +684,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 39.0px;
+  margin-right: 39px;
   margin-top: 10px;
   min-width: 119px;
 }
@@ -711,7 +711,7 @@
 
 .x211 .state-8 {
   letter-spacing: 0;
-  margin-right: 7.0px;
+  margin-right: 7px;
   margin-top: 11px;
   min-height: 34px;
   width: 209px;
@@ -769,7 +769,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 52.0px;
+  margin-right: 52px;
   margin-top: 10px;
   min-width: 106px;
 }
@@ -791,7 +791,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 6.0px;
+  margin-right: 6px;
   margin-top: 10px;
   min-width: 152px;
 }
@@ -813,7 +813,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 9.0px;
+  margin-right: 9px;
   margin-top: 10px;
   min-width: 149px;
 }
@@ -835,7 +835,7 @@
   align-items: center;
   display: flex;
   height: 26px;
-  margin-right: 37.0px;
+  margin-right: 37px;
   margin-top: 10px;
   min-width: 121px;
 }
@@ -923,7 +923,7 @@
   height: 70px;
   justify-content: center;
   left: 0;
-  min-width: 1920px;
+  width: 100vw;
   position: absolute;
   top: 0;
 }
@@ -936,7 +936,7 @@
   height: 78px;
   justify-content: flex-end;
   margin-top: -3px;
-  min-width: 1928px;
+  width: 100vw;
   padding: 15px 33px;
 }
 
@@ -1003,7 +1003,7 @@
 .x211 .triangle {
   height: 4px;
   margin-left: 4px;
-  margin-top: 4.0px;
+  margin-top: 4px;
   width: 10px;
 }
 
