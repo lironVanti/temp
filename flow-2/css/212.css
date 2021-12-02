@@ -213,10 +213,8 @@
   align-items: flex-start;
   display: flex;
   height: 1048px;
-  left: 151px;
-  min-width: 1695px;
-  position: fixed;
-  top: 215px;
+  margin-top: 20px;
+  position: relative;
   z-index: 3;
 }
 

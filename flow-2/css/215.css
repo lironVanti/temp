@@ -144,6 +144,7 @@
   padding: 0 1.0px;
   position: absolute;
   top: 10px;
+  z-index:1000;
   width: 221px;
 }
 
