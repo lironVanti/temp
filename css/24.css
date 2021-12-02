@@ -281,7 +281,7 @@
   height: 916px;
   width: 1200px;
   position: absolute;
-  right: 12px;
+  right: 112px;
 }
 
 .x24 .model-g {
@@ -685,14 +685,14 @@
   align-items: flex-start;
   border-radius: 3px;
   display: flex;
-  height: 287px;
+  height: 235px;
   margin-top: 4px;
   min-width: 552px;
   padding: 1.9px 0;
 }
 
 .x24 .mask-group {
-  height: 281px;
+  height: 228px;
   width: 548px;
 }
 
@@ -748,6 +748,11 @@
 .x24 .text-79 {
   height: 168px;
   letter-spacing: 0;
-  margin-top: 10px;
+  margin-top: -23px;
   width: 522px;
+}
+
+.x24 .white-stretch-selected-model-extender {
+  width: 300px;
+  background-color: white;
 }
