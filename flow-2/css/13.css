@@ -1,0 +1,272 @@
+/* screen - 13 */
+
+.x13 {
+  align-items: flex-start;
+  display: flex;
+  height: 1206px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.x13 .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/17-1@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1266px;
+  justify-content: flex-end;
+  margin-top: -90.5px;
+  min-width: 1928px;
+  padding: 57.3px 216px;
+}
+
+.x13 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15.95px;
+  min-height: 704px;
+  width: 255px;
+}
+
+.x13 .state-2 {
+  letter-spacing: 0;
+  min-height: 26px;
+  text-align: center;
+  width: 255px;
+}
+
+.x13 .frame-1026 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 19px;
+  margin-top: 46px;
+  min-height: 632px;
+  width: 149px;
+}
+
+.x13 .frame-518-default {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  min-width: 119px;
+  padding: 10px;
+}
+
+.x13 .state {
+  height: 26px;
+  letter-spacing: 0;
+}
+
+.x13 .frame-518-variant2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 142px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant3 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 114px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant4-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 149px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant4-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 147px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant4 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 119px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant4-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 144px;
+  padding: 10px;
+}
+
+.x13 .overlap-group {
+  height: 720px;
+  position: relative;
+  width: 432px;
+}
+
+.x13 .state-3 {
+  left: 220px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 212px;
+}
+
+.x13 .group-832 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 255px;
+  min-height: 658px;
+  position: absolute;
+  top: 62px;
+  width: 149px;
+}
+
+.x13 .frame-519-default {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  min-width: 149px;
+  padding: 10px;
+}
+
+.x13 .state-1 {
+  height: 46px;
+  letter-spacing: 0;
+}
+
+.x13 .frame-519-variant2 {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-top: 14px;
+  min-width: 148px;
+  padding: 10px;
+}
+
+.x13 .frame-519-variant3 {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-top: 14px;
+  min-width: 149px;
+  padding: 10px;
+}
+
+.x13 .frame-519-variant4 {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-top: 14px;
+  min-width: 143px;
+  padding: 10px;
+}
+
+.x13 .frame-519-variant {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-top: 14px;
+  min-width: 129px;
+  padding: 10px;
+}
+
+.x13 .frame-519-variant7 {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-top: 14px;
+  min-width: 126px;
+  padding: 10px;
+}
+
+.x13 .frame-519-variant7-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 69px;
+  margin-top: 25px;
+  min-width: 127px;
+  padding: 10px;
+}
+
+.x13 .group-844 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 372px;
+  position: absolute;
+  top: 0;
+  width: 257px;
+}
+
+.x13 .state-4 {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  min-height: 41px;
+  text-align: center;
+  width: 255px;
+}
+
+.x13 .group-834 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  margin-top: 31px;
+  min-height: 300px;
+  width: 50px;
+}
+
+.x13 .frame-518-default-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  min-width: 36px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant2-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 37px;
+  min-width: 47px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant3-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 42px;
+  padding: 10px;
+}
+
+.x13 .frame-518-variant4-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-top: 35px;
+  min-width: 50px;
+  padding: 10px;
+}
