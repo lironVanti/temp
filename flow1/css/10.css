@@ -269,7 +269,7 @@
   letter-spacing: 0;
   position: absolute;
   text-align: right;
-  top: 63px;
+  top: 56px;
 }
 
 .x10 .text-24 {
@@ -409,7 +409,7 @@
 .x10 .x30-false-positives {
   color: #ff3c78;
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
+  /* font-size: var(--font-size-l); */
   font-weight: 400;
   letter-spacing: 0;
   min-height: 24px;
@@ -419,7 +419,7 @@
 .x10 .x70-false-negatives {
   color: #00818a;
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
+  /* font-size: var(--font-size-l); */
   font-weight: 400;
   letter-spacing: 0;
   margin-left: 519px;
@@ -446,12 +446,12 @@
 .x10 .text-20 {
   color: var(--charade);
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-xl);
+  /* font-size: var(--font-size-xl); */
   font-weight: 400;
   left: 0;
   letter-spacing: 0;
   position: absolute;
-  top: 2px;
+  top: 8px;
   width: 272px;
 }
 
@@ -476,7 +476,7 @@
 
 .x10 .rectangle {
   background-color: var(--charade);
-  height: 3px;
+  height: 1px;
   left: 0;
   position: absolute;
   top: 28px;
@@ -486,7 +486,7 @@
 .x10 .text {
   color: var(--charade);
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
+  /* font-size: var(--font-size-l); */
   font-weight: 400;
   height: 28px;
   left: 11px;
@@ -508,12 +508,14 @@
 .x10 .text-21 {
   color: var(--charade);
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-xl);
+  /* font-size: var(--font-size-xl); */
   font-weight: 400;
   letter-spacing: 0;
   margin-top: 1.0px;
   min-height: 26px;
   width: 263px;
+  display: flex;
+  align-items: center;
 }
 
 .x10 .input-field-1 {
@@ -588,7 +590,7 @@
 .x10 .text-1 {
   color: #adb3c0;
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
+  /* font-size: var(--font-size-l); */
   font-weight: 400;
   height: 24px;
   letter-spacing: 0;
@@ -598,7 +600,7 @@
 
 .x10 .rectangle-1 {
   background-color: var(--charade);
-  height: 3px;
+  height: 1px;
   margin-top: 4px;
   width: 258px;
 }
