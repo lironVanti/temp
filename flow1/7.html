@@ -103,11 +103,8 @@
                   <img class="vector-32" src="img/vector-32@2x.svg" />
                 </div>
                 <div class="group-65">
-                  <a href="8.html">
-                    <div class="scroll-to-end poppins-normal-gulf-blue-14px">Scroll to end</div>
-                    <div class="forward-button border-1px-gulf-blue"><img class="path-3" src="img/path-3@2x.svg" /></div>
-                  </a>
-
+                  <div id="scrollToEnd" class="scroll-to-end poppins-normal-gulf-blue-14px">Scroll to end</div>
+                  <div class="forward-button border-1px-gulf-blue"><img class="path-3" src="img/path-3@2x.svg" /></div>
                 </div>
               </div>
               <div class="frame-13">
@@ -283,6 +280,10 @@
       window.onload = function() {
         var uploadFilename = window.location.hash.substring(1);
         document.getElementById("fileChip").innerText = uploadFilename;
+
+        document.getElementById("scrollToEnd").addEventListener("click", function() {
+          window.location.href = '8.html' + '#' + uploadFilename;
+        });
       };
     </script>
   </body>
