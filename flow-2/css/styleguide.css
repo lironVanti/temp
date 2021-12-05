@@ -1,4 +1,4 @@
-:root { 
+:root {
   --biloba-flower: #b1a5ff;
   --black: #000000;
   --black-haze: #f6f7f7;
@@ -22,7 +22,7 @@
   --whisper: #f3f3fa;
   --white: #ffffff;
   --zircon: #f7f9fe;
- 
+
   --font-size-l: 18px;
   --font-size-m: 17px;
   --font-size-s: 15px;
@@ -30,7 +30,7 @@
   --font-size-xs: 14px;
   --font-size-xxs: 13px;
   --font-size-xxxs: 12px;
- 
+
   --font-family-poppins: "Poppins", Helvetica;
 }
 .poppins-normal-shuttle-gray-17px {
@@ -38,7 +38,8 @@
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-m);
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
+  line-height: 1.5;
 }
 
 .poppins-normal-oxford-blue-17px {
@@ -523,6 +524,7 @@
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 500;
+  line-height: 1.5;
 }
 
 .poppins-medium-shuttle-gray-24px {
