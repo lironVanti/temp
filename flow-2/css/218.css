@@ -1,15 +1,14 @@
-/* screen - 218 */
-
-.x218 {
-  align-items: flex-start;
-  display: flex;
-  height: 1080px;
-  justify-content: center;
-  width: 100vw;
-  overflow-x: hidden;
+#page_218_flow2 {
+  width: 100%;
 }
 
-.x218 .x9000 {
-  height: 1088px;
-  width: 100vw;
+.clickable-model {
+  width: 57px;
+  height: 24px;
+  position: absolute;
+  top: 204px;
+  right: 57px;
+  z-index: 999;
+  border-radius: 15px;
+  cursor: pointer;
 }
