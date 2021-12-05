@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=1920, maximum-scale=1.0" />
     <title>Vanti Analytics</title>
-    <link rel="Vanti" type="image/ico" href="../favicon.ico"/>
+    <link rel="Vanti" type="image/ico" href="../favicon.ico" />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
     <link rel="stylesheet" type="text/css" href="css/6.css" />
@@ -16,7 +16,7 @@
     <div class="container-center-horizontal">
       <div class="x6 screen">
         <div class="header">
-          <img src="img/Group 2771.svg" />
+          <img src="img/fixed_header.svg" style="width: 100%" alt="" />
         </div>
         <img class="close-large" src="img/close--large@2x.svg" />
         <div class="group-2725">
@@ -32,13 +32,26 @@
           <div class="configuration">Configuration</div>
         </div>
         <div class="name-your-model">
-          <div class="name-your-model-1 poppins-normal-black-24px">Name your model</div>
+          <div class="name-your-model-1 poppins-normal-black-24px">
+            Name your model
+          </div>
           <div class="overlap-group4">
             <div class="overlap-group-1">
               <div class="rectangle"></div>
               <div class="rectangle-6"></div>
               <div class="rectangle-1"></div>
-              <input id="modelName1" type="text" id="model-name" class="text valign-text-middle poppins-light-oxford-blue-17px model-name1" placeholder="Type model name"/>
+              <input
+                id="modelName1"
+                type="text"
+                id="model-name"
+                class="
+                  text
+                  valign-text-middle
+                  poppins-light-oxford-blue-17px
+                  model-name1
+                "
+                placeholder="Type model name"
+              />
               <!-- <div class="text valign-text-middle poppins-light-oxford-blue-17px">
                 <span
                   ><span class="poppins-light-oxford-blue-17px">Ente</span
@@ -46,7 +59,9 @@
                 </span>
               </div> -->
             </div>
-            <div class="forward-button border-1px-grey"><img class="path-3" src="img/path-3-2@2x.svg" /></div>
+            <div class="forward-button border-1px-grey">
+              <img class="path-3" src="img/path-3-2@2x.svg" />
+            </div>
           </div>
         </div>
         <div class="overlap-group-container">
@@ -63,7 +78,9 @@
           </div>
         </div>
         <div class="text-28 poppins-normal-oxford-blue-14px">
-          <span class="poppins-normal-oxford-blue-14px">Supported data files: CSV</span>
+          <span class="poppins-normal-oxford-blue-14px"
+            >Supported data files: CSV</span
+          >
         </div>
         <div class="upload-file-box border-1px-grey">
           <div class="overlap-group-2">
@@ -72,27 +89,52 @@
           </div>
           <div class="click-here-to-upload poppins-normal-white-17px">
             <!-- UPLOAD FILE -->
-            <label class="span-1 poppins-normal-gulf-blue-17px custom-file-upload">
-              <span class="span-1 poppins-normal-gulf-blue-17px">Click here to upload from your computer</span>
-              <input id="selectFile" type="file"/>
+            <label
+              class="span-1 poppins-normal-gulf-blue-17px custom-file-upload"
+            >
+              <span class="span-1 poppins-normal-gulf-blue-17px"
+                >Click here to upload from your computer</span
+              >
+              <input id="selectFile" type="file" />
             </label>
             <span class="poppins-normal-charade-17px">&nbsp;</span
-            ><span class="poppins-normal-oxford-blue-17px">or drag and drop your database file(s).</span>
+            ><span class="poppins-normal-oxford-blue-17px"
+              >or drag and drop your database file(s).</span
+            >
           </div>
         </div>
-        <div id="fileChipContainer" class="uploaded-file-tag" style="visibility: hidden;">
+        <div
+          id="fileChipContainer"
+          class="uploaded-file-tag"
+          style="visibility: hidden"
+        >
           <img class="close-search" src="img/close-search@2x.svg" />
-          <div id="fileChip" class="text-29 valign-text-middle poppins-extra-light-oxford-blue-14px"></div>
+          <div
+            id="fileChip"
+            class="
+              text-29
+              valign-text-middle
+              poppins-extra-light-oxford-blue-14px
+            "
+          ></div>
         </div>
         <div class="group-65">
           <div class="bottom-section">
-            <img id="continue" class="buttons-main-2" src="img/buttons-main-1@2x.svg"/>
+            <img
+              id="continue"
+              class="buttons-main-2"
+              src="img/buttons-main-1@2x.svg"
+            />
             <!-- <img class="buttons-main-2" src="img/buttons-main-4@2x.svg" /> -->
             <p class="text-27 poppins-normal-shuttle-gray-10px">
-              <span class="poppins-normal-shuttle-gray-10px">Need help? Check out out </span
+              <span class="poppins-normal-shuttle-gray-10px"
+                >Need help? Check out out </span
               ><span class="span-1 poppins-normal-shuttle-gray-10px">FAQ</span
-              ><span class="poppins-normal-shuttle-gray-10px"> or drop us a question at </span
-              ><span class="span-1 poppins-normal-shuttle-gray-10px">support@vanti-analytics.com</span>
+              ><span class="poppins-normal-shuttle-gray-10px">
+                or drop us a question at </span
+              ><span class="span-1 poppins-normal-shuttle-gray-10px"
+                >support@vanti-analytics.com</span
+              >
             </p>
           </div>
           <img class="line-1" src="img/line-1@1x.png" />
@@ -101,24 +143,31 @@
     </div>
 
     <script>
-      window.onload = function() {
+      window.onload = function () {
         var modelName = decodeURIComponent(window.location.hash.substring(1));
         console.log(modelName);
         document.getElementById("modelName1").value = modelName;
 
-        document.getElementById("selectFile").addEventListener("change", function() {
-          var file = this.files;
-          var fileChip = document.getElementById("fileChip");
-          fileChip.innerText = file[0].name;
-          document.uploadFilename = file[0].name;
+        document.getElementById("selectFile").addEventListener(
+          "change",
+          function () {
+            var file = this.files;
+            var fileChip = document.getElementById("fileChip");
+            fileChip.innerText = file[0].name;
+            document.uploadFilename = file[0].name;
 
-          var fileChipContainer = document.getElementById("fileChipContainer");
-          fileChipContainer.style="visibility: visible";
-        }, false);
+            var fileChipContainer =
+              document.getElementById("fileChipContainer");
+            fileChipContainer.style = "visibility: visible";
+          },
+          false
+        );
 
-        document.getElementById("continue").addEventListener("click", function() {
-          window.location.href = '7.html' + '#' + document.uploadFilename;
-        });
+        document
+          .getElementById("continue")
+          .addEventListener("click", function () {
+            window.location.href = "7.html" + "#" + document.uploadFilename;
+          });
       };
     </script>
   </body>
