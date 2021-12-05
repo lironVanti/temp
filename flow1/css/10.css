@@ -146,7 +146,7 @@
   height: 9px;
   left: 502px;
   min-width: 916px;
-  position: fixed;
+  position: absolute;
   top: 99px;
   z-index: 12;
 }
@@ -177,7 +177,7 @@
   height: 15px;
   left: 485px;
   min-width: 939px;
-  position: fixed;
+  position: absolute;
   top: 111px;
   z-index: 13;
 }
