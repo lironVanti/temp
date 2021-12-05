@@ -34,9 +34,8 @@
         <div class="overlap-group-container">
           <div class="overlap-group5">
             <div class="text-5 poppins-normal-black-24px">
-              <span class="poppins-normal-black-24px"
-                >Configure Model Settings
-              </span>
+              <img src="img/modelSettings.svg" />
+              <!-- <span class="poppins-normal-black-24px">Configure Model Settings </span> -->
             </div>
             <img class="uploaded-file-tag" src="img/uploaded-file-tag@2x.png" />
             <div
@@ -76,7 +75,9 @@
               <span class="poppins-normal-gulf-blue-14px">Recommended</span>
             </div>
             <div class="manual poppins-normal-shuttle-gray-14px">
-              <span class="clickable-9 poppins-normal-shuttle-gray-14px"
+              <span
+                id="manualText"
+                class="clickable-9 poppins-normal-shuttle-gray-14px"
                 >Manual</span
               >
             </div>
@@ -119,6 +120,12 @@
 
         document
           .getElementById("manual-9")
+          .addEventListener("click", function () {
+            window.location.href = "10.html" + "#" + uploadFilename;
+          });
+
+        document
+          .getElementById("manualText")
           .addEventListener("click", function () {
             window.location.href = "10.html" + "#" + uploadFilename;
           });
