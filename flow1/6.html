@@ -83,32 +83,28 @@
         <div class="text-28 poppins-normal-oxford-blue-14px">
           <span class="poppins-normal-oxford-blue-14px">Supported Data Files: CSV</span>
         </div>
-
-        <!-- UPLOAD FILE -->
-        <input id="selectFile" type="file" style="visibility: hidden;"/>
-
         <div class="upload-file-box border-1px-grey">
           <div class="overlap-group-2">
             <img class="vector" src="img/vector@2x.svg" />
             <img class="union" src="img/union-1@2x.svg" />
           </div>
           <div class="click-here-to-upload poppins-normal-white-17px">
-            <span class="span-1 poppins-normal-gulf-blue-17px">Click here to upload from your computer</span
-            ><span class="poppins-normal-charade-17px">&nbsp;</span
+            <!-- UPLOAD FILE -->
+            <label class="span-1 poppins-normal-gulf-blue-17px custom-file-upload">
+              <span class="span-1 poppins-normal-gulf-blue-17px">Click here to upload from your computer</span>
+              <input id="selectFile" type="file"/>
+            </label>
+            <span class="poppins-normal-charade-17px">&nbsp;</span
             ><span class="poppins-normal-oxford-blue-17px">or drag and drop your database file(s).</span>
           </div>
         </div>
-        <div class="uploaded-file-tag">
+        <div id="fileChipContainer" class="uploaded-file-tag" style="visibility: hidden;">
           <img class="close-search" src="img/close-search@2x.svg" />
-          <div class="text-29 valign-text-middle poppins-extra-light-oxford-blue-14px">
-            demomodelprojectdatafactor.xlsx
-          </div>
+          <div id="fileChip" class="text-29 valign-text-middle poppins-extra-light-oxford-blue-14px"></div>
         </div>
         <div class="group-65">
           <div class="bottom-section">
-            <a href="7.html">
-              <img class="buttons-main-2" src="img/buttons-main-1@2x.svg"/>
-            </a>
+            <img id="continue" class="buttons-main-2" src="img/buttons-main-1@2x.svg"/>
             <!-- <img class="buttons-main-2" src="img/buttons-main-4@2x.svg" /> -->
             <p class="text-27 poppins-normal-shuttle-gray-10px">
               <span class="poppins-normal-shuttle-gray-10px">Need help? Check out out </span
@@ -124,11 +120,22 @@
 
     <script>
       window.onload = function() {
-        var modelName = window.location.hash.substring(1)
+        var modelName = window.location.hash.substring(1);
         document.getElementById("modelName1").value = modelName;
 
-        // var uploadButton = document.getElementById("selectFile");
-        // uploadButton.click();
+        document.getElementById("selectFile").addEventListener("change", function() {
+          var file = this.files;
+          var fileChip = document.getElementById("fileChip");
+          fileChip.innerText = file[0].name;
+          document.uploadFilename = file[0].name;
+
+          var fileChipContainer = document.getElementById("fileChipContainer");
+          fileChipContainer.style="visibility: visible";
+        }, false);
+
+        document.getElementById("continue").addEventListener("click", function() {
+          window.location.href = '7.html' + '#' + document.uploadFilename;
+        });
       };
     </script>
   </body>
