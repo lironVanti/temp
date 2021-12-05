@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   min-height: 1080px;
-  width: 1920px;
+  width: 100vw;
 }
 
 .x10 .header {
