@@ -120,7 +120,8 @@
 
     <script>
       window.onload = function() {
-        var modelName = window.location.hash.substring(1);
+        var modelName = decodeURIComponent(window.location.hash.substring(1));
+        console.log(modelName);
         document.getElementById("modelName1").value = modelName;
 
         document.getElementById("selectFile").addEventListener("change", function() {
