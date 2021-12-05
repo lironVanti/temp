@@ -108,10 +108,16 @@
 
 .x212 .group-1045 {
   align-items: flex-start;
-  display: flex;
   margin-top: 36px;
   min-width: 1622px;
   z-index: 2;
+  display: none;
+}
+
+.x212 .alertAnimation {
+  animation-name: alertAnimation;
+  animation-duration: 3s;
+  display: flex;
 }
 
 .x212 .overlap-group3 {
@@ -216,6 +222,7 @@
   margin-top: 20px;
   position: relative;
   z-index: 3;
+  transition: 0.3s ease;
 }
 
 .x212 .overlap-group-container {
@@ -1210,4 +1217,13 @@
   margin-left: 54px;
   margin-top: 239px;
   width: 9px;
+}
+
+@keyframes alertAnimation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
