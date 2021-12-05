@@ -498,6 +498,7 @@
   min-height: 21px;
   text-decoration: underline;
   width: 88px;
+  cursor: pointer;
 }
 
 .x7 .forward-button {

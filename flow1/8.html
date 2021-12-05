@@ -54,14 +54,13 @@
             <div class="flex-col">
               <div class="overlap-group3">
                 <div class="connect-data poppins-medium-oxford-blue-24px">
-                  <span class="poppins-medium-oxford-blue-24px">connect </span
-                  ><span class="poppins-medium-oxford-blue-24px">data</span>
+                  <span class="poppins-medium-oxford-blue-24px">Connect data</span>
                 </div>
                 <img class="group" src="img/group@2x.svg" />
               </div>
               <div class="text-31 poppins-normal-oxford-blue-14px">
-                <span class="poppins-normal-oxford-blue-14px">S</span
-                ><span class="poppins-normal-oxford-blue-14px">OPPURATED DATA FILES: CSV</span>
+                <span class="poppins-normal-oxford-blue-14px">Supported Data Files: CSV</span
+                >
               </div>
             </div>
             <div class="buttons-main-container">
@@ -82,9 +81,7 @@
           </div>
           <div class="uploaded-file-tag">
             <img class="close-search" src="img/close-search@2x.svg" />
-            <div class="text-32 valign-text-middle poppins-extra-light-oxford-blue-14px">
-              demomodelprojectdatafactor.xlsx
-            </div>
+            <div id="fileChip" class="text-32 valign-text-middle poppins-extra-light-oxford-blue-14px"></div>
           </div>
         </div>
         <div class="overlap-group21">
@@ -281,5 +278,15 @@
         </div>
       </div>
     </div>
+    <script>
+      window.onload = function() {
+        var uploadFilename = window.location.hash.substring(1);
+        document.getElementById("fileChip").innerText = uploadFilename;
+
+        document.getElementById("scrollToEnd").addEventListener("click", function() {
+          window.location.href = '8.html' + '#' + uploadFilename;
+        });
+      };
+    </script>
   </body>
 </html>

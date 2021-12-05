@@ -54,14 +54,13 @@
             <div class="flex-col">
               <div class="overlap-group3">
                 <div class="connect-data poppins-medium-oxford-blue-24px">
-                  <span class="poppins-medium-oxford-blue-24px">connect </span
+                  <span class="poppins-medium-oxford-blue-24px">Connect </span
                   ><span class="poppins-medium-oxford-blue-24px">data</span>
                 </div>
                 <img class="group" src="img/group@2x.svg" />
               </div>
               <div class="text-54 poppins-normal-oxford-blue-14px">
-                <span class="poppins-normal-oxford-blue-14px">S</span
-                ><span class="poppins-normal-oxford-blue-14px">OPPURATED DATA FILES: CSV</span>
+                <span class="poppins-normal-oxford-blue-14px">Supported Data Files: CSV</span>
               </div>
             </div>
             <div class="buttons-main-container">
@@ -88,7 +87,7 @@
         <div class="overlap-group20">
           <div class="group-2708">
             <div class="flex-row-2">
-              <div class="text-56">Choose Target Column</div>
+              <div class="text-56">Choose target column</div>
               <img class="group-1" src="img/group@2x.svg" />
             </div>
             <p class="text-57 poppins-normal-oxford-blue-14px">Select the column you wish the model to predict</p>
@@ -104,11 +103,8 @@
                   <img class="vector-32" src="img/vector-32@2x.svg" />
                 </div>
                 <div class="group-65">
-                  <a href="8.html">
-                    <div class="scroll-to-end poppins-normal-gulf-blue-14px">Scroll to end</div>
-                    <div class="forward-button border-1px-gulf-blue"><img class="path-3" src="img/path-3@2x.svg" /></div>
-                  </a>
-
+                  <div id="scrollToEnd" class="scroll-to-end poppins-normal-gulf-blue-14px">Scroll to end</div>
+                  <div class="forward-button border-1px-gulf-blue"><img class="path-3" src="img/path-3@2x.svg" /></div>
                 </div>
               </div>
               <div class="frame-13">
@@ -284,6 +280,10 @@
       window.onload = function() {
         var uploadFilename = window.location.hash.substring(1);
         document.getElementById("fileChip").innerText = uploadFilename;
+
+        document.getElementById("scrollToEnd").addEventListener("click", function() {
+          window.location.href = '8.html' + '#' + uploadFilename;
+        });
       };
     </script>
   </body>
