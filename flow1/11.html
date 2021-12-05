@@ -62,7 +62,7 @@
               <span class="poppins-normal-oxford-blue-14px">KPI Column: Results</span>
             </div>
             <div class="text-17 valign-text-middle poppins-normal-oxford-blue-14px">
-              <span class="poppins-normal-oxford-blue-14px">File name: demomodelprojectdatafactor.xlsx</span>
+              <span class="poppins-normal-oxford-blue-14px">File name: <span id="fileChip"></span></span>
             </div>
             <!-- <div class="text-15 valign-text-middle poppins-normal-oxford-blue-14px">
               <span
@@ -135,5 +135,11 @@
         </div>
       </div>
     </div>
+    <script>
+      window.onload = function() {
+        var uploadFilename = window.location.hash.substring(1);
+        document.getElementById("fileChip").innerHTML = uploadFilename;
+      };
+    </script>
   </body>
 </html>

@@ -241,6 +241,10 @@
   width: 318px;
 }
 
+.x9 .clickable-9 {
+  cursor: pointer;
+}
+
 .x9 .text-6 {
   height: 42px;
   left: 7px;

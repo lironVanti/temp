@@ -64,13 +64,11 @@
               <span class="poppins-normal-oxford-blue-14px">KPI Column: Results</span>
             </div>
             <div class="text-25 valign-text-middle poppins-normal-oxford-blue-14px">
-              <span class="poppins-normal-oxford-blue-14px">File name: demomodelprojectdatafactor.xlsx</span>
+              <span class="poppins-normal-oxford-blue-14px">File name: <span id="fileChip"></span></span>
             </div>
           </div>
           <div class="buttons-main-container">
-            <a href="11.html">
-              <img class="buttons-main" src="img/buttons-main-27@2x.svg" />
-            </a>
+              <img id="recommended-10" class="buttons-main clickable-10" src="img/buttons-main-27@2x.svg" />
 
             <img class="buttons-main-1" src="img/buttons-main-28@2x.svg" />
           </div>
@@ -144,5 +142,15 @@
         </div>
       </div>
     </div>
+    <script>
+      window.onload = function() {
+        var uploadFilename = window.location.hash.substring(1);
+        document.getElementById("fileChip").innerHTML = uploadFilename;
+
+        document.getElementById("recommended-10").addEventListener("click", function() {
+          window.location.href = '11.html' + '#' + uploadFilename;
+        });
+      };
+    </script>
   </body>
 </html>

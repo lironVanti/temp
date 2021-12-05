@@ -62,16 +62,13 @@
               <span class="poppins-normal-oxford-blue-14px">KPI Column: Results</span>
             </div>
             <div class="text-8 valign-text-middle poppins-normal-oxford-blue-14px">
-              <span class="poppins-normal-oxford-blue-14px">File name: demomodelprojectdatafactor.xlsx</span>
+              <span class="poppins-normal-oxford-blue-14px">File name: <span id="fileChip"></span></span>
             </div>
           </div>
           <div class="overlap-group3">
             <div class="group-2728">
               <div class="buttons-main-container">
-                <a href="10.html">
-                  <img class="buttons-main" src="img/buttons-main-20@2x.svg" />
-                </a>
-
+                <img id="manual-9" class="buttons-main clickable-9" src="img/buttons-main-20@2x.svg" />
                 <img class="buttons-main-1" src="img/buttons-main-21@2x.svg" />
               </div>
             </div>
@@ -79,9 +76,7 @@
               <span class="poppins-normal-gulf-blue-14px">Recommended</span>
             </div>
             <div class="manual poppins-normal-shuttle-gray-14px">
-              <a href="10.html">
-                <span class="poppins-normal-shuttle-gray-14px">Manual</span>
-              </a>
+              <span class="clickable-9 poppins-normal-shuttle-gray-14px">Manual</span>
             </div>
           </div>
         </div>
@@ -110,5 +105,15 @@
         </div>
       </div>
     </div>
+    <script>
+      window.onload = function() {
+        var uploadFilename = window.location.hash.substring(1);
+        document.getElementById("fileChip").innerHTML = uploadFilename;
+
+        document.getElementById("manual-9").addEventListener("click", function() {
+          window.location.href = '10.html' + '#' + uploadFilename;
+        });
+      };
+    </script>
   </body>
 </html>
