@@ -1,14 +1,3 @@
 #page_220_flow2 {
   width: 100%;
 }
-
-.clickable-model {
-  width: 250px;
-  height: 35px;
-  position: absolute;
-  top: 458px;
-  right: 93px;
-  z-index: 999;
-  border-radius: 15px;
-  cursor: pointer;
-}
