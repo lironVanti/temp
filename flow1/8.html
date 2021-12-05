@@ -264,9 +264,7 @@
         <div class="group-65-1">
           <div class="bottom-section">
             <!-- <img class="buttons-main-2" src="img/buttons-main-1@2x.svg" /> -->
-            <a href="9.html">
-              <img class="buttons-main-2" src="img/buttons-main-1@2x.svg"/>
-            </a>
+            <img id="continue-8" class="buttons-main-2" src="img/buttons-main-1@2x.svg"/>
             <p class="text-30 poppins-normal-shuttle-gray-10px">
               <span class="poppins-normal-shuttle-gray-10px">Need help? Check out out </span
               ><span class="span-1 poppins-normal-shuttle-gray-10px">FAQ</span
@@ -283,8 +281,8 @@
         var uploadFilename = window.location.hash.substring(1);
         document.getElementById("fileChip").innerText = uploadFilename;
 
-        document.getElementById("scrollToEnd").addEventListener("click", function() {
-          window.location.href = '8.html' + '#' + uploadFilename;
+        document.getElementById("continue-8").addEventListener("click", function() {
+          window.location.href = '9.html' + '#' + uploadFilename;
         });
       };
     </script>

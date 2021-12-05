@@ -171,6 +171,10 @@
   width: 220px;
 }
 
+.x10 .clickable-10 {
+  cursor: pointer;
+}
+
 .x10 .frame-1036 {
   align-items: flex-start;
   display: flex;
