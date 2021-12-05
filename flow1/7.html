@@ -82,9 +82,7 @@
           </div>
           <div class="uploaded-file-tag">
             <img class="close-search" src="img/close-search@2x.svg" />
-            <div class="text-55 valign-text-middle poppins-extra-light-oxford-blue-14px">
-              demomodelprojectdatafactor.xlsx
-            </div>
+            <div id="fileChip" class="text-55 valign-text-middle poppins-extra-light-oxford-blue-14px"></div>
           </div>
         </div>
         <div class="overlap-group20">
@@ -270,10 +268,7 @@
         </div>
         <div class="group-65-1">
           <div class="bottom-section">
-            <!-- <img class="buttons-main-2" src="img/buttons-main-4@2x.svg" /> -->
-            <a href="8.html">
-              <img class="buttons-main-2" src="img/buttons-main-1@2x.svg"/>
-            </a>
+            <img class="buttons-main-2" src="img/buttons-main-4@2x.svg" />
             <p class="text-53 poppins-normal-shuttle-gray-10px">
               <span class="poppins-normal-shuttle-gray-10px">Need help? Check out out </span
               ><span class="span-1 poppins-normal-shuttle-gray-10px">FAQ</span
@@ -285,5 +280,11 @@
         </div>
       </div>
     </div>
+    <script>
+      window.onload = function() {
+        var uploadFilename = window.location.hash.substring(1);
+        document.getElementById("fileChip").innerText = uploadFilename;
+      };
+    </script>
   </body>
 </html>
