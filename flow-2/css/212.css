@@ -106,18 +106,13 @@
   text-align: right;
 }
 
+/* Alert section */
 .x212 .group-1045 {
   align-items: flex-start;
   margin-top: 36px;
   min-width: 1622px;
-  z-index: 2;
   display: none;
-}
-
-.x212 .alertAnimation {
-  animation-name: alertAnimation;
-  animation-duration: 3s;
-  display: flex;
+  z-index: 2;
 }
 
 .x212 .overlap-group3 {
@@ -215,6 +210,7 @@
   width: 2px;
 }
 
+/* Section under the alert */
 .x212 .group-1126 {
   align-items: flex-start;
   display: flex;
@@ -222,7 +218,12 @@
   margin-top: 20px;
   position: relative;
   z-index: 3;
-  transition: 0.3s ease;
+}
+
+/* Added to the alert section after the body click */
+.x212 .alertAnimation {
+  display: flex;
+  animation: alertAnimation 1s;
 }
 
 .x212 .overlap-group-container {
@@ -1222,8 +1223,12 @@
 @keyframes alertAnimation {
   from {
     opacity: 0;
+    transform: translateY(-20px);
+    height: 0;
   }
   to {
     opacity: 1;
+    transform: translateY(0px);
+    height: 100%;
   }
 }
