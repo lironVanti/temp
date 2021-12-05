@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=1920, maximum-scale=1.0" />
     <title>Vanti Analytics</title>
-    <link rel="Vanti" type="image/ico" href="../favicon.ico"/>
+    <link rel="Vanti" type="image/ico" href="../favicon.ico" />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
     <link rel="stylesheet" type="text/css" href="css/10.css" />
@@ -16,7 +16,7 @@
     <div class="container-center-horizontal">
       <div class="x10 screen">
         <div class="header">
-          <img src="img/Group 2769.svg"/>
+          <img src="img/Group 2771.svg" />
         </div>
         <img class="close-large" src="img/close--large@2x.svg" />
         <div class="group-2734">
@@ -34,23 +34,46 @@
         <div class="overlap-group-container">
           <div class="overlap-group6">
             <div class="text-19 poppins-medium-oxford-blue-30px">
-              <span class="span">Configure </span><span class="span-1">Mode</span><span class="span-1">l a</span
+              <span class="span">Configure </span
+              ><span class="span-1">Mode</span><span class="span-1">l a</span
               ><span class="span"> Settings</span>
             </div>
-            <img class="uploaded-file-tag" src="img/uploaded-file-tag-2@2x.png" />
-            <img class="uploaded-file-tag-1" src="img/uploaded-file-tag@2x.png" />
-            <div class="text-23 valign-text-middle poppins-normal-oxford-blue-14px">
-              <span class="poppins-normal-oxford-blue-14px">Model Type: Supervised</span>
+            <img
+              class="uploaded-file-tag"
+              src="img/uploaded-file-tag-2@2x.png"
+            />
+            <img
+              class="uploaded-file-tag-1"
+              src="img/uploaded-file-tag@2x.png"
+            />
+            <div
+              class="text-23 valign-text-middle poppins-normal-oxford-blue-14px"
+            >
+              <span class="poppins-normal-oxford-blue-14px"
+                >Model Type: Supervised</span
+              >
             </div>
-            <div class="text-24 valign-text-middle poppins-normal-oxford-blue-14px">
-              <span class="poppins-normal-oxford-blue-14px">KPI Column: Results</span>
+            <div
+              class="text-24 valign-text-middle poppins-normal-oxford-blue-14px"
+            >
+              <span class="poppins-normal-oxford-blue-14px"
+                >KPI Column: Results</span
+              >
             </div>
-            <div class="text-25 valign-text-middle poppins-normal-oxford-blue-14px">
-              <span class="poppins-normal-oxford-blue-14px">File name: <span id="fileChip"></span></span>
+            <div
+              class="text-25 valign-text-middle poppins-normal-oxford-blue-14px"
+            >
+              <span class="poppins-normal-oxford-blue-14px"
+                >File name: <span id="fileChip"></span
+              ></span>
             </div>
           </div>
           <div class="buttons-main-container">
-              <img id="recommended-10" class="buttons-main clickable-10" src="img/buttons-main-27@2x.svg" />
+            <img
+              id="recommended-10"
+              class="buttons-main clickable-10"
+              src="img/buttons-main-27@2x.svg"
+            />
 
             <img class="buttons-main-1" src="img/buttons-main-28@2x.svg" />
           </div>
@@ -62,8 +85,8 @@
         <p class="text-22">
           <span class="poppins-normal-oxford-blue-14px">I</span
           ><span class="poppins-normal-oxford-blue-14px"
-            >f the false positive percentage is over 50% there is a higher tolerance for false positives in the
-            system.</span
+            >f the false positive percentage is over 50% there is a higher
+            tolerance for false positives in the system.</span
           >
         </p>
         <div class="group-container-1 border-1px-mystic">
@@ -114,10 +137,14 @@
           <div class="bottom-section">
             <img class="buttons-main-2" src="img/buttons-main-22@2x.svg" />
             <p class="text-18 poppins-normal-shuttle-gray-10px">
-              <span class="poppins-normal-shuttle-gray-10px">Need help? Check out out </span
+              <span class="poppins-normal-shuttle-gray-10px"
+                >Need help? Check out out </span
               ><span class="span-3 poppins-normal-shuttle-gray-10px">FAQ</span
-              ><span class="poppins-normal-shuttle-gray-10px"> or drop us a question at </span
-              ><span class="span-3 poppins-normal-shuttle-gray-10px">support@vanti-analytics.com</span>
+              ><span class="poppins-normal-shuttle-gray-10px">
+                or drop us a question at </span
+              ><span class="span-3 poppins-normal-shuttle-gray-10px"
+                >support@vanti-analytics.com</span
+              >
             </p>
           </div>
           <img class="line-1" src="img/line-1@1x.png" />
@@ -125,13 +152,15 @@
       </div>
     </div>
     <script>
-      window.onload = function() {
+      window.onload = function () {
         var uploadFilename = window.location.hash.substring(1);
         document.getElementById("fileChip").innerHTML = uploadFilename;
 
-        document.getElementById("recommended-10").addEventListener("click", function() {
-          window.location.href = '11.html' + '#' + uploadFilename;
-        });
+        document
+          .getElementById("recommended-10")
+          .addEventListener("click", function () {
+            window.location.href = "11.html" + "#" + uploadFilename;
+          });
       };
     </script>
   </body>
