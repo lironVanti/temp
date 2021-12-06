@@ -19,7 +19,7 @@
   width: 100vw;
   position: fixed;
   top: 0;
-  z-index: 6;
+  z-index: 999;
 }
 
 .x214 .group-container {
