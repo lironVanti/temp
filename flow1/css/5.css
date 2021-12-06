@@ -79,7 +79,7 @@
   border-radius: 4.5px;
   height: 9px;
   margin-left: 2px;
-  margin-top: 12.0px;
+  margin-top: 12px;
   width: 9px;
 }
 
@@ -98,7 +98,7 @@
 
 .x5 .overlap-group1 {
   height: 41px;
-  margin-bottom: 1.0px;
+  margin-bottom: 1px;
   margin-left: 8px;
   position: relative;
   width: 106px;
@@ -225,7 +225,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-right: 12.0px;
+  margin-right: 12px;
   margin-top: 37px;
   min-height: 122px;
   padding: 4px 0;
@@ -301,15 +301,15 @@
   height: 24px;
   left: 871px;
   min-width: 24px;
-  padding: 5.0px 6.1px;
+  padding: 5px 6.1px;
   position: absolute;
   top: 20px;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
 }
 
 .x5 .path-3 {
   height: 12px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
   width: 8px;
 }
 
@@ -317,7 +317,7 @@
   align-items: flex-start;
   display: flex;
   height: 37px;
-  margin-left: 11.0px;
+  margin-left: 11px;
   margin-top: 69px;
   min-width: 927px;
   z-index: 3;
@@ -341,7 +341,7 @@
   height: 16px;
   left: 174px;
   position: absolute;
-  top: 11px;
+  top: 5px;
   width: 16px;
 }
 
@@ -397,7 +397,7 @@
 .x5 .mask-group {
   align-self: center;
   height: 78px;
-  margin-right: 5.0px;
+  margin-right: 5px;
   margin-top: 14px;
   width: 194px;
 }
@@ -420,14 +420,14 @@
   min-width: 34px;
   position: absolute;
   top: 2px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
 }
 
 .x5 .vector {
   height: 22px;
   margin-left: -1px;
   margin-top: -1px;
-  transform: rotate(180.00deg);
+  transform: rotate(180deg);
   width: 22px;
 }
 
@@ -449,7 +449,7 @@
   flex-direction: column;
   margin-left: 40px;
   min-height: 180px;
-  padding: 2.0px 11.0px;
+  padding: 2px 11px;
   width: 279px;
 }
 
@@ -458,7 +458,7 @@
   display: flex;
   height: 34px;
   min-width: 34px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
 }
 
 .x5 .image-45 {
@@ -485,13 +485,13 @@
   display: flex;
   height: 180px;
   min-width: 279px;
-  padding: 5.0px 11.0px;
+  padding: 5px 11px;
 }
 
 .x5 .image-46 {
   align-self: center;
   height: 86px;
-  margin-bottom: 32.0px;
+  margin-bottom: 32px;
   margin-left: 12px;
   object-fit: cover;
   width: 165px;
@@ -506,13 +506,13 @@
   height: 180px;
   margin-left: 40px;
   min-width: 278px;
-  padding: 5.0px 11.0px;
+  padding: 5px 11px;
 }
 
 .x5 .image-47 {
   align-self: center;
   height: 77px;
-  margin-bottom: 21.0px;
+  margin-bottom: 21px;
   margin-left: 19px;
   object-fit: cover;
   width: 150px;
@@ -527,7 +527,7 @@
   flex-direction: column;
   margin-left: 40px;
   min-height: 180px;
-  padding: 5.0px 11.0px;
+  padding: 5px 11px;
   width: 279px;
 }
 
@@ -562,7 +562,7 @@
 .x5 .buttons-main-2 {
   align-self: center;
   height: 34px;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: -34px;
   width: 200px;
 }

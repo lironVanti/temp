@@ -73,7 +73,7 @@
   border-radius: 4.5px;
   height: 9px;
   margin-left: 2px;
-  margin-top: 12.0px;
+  margin-top: 12px;
   width: 9px;
 }
 
@@ -92,7 +92,7 @@
 
 .x8 .overlap-group1 {
   height: 41px;
-  margin-bottom: 1.0px;
+  margin-bottom: 1px;
   margin-left: 8px;
   position: relative;
   width: 106px;
@@ -215,7 +215,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 13.0px;
+  margin-left: 13px;
   margin-top: 47px;
   min-height: 261px;
   width: 933px;
@@ -256,7 +256,7 @@
   height: 16px;
   left: 174px;
   position: absolute;
-  top: 11px;
+  top: 5px;
   width: 16px;
 }
 
@@ -298,7 +298,7 @@
   margin-left: 2px;
   margin-top: 43px;
   min-width: 916px;
-  padding: 30px 95.0px;
+  padding: 30px 95px;
 }
 
 .x8 .overlap-group-3 {
@@ -363,7 +363,7 @@
 
 .x8 .overlap-group21 {
   height: 437px;
-  margin-right: 17.0px;
+  margin-right: 17px;
   margin-top: 41px;
   position: relative;
   width: 977px;
@@ -400,8 +400,7 @@
 
 .x8 .group-1 {
   height: 16px;
-  margin-left: 8px;
-  margin-top: 4.0px;
+  margin-top: -7.4px;
   width: 16px;
 }
 
@@ -420,7 +419,7 @@
   flex-direction: column;
   left: 0;
   min-height: 398px;
-  padding: 0 21.0px;
+  padding: 0 21px;
   position: absolute;
   top: 39px;
   width: 977px;
@@ -498,12 +497,12 @@
   display: flex;
   margin-left: 596px;
   min-width: 120px;
-  padding: 0.0px 0;
+  padding: 0px 0;
 }
 
 .x8 .scroll-to-end {
   letter-spacing: 0;
-  margin-top: 1.0px;
+  margin-top: 1px;
   min-height: 21px;
   text-decoration: underline;
   width: 88px;
@@ -517,13 +516,13 @@
   height: 24px;
   margin-left: 6px;
   min-width: 24px;
-  padding: 5.0px 6.1px;
-  transform: rotate(180.00deg);
+  padding: 5px 6.1px;
+  transform: rotate(180deg);
 }
 
 .x8 .path-3 {
   height: 12px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
   width: 8px;
 }
 
@@ -597,7 +596,7 @@
   left: 84px;
   position: absolute;
   top: -84px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -656,7 +655,7 @@
   height: 172px;
   margin-bottom: 0;
   margin-left: 18px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -713,7 +712,7 @@
   height: 172px;
   margin-bottom: 0;
   margin-left: 28px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -784,7 +783,7 @@
   left: 84px;
   position: absolute;
   top: 7px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -880,7 +879,7 @@
   height: 172px;
   margin-bottom: 0;
   margin-left: 27px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -908,7 +907,7 @@
   display: flex;
   flex-direction: column;
   margin-left: 18px;
-  margin-top: 9.0px;
+  margin-top: 9px;
   min-height: 185px;
   width: 50px;
 }
@@ -961,7 +960,7 @@
 .x8 .rectangle-7 {
   background-color: var(--gray-nurse);
   height: 172px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -969,7 +968,7 @@
   background-color: var(--gray-nurse);
   height: 172px;
   margin-top: 36px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -1025,7 +1024,7 @@
   background-color: var(--gray-nurse);
   height: 172px;
   margin-bottom: 0;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 3px;
 }
 
@@ -1121,7 +1120,7 @@
   font-size: 13px;
   font-weight: 400;
   letter-spacing: 0;
-  margin-right: 17.0px;
+  margin-right: 17px;
   margin-top: 13px;
   min-height: 20px;
   text-align: center;
@@ -1143,10 +1142,10 @@
   border-radius: 14px;
   display: flex;
   height: 20px;
-  margin-left: 144.0px;
+  margin-left: 144px;
   margin-top: 858px;
   min-width: 20px;
-  padding: 2.0px 7.0px;
+  padding: 2px 7px;
 }
 
 .x8 .vector-1 {
@@ -1186,7 +1185,7 @@
 .x8 .buttons-main-2 {
   align-self: center;
   height: 34px;
-  margin-right: 1.0px;
+  margin-right: 1px;
   margin-top: -44px;
   width: 200px;
   cursor: pointer;
