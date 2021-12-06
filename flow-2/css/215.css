@@ -1232,7 +1232,7 @@
   align-self: center;
   height: 18px;
   margin-bottom: 1px;
-  margin-left: 77px;
+  margin-left: 70px;
   width: 18px;
 }
 
@@ -1260,14 +1260,14 @@
   display: flex;
   height: 31px;
   min-width: 197px;
-  padding: 2px 12px;
+  padding: 6px 12px 6px 1px;
 }
 
 .x215 .text-4 {
   letter-spacing: 0;
   min-height: 26px;
   min-width: 78px;
-  width: 80px;
+  width: 110px;
 }
 
 .x215 .line-1 {

@@ -888,7 +888,7 @@
   display: flex;
   height: 31px;
   min-width: 197px;
-  padding: 2px 12px;
+  padding: 6px 0px;
 }
 
 .x214 .text-3 {
@@ -1137,6 +1137,7 @@
 }
 
 .x214 .improvement-possibil {
+  margin-top: 4px;
   letter-spacing: 0;
   min-height: 20px;
   min-width: 44px;
